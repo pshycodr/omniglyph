@@ -1,0 +1,11 @@
+[project]
+name = "gjs-example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "rapidfuzz>=3.14.5",
+    "nuitka>=2.8.10",
+    "pygobject>=3.54.5",
+]
