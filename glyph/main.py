@@ -2,29 +2,31 @@ import gi
 
 gi.require_version("Gtk", "4.0")
 gi.require_version("Adw", "1")
+gi.require_version("Gtk4LayerShell", "1.0")
 
 from gi.repository import Gtk, Adw
+from gi.repository import Gtk4LayerShell
+
+
 import os
-from window import *
 from ui import *
+
 
 class AppWindow(Adw.ApplicationWindow):
     def __init__(self, app):
         super().__init__(application=app)
 
-        self.main_box = Gtk.Box(
-            orientation=Gtk.Orientation.VERTICAL
-        )
+        self.main_box = Gtk.Box(orientation=Gtk.Orientation.VERTICAL)
 
         self._setup_overlay_window()
         self._add_escape_close()
         self._build_layout()
-        
+
         self.char_view = CharView(self)
         self.main_box.append(self.char_view)
 
     def _setup_overlay_window(self):
-        is_wayland = (os.environ.get("XDG_SESSION_TYPE") == "wayland")
+        is_wayland = os.environ.get("XDG_SESSION_TYPE") == "wayland"
 
         if not is_wayland:
             return
@@ -35,7 +37,7 @@ class AppWindow(Adw.ApplicationWindow):
         Gtk4LayerShell.init_for_window(self)
 
         Gtk4LayerShell.set_layer(
-           self,
+            self,
             Gtk4LayerShell.Layer.OVERLAY,
         )
 
@@ -69,10 +71,8 @@ class AppWindow(Adw.ApplicationWindow):
         )
 
     def _build_layout(self):
-
         self.set_title("OmniGlyph")
         self.set_default_size(450, 600)
-
 
         self.main_box.set_spacing(10)
 
@@ -81,7 +81,7 @@ class AppWindow(Adw.ApplicationWindow):
         header_bar = AppHeader()
         self.main_box.append(header_bar)
 
-        box = Gtk.Box( orientation=Gtk.Orientation.VERTICAL )
+        box = Gtk.Box(orientation=Gtk.Orientation.VERTICAL)
 
         box.set_margin_top(24)
         box.set_margin_bottom(24)
@@ -96,7 +96,6 @@ class AppWindow(Adw.ApplicationWindow):
         box.append(search)
 
         self.main_box.append(box)
-
 
     def _add_escape_close(self):
         controller = Gtk.EventControllerKey()
@@ -119,9 +118,7 @@ class AppWindow(Adw.ApplicationWindow):
 
 class MyApp(Adw.Application):
     def __init__(self):
-        super().__init__(
-            application_id="dev.anishroy.glyph"
-        )
+        super().__init__(application_id="dev.anishroy.glyph")
 
     def do_activate(self):
         window = AppWindow(self)

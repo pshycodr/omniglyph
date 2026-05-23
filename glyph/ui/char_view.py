@@ -59,13 +59,11 @@ class CharView(Gtk.ScrolledWindow):
         self.box.append(self.scroll)
 
     def _load_database(self):
-
         self.entries = CollectionLoader().LoadEmojis()
 
         category_counts = {}
 
         for entry in self.entries:
-
             tags = " ".join(entry.get("tags", []))
 
             aliases = " ".join(entry.get("aliases", []))
@@ -73,11 +71,11 @@ class CharView(Gtk.ScrolledWindow):
             metadata = " ".join([str(v) for v in entry.get("metadata", {}).values()])
 
             entry["search_text"] = (
-                f'{entry.get("name", "")} '
+                f"{entry.get('name', '')} "
                 f"{tags} "
                 f"{aliases} "
-                f'{entry.get("category", "")} '
-                f'{entry.get("subcategory", "")} '
+                f"{entry.get('category', '')} "
+                f"{entry.get('subcategory', '')} "
                 f"{metadata}"
             ).lower()
 
@@ -111,21 +109,20 @@ class CharView(Gtk.ScrolledWindow):
         char_label = Gtk.Label()
 
         char_label.set_markup(
-            f"<span font='24'>" f"{GLib.markup_escape_text(symbol)}" f"</span>"
+            f"<span font='24'>{GLib.markup_escape_text(symbol)}</span>"
         )
 
         box.append(char_label)
 
         button.set_child(box)
 
-        tooltip = f'{entry.get("name", "")}\n'
+        tooltip = f"{entry.get('name', '')}\n"
 
         button.set_tooltip_text(tooltip)
 
         self.grid.append(button)
 
     def _on_symbol_clicked(self, button, symbol):
-
         clipboard = Gdk.Display.get_default().get_clipboard()
 
         clipboard.set_text(symbol)

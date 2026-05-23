@@ -8,4 +8,15 @@ dependencies = [
     "rapidfuzz>=3.14.5",
     "nuitka>=2.8.10",
     "pygobject>=3.54.5",
+    "ruff>=0.15.14",
+    "pre-commit>=4.6.0",
 ]
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I"]
+
+ignore = ["E402"]
