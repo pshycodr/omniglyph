@@ -59,17 +59,6 @@ class CharView(Gtk.Box):
             .category-pill:checked {
                 background-color: alpha(currentColor, 0.15);
             }
-            scrollbar,
-            scrollbar slider,
-            scrollbar trough {
-                opacity: 0;
-                min-width: 0;
-                min-height: 0;
-                background: none;
-                border: none;
-                padding: 0;
-                margin: 0;
-            }
         """)
         Gtk.StyleContext.add_provider_for_display(
             Gdk.Display.get_default(),

@@ -97,7 +97,7 @@ class AppWindow(Adw.ApplicationWindow):
 
         self.set_default_size(
             450,
-            600,
+            500,
         )
 
         self.main_box.set_spacing(0)
