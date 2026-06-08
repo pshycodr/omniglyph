@@ -39,7 +39,7 @@ sudo install -Dm644 \
 
 sudo install -Dm644 \
     "$TMPDIR/omniglyph.png" \
-    /usr/local/share/icons/hicolor/256x256/apps/omniglyph.png
+    /usr/local/share/icons/hicolor/256x256/apps/dev.anishroy.omniglyph.png
 
 sudo gtk-update-icon-cache \
     -f /usr/local/share/icons/hicolor || true
