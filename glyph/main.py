@@ -19,6 +19,8 @@ class AppWindow(Adw.ApplicationWindow):
 
         self.main_box = Gtk.Box(orientation=Gtk.Orientation.VERTICAL)
 
+        setup_actions(self)
+
         self._setup_overlay_window()
 
         self.char_view = CharView(self)
