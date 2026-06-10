@@ -9,19 +9,6 @@ from db.loader import CollectionLoader
 BATCH_SIZE = 30
 SCROLL_THRESHOLD = 0.85
 
-CATEGORY_ICONS = {
-    "Smileys & Emotion": "😀",
-    "People & Body": "🧑",
-    "Animals & Nature": "🐶",
-    "Food & Drink": "🍕",
-    "Travel & Places": "✈️",
-    "Activities": "⚽",
-    "Objects": "💡",
-    "Symbols": "🔣",
-    "Flags": "🏳️",
-    "Component": "🔧",
-}
-
 
 class CharView(Gtk.Box):
     def __init__(self, parent):
@@ -51,7 +38,7 @@ class CharView(Gtk.Box):
         seen_categories = []
         category_counts = {}
 
-        for entry in self.entries:
+        for entry in self.entries["symbols"]:
             tags = " ".join(entry.get("tags", []))
             aliases = " ".join(entry.get("aliases", []))
             metadata = " ".join([str(v) for v in entry.get("metadata", {}).values()])
@@ -72,9 +59,9 @@ class CharView(Gtk.Box):
 
             category_counts[category] = category_counts.get(category, 0) + 1
 
-        self.categories = seen_categories
+        self.categories = self.entries["categories"]
         self.category_counts = category_counts
-        self.filtered_entries = list(self.entries)
+        self.filtered_entries = list(self.entries["symbols"])
 
     def _build_category_bar(self):
         scroll = Gtk.ScrolledWindow()
@@ -98,14 +85,17 @@ class CharView(Gtk.Box):
         self.category_buttons[None] = all_btn
 
         for category in self.categories:
-            icon = CATEGORY_ICONS.get(category, "•")
+            category_name = category["name"]
+            category_icon = category["icon"]
+
             btn = Gtk.ToggleButton()
-            btn.set_label(icon)
-            btn.set_tooltip_text(category)
+            btn.set_label(category_icon)
+            btn.set_tooltip_text(category_name)
             btn.add_css_class("category-pill")
-            btn.connect("toggled", self._on_category_toggled, category)
+            btn.connect("toggled", self._on_category_toggled, category_name)
             bar.append(btn)
-            self.category_buttons[category] = btn
+
+            self.category_buttons[category_name] = btn
 
         scroll.set_child(bar)
         self.append(scroll)
@@ -159,9 +149,11 @@ class CharView(Gtk.Box):
 
         self.search_active = bool(text)
 
+        symbols = self.entries["symbols"]
+
         if text:
             self.filtered_entries = [
-                e for e in self.entries if text in e["search_text"]
+                entry for entry in symbols if text in entry["search_text"]
             ]
         else:
             self._apply_filter()
@@ -170,12 +162,16 @@ class CharView(Gtk.Box):
         self._refresh_grid()
 
     def _apply_filter(self):
+        symbols = self.entries["symbols"]
+
         if self.active_category:
             self.filtered_entries = [
-                e for e in self.entries if e.get("category") == self.active_category
+                entry
+                for entry in symbols
+                if entry.get("category") == self.active_category
             ]
         else:
-            self.filtered_entries = list(self.entries)
+            self.filtered_entries = list(symbols)
 
         self._refresh_grid()
 
