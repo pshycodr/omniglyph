@@ -33,6 +33,7 @@ nuitka \
     --include-package=gi \
     --include-package=gi.repository \
     --include-data-dir=glyph/db/collections=db/collections \
+    --include-package-data=styles \
     --assume-yes-for-downloads \
     --output-dir=out \
     --output-filename=omniglyph.bin \
