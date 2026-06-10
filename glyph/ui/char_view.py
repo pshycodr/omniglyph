@@ -40,31 +40,10 @@ class CharView(Gtk.Box):
         self._ignore_toggle = False
 
         self._load_database()
-        self._inject_css()
         self._build_category_bar()
         self._build_scroll_area()
 
         self._refresh_grid()
-
-    def _inject_css(self):
-        css = Gtk.CssProvider()
-        css.load_from_string("""
-            .category-pill {
-                padding: 4px 10px;
-                border-radius: 20px;
-                font-size: 14px;
-                min-width: 0;
-                min-height: 0;
-            }
-            .category-pill:checked {
-                background-color: alpha(currentColor, 0.15);
-            }
-        """)
-        Gtk.StyleContext.add_provider_for_display(
-            Gdk.Display.get_default(),
-            css,
-            Gtk.STYLE_PROVIDER_PRIORITY_APPLICATION,
-        )
 
     def _load_database(self):
         self.entries = CollectionLoader().LoadEmojis()
@@ -293,7 +272,8 @@ class CharView(Gtk.Box):
         symbol = entry.get("symbol", "")
 
         button = Gtk.Button()
-        button.set_size_request(72, 72)
+        button.add_css_class("symbol-button")
+        button.set_size_request(60, 60)
         button.connect("clicked", self._on_symbol_clicked, symbol)
 
         box = Gtk.Box(orientation=Gtk.Orientation.VERTICAL, spacing=4)
@@ -325,7 +305,7 @@ class CharView(Gtk.Box):
         GLib.timeout_add(100, self.close_window)
 
     def close_window(self):
-        self.parent.close()
+        self.parent.hide()
         return False
 
     def _on_scroll(self, adjustment):

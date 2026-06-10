@@ -1,0 +1,66 @@
+/*
+You can type here any CSS rule recognized by GTK.
+You can temporarily disable this custom CSS by toggling the switch above.
+
+Changes are applied instantly and globally, for the whole application.
+*/
+
+/*
+window {
+    background-color: alpha(#1e1e2e, 0.7);
+}
+ */
+
+.category-pill {
+    padding: 6px 12px;
+    border-radius: 999px;
+
+    background: transparent;
+    background-image: none;
+
+    color: inherit;
+
+    border: 1px solid transparent;
+
+    box-shadow: none;
+
+    transition:
+        background-color 150ms ease,
+        border-color 150ms ease;
+}
+
+.category-pill:hover {
+    background-color: alpha(currentColor, 0.08);
+    border-color: alpha(currentColor, 0.15);
+}
+
+.category-pill:active {
+    background-color: alpha(currentColor, 0.12);
+}
+
+.category-pill:checked {
+    background-color: alpha(currentColor, 0.15);
+    border-color: alpha(currentColor, 0.25);
+}
+
+.category-pill:checked:hover {
+    background-color: alpha(currentColor, 0.20);
+}
+
+.symbol-button {
+    background: transparent;
+    background-image: none;
+    border: none;
+    box-shadow: none;
+    border-radius: 12px;
+    padding: 0;
+    margin: 0;
+}
+
+.symbol-button:hover {
+    background-color: alpha(currentColor, 0.08);
+}
+
+.symbol-button:active {
+    background-color: alpha(currentColor, 0.12);
+}
