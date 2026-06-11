@@ -3,7 +3,7 @@
 
 ### A fast emoji and Unicode symbol picker for Linux built with GTK4 and Python.
 
-Browse, search, and copy emojis and Unicode symbols from a lightweight overlay window.
+Browse, search, and copy emojis, symbols, emoticons, arrows, currency signs, mathematical symbols, and more from a lightweight overlay window.
 
 ---
 
@@ -22,15 +22,19 @@ Browse, search, and copy emojis and Unicode symbols from a lightweight overlay w
 
 ## Features
 
-- Fast emoji and Unicode symbol search
-- Category filtering
-- Keyboard-first workflow
-- Instant clipboard copy
-- Lightweight overlay window
-- GTK4 + Libadwaita UI
-- Standalone binary builds via Nuitka
-
-
+* Fast emoji and Unicode symbol search
+* Search by name, keywords, aliases, and Unicode values
+* Sidebar navigation for multiple built-in collections
+  * Emojis
+  * Emoticons
+  * Arrows
+  * Mathematical symbols
+  * Currency symbols
+  * Special symbols
+  * Hieroglyphs
+* Category and subcategory browsing
+* Instant clipboard copy
+* Collection selection from the command line
 
 ## Installation
 
@@ -48,10 +52,22 @@ OR
 curl -fsSL https://raw.githubusercontent.com/pshycodr/omniglyph/main/scripts/install.sh | bash
 ```
 
-### Launch
+## Launch
 
 ```bash
 omniglyph
+```
+
+### Open a Specific Collection
+
+```bash
+omniglyph --emoji
+omniglyph --emoticons
+omniglyph --arrows
+omniglyph --math
+omniglyph --currency
+omniglyph --special
+omniglyph --hieroglyphs
 ```
 
 ## Building from Source
@@ -96,7 +112,6 @@ out/omniglyph.bin
 * uv
 * PyGObject
 * Nuitka
-
 
 ## Contributing
 
