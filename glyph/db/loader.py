@@ -1,16 +1,36 @@
+from pathlib import Path
 import json
-import os
-from os import path
 
 
 class CollectionLoader:
     def __init__(self):
-        self.emojis = []
-        self.collection_path = path.join(os.path.dirname(__file__), "collections")
+        self.collection_path = Path(__file__).resolve().parent / "collections"
+
+    def _load(self, filename):
+        with open(
+            self.collection_path / filename,
+            "r",
+            encoding="utf-8",
+        ) as f:
+            return json.load(f)
 
     def LoadEmojis(self):
-        with open(
-            path.join(self.collection_path, "emojis.json"), "r", encoding="utf-8"
-        ) as f:
-            self.emojis = json.load(f)
-            return self.emojis
+        return self._load("emojis.json")
+
+    def LoadEmoticons(self):
+        return self._load("emoticons.json")
+
+    def LoadSpecialSymbols(self):
+        return self._load("special_symbols.json")
+
+    def LoadCurrency(self):
+        return self._load("currency.json")
+
+    def LoadMathSymbols(self):
+        return self._load("math.json")
+
+    def LoadArrows(self):
+        return self._load("arrows.json")
+
+    def LoadHieroglyphs(self):
+        return self._load("hieroglyphs.json")

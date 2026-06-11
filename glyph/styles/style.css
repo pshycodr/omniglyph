@@ -1,17 +1,10 @@
 /*
-You can type here any CSS rule recognized by GTK.
-You can temporarily disable this custom CSS by toggling the switch above.
-
-Changes are applied instantly and globally, for the whole application.
-*/
-
-/*
 window {
     background-color: alpha(#1e1e2e, 0.7);
 }
  */
 
-.category-pill {
+.category-pill, .sidebar-item {
     padding: 6px 12px;
     border-radius: 999px;
 
@@ -29,21 +22,21 @@ window {
         border-color 150ms ease;
 }
 
-.category-pill:hover {
+.category-pill:hover, .sidebar-item:hover {
     background-color: alpha(currentColor, 0.08);
     border-color: alpha(currentColor, 0.15);
 }
 
-.category-pill:active {
+.category-pill:active, .sidebar-item:active {
     background-color: alpha(currentColor, 0.12);
 }
 
-.category-pill:checked {
+.category-pill:checked, .sidebar-item:checked {
     background-color: alpha(currentColor, 0.15);
     border-color: alpha(currentColor, 0.25);
 }
 
-.category-pill:checked:hover {
+.category-pill:checked:hover , .sidebar-item:checked:hover {
     background-color: alpha(currentColor, 0.20);
 }
 
@@ -63,4 +56,28 @@ window {
 
 .symbol-button:active {
     background-color: alpha(currentColor, 0.12);
+}
+
+
+.side-bar-button{
+    border-radius: 12px;
+    margin-left: 5px;
+}
+
+.sidebar-item{
+    background-color: alpha(#1e1e2e, 0.7);
+
+}
+
+
+.sidebar-panel {
+    background-color: alpha(currentColor, 0.40);
+    border-left: 1px solid alpha(currentColor, 0.08);
+    box-shadow: -6px 0 20px alpha(black, 0.4);
+}
+
+.sidebar-item {
+    border-radius: 10px;
+    background-color: transparent;
+    padding: 6px 10px;
 }

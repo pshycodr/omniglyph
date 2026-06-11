@@ -120,9 +120,12 @@ class AppWindow(Adw.ApplicationWindow):
 
         self.main_box.set_spacing(0)
 
-        self.set_content(self.main_box)
+        self.root_overlay = Gtk.Overlay()
+        self.root_overlay.set_child(self.main_box)
 
-        search_box = Gtk.Box(orientation=Gtk.Orientation.VERTICAL)
+        self.set_content(self.root_overlay)
+
+        search_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL)
 
         search_box.set_margin_top(12)
         search_box.set_margin_bottom(8)
@@ -135,12 +138,20 @@ class AppWindow(Adw.ApplicationWindow):
 
         self.search.set_halign(Gtk.Align.FILL)
 
-        search_box.append(self.search)
+        side_bar_button = Gtk.Button()
+        side_bar_button.set_icon_name("open-menu-symbolic")
+        side_bar_button.set_valign(Gtk.Align.START)
+        side_bar_button.set_tooltip_text("Open sidebar")
+        side_bar_button.set_margin_start(6)
 
-        self.side_bar = CreateSideBar().create_side_bar()
-        # self.main_box.append(self.side_bar)
+        side_bar_button.connect("clicked", lambda _: self.char_view.toggle_side_bar())
+
+        search_box.append(self.search)
+        search_box.append(side_bar_button)
 
         self.main_box.append(search_box)
+
+        self.root_overlay.add_overlay(self.char_view.side_bar)
 
     def _setup_keyboard_shortcuts(self):
         controller = Gtk.EventControllerKey()

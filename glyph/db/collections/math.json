@@ -1,0 +1,7543 @@
+{
+"categories": [
+    {
+      "name": "Arithmetic",
+      "icon": "+"
+    },
+    {
+      "name": "Comparison",
+      "icon": "≟"
+    },
+    {
+      "name": "Logic",
+      "icon": "⊨"
+    },
+    {
+      "name": "Mathematics",
+      "icon": "𝑓"
+    },
+    {
+      "name": "Superscripts",
+      "icon": "ⁿ"
+    },
+    {
+      "name": "Calculus",
+      "icon": "∫"
+    },
+    {
+      "name": "Constants",
+      "icon": "π"
+    },
+    {
+      "name": "Geometry",
+      "icon": "△"
+    },
+    {
+      "name": "Set Theory",
+      "icon": "∈"
+    },
+    {
+      "name": "Subscripts",
+      "icon": "ₙ"
+    }
+  ],
+  "symbols": [
+    {
+      "id": "plus-sign",
+      "type": "math",
+      "symbol": "+",
+      "unicode": [
+        "U+002B"
+      ],
+      "name": "Plus Sign",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "addition",
+        "arithmetic",
+        "math",
+        "mathematics",
+        "operator",
+        "plus",
+        "positive",
+        "sign",
+        "sum",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "multiplication-sign",
+      "type": "math",
+      "symbol": "×",
+      "unicode": [
+        "U+00D7"
+      ],
+      "name": "Multiplication Sign",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "math",
+        "mathematics",
+        "multiplication",
+        "operator",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "division-sign",
+      "type": "math",
+      "symbol": "÷",
+      "unicode": [
+        "U+00F7"
+      ],
+      "name": "Division Sign",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "division",
+        "math",
+        "mathematics",
+        "operator",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "plus-minus-sign",
+      "type": "math",
+      "symbol": "±",
+      "unicode": [
+        "U+00B1"
+      ],
+      "name": "Plus-Minus Sign",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "add",
+        "arithmetic",
+        "math",
+        "mathematics",
+        "minus",
+        "negative",
+        "operator",
+        "plus",
+        "positive",
+        "sign",
+        "subtract",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "minus-or-plus-sign",
+      "type": "math",
+      "symbol": "∓",
+      "unicode": [
+        "U+2213"
+      ],
+      "name": "Minus-Or-Plus Sign",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "add",
+        "arithmetic",
+        "math",
+        "mathematics",
+        "minus",
+        "negative",
+        "operator",
+        "or",
+        "plus",
+        "positive",
+        "sign",
+        "subtract",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "dot-plus",
+      "type": "math",
+      "symbol": "∔",
+      "unicode": [
+        "U+2214"
+      ],
+      "name": "Dot Plus",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "add",
+        "arithmetic",
+        "dot",
+        "math",
+        "mathematics",
+        "operator",
+        "plus",
+        "positive",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "division-slash",
+      "type": "math",
+      "symbol": "∕",
+      "unicode": [
+        "U+2215"
+      ],
+      "name": "Division Slash",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "division",
+        "math",
+        "mathematics",
+        "operator",
+        "slash",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "set-minus",
+      "type": "math",
+      "symbol": "∖",
+      "unicode": [
+        "U+2216"
+      ],
+      "name": "Set Minus",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "math",
+        "mathematics",
+        "minus",
+        "negative",
+        "operator",
+        "set",
+        "subtract",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "square-root",
+      "type": "math",
+      "symbol": "√",
+      "unicode": [
+        "U+221A"
+      ],
+      "name": "Square Root",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "math",
+        "mathematics",
+        "operator",
+        "root",
+        "square",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "dot-minus",
+      "type": "math",
+      "symbol": "∸",
+      "unicode": [
+        "U+2238"
+      ],
+      "name": "Dot Minus",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "dot",
+        "math",
+        "mathematics",
+        "minus",
+        "negative",
+        "operator",
+        "subtract",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "minus-tilde",
+      "type": "math",
+      "symbol": "≂",
+      "unicode": [
+        "U+2242"
+      ],
+      "name": "Minus Tilde",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "math",
+        "mathematics",
+        "minus",
+        "negative",
+        "operator",
+        "subtract",
+        "symbol",
+        "tilde",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "multiset-multiplication",
+      "type": "math",
+      "symbol": "⊍",
+      "unicode": [
+        "U+228D"
+      ],
+      "name": "Multiset Multiplication",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "math",
+        "mathematics",
+        "multiplication",
+        "multiset",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "circled-plus",
+      "type": "math",
+      "symbol": "⊕",
+      "unicode": [
+        "U+2295"
+      ],
+      "name": "Circled Plus",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "add",
+        "arithmetic",
+        "circled",
+        "math",
+        "mathematics",
+        "operator",
+        "plus",
+        "positive",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "circled-minus",
+      "type": "math",
+      "symbol": "⊖",
+      "unicode": [
+        "U+2296"
+      ],
+      "name": "Circled Minus",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "circled",
+        "math",
+        "mathematics",
+        "minus",
+        "negative",
+        "operator",
+        "subtract",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "circled-division-slash",
+      "type": "math",
+      "symbol": "⊘",
+      "unicode": [
+        "U+2298"
+      ],
+      "name": "Circled Division Slash",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "circled",
+        "division",
+        "math",
+        "mathematics",
+        "operator",
+        "slash",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "squared-plus",
+      "type": "math",
+      "symbol": "⊞",
+      "unicode": [
+        "U+229E"
+      ],
+      "name": "Squared Plus",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "add",
+        "arithmetic",
+        "math",
+        "mathematics",
+        "operator",
+        "plus",
+        "positive",
+        "squared",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "squared-minus",
+      "type": "math",
+      "symbol": "⊟",
+      "unicode": [
+        "U+229F"
+      ],
+      "name": "Squared Minus",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "math",
+        "mathematics",
+        "minus",
+        "negative",
+        "operator",
+        "squared",
+        "subtract",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "division-times",
+      "type": "math",
+      "symbol": "⋇",
+      "unicode": [
+        "U+22C7"
+      ],
+      "name": "Division Times",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "division",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "times",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-plus-sign",
+      "type": "math",
+      "symbol": "⁺",
+      "unicode": [
+        "U+207A"
+      ],
+      "name": "Superscript Plus Sign",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "add",
+        "arithmetic",
+        "math",
+        "mathematics",
+        "operator",
+        "plus",
+        "positive",
+        "sign",
+        "superscript",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-minus",
+      "type": "math",
+      "symbol": "⁻",
+      "unicode": [
+        "U+207B"
+      ],
+      "name": "Superscript Minus",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "math",
+        "mathematics",
+        "minus",
+        "negative",
+        "operator",
+        "subtract",
+        "superscript",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-plus-sign",
+      "type": "math",
+      "symbol": "₊",
+      "unicode": [
+        "U+208A"
+      ],
+      "name": "Subscript Plus Sign",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "add",
+        "arithmetic",
+        "math",
+        "mathematics",
+        "operator",
+        "plus",
+        "positive",
+        "sign",
+        "subscript",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-minus",
+      "type": "math",
+      "symbol": "₋",
+      "unicode": [
+        "U+208B"
+      ],
+      "name": "Subscript Minus",
+      "aliases": [],
+      "category": "Arithmetic",
+      "subcategory": null,
+      "tags": [
+        "arithmetic",
+        "math",
+        "mathematics",
+        "minus",
+        "negative",
+        "operator",
+        "subscript",
+        "subtract",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "equals-sign",
+      "type": "math",
+      "symbol": "=",
+      "unicode": [
+        "U+003D"
+      ],
+      "name": "Equals Sign",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equals",
+        "math",
+        "mathematics",
+        "operator",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-equal-to",
+      "type": "math",
+      "symbol": "≠",
+      "unicode": [
+        "U+2260"
+      ],
+      "name": "Not Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "less-than-sign",
+      "type": "math",
+      "symbol": "<",
+      "unicode": [
+        "U+003C"
+      ],
+      "name": "Less-Than Sign",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "less",
+        "math",
+        "mathematics",
+        "operator",
+        "sign",
+        "symbol",
+        "than",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "greater-than-sign",
+      "type": "math",
+      "symbol": ">",
+      "unicode": [
+        "U+003E"
+      ],
+      "name": "Greater-Than Sign",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "greater",
+        "math",
+        "mathematics",
+        "operator",
+        "sign",
+        "symbol",
+        "than",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "equal-to-or-less-than",
+      "type": "math",
+      "symbol": "⋜",
+      "unicode": [
+        "U+22DC"
+      ],
+      "name": "Equal To Or Less-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "less",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "same",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "equal-to-or-greater-than",
+      "type": "math",
+      "symbol": "⋝",
+      "unicode": [
+        "U+22DD"
+      ],
+      "name": "Equal To Or Greater-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "greater",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "same",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "asymptotically-equal-to",
+      "type": "math",
+      "symbol": "≃",
+      "unicode": [
+        "U+2243"
+      ],
+      "name": "Asymptotically Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "asymptotically",
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-asymptotically-equal-to",
+      "type": "math",
+      "symbol": "≄",
+      "unicode": [
+        "U+2244"
+      ],
+      "name": "Not Asymptotically Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "asymptotically",
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "approximately-equal-to",
+      "type": "math",
+      "symbol": "≅",
+      "unicode": [
+        "U+2245"
+      ],
+      "name": "Approximately Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "approximately",
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "approximately-but-not-actually-equal-to",
+      "type": "math",
+      "symbol": "≆",
+      "unicode": [
+        "U+2246"
+      ],
+      "name": "Approximately But Not Actually Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "actually",
+        "approximately",
+        "but",
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "neither-approximately-nor-actually-equal-to",
+      "type": "math",
+      "symbol": "≇",
+      "unicode": [
+        "U+2247"
+      ],
+      "name": "Neither Approximately Nor Actually Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "actually",
+        "approximately",
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "neither",
+        "nor",
+        "operator",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "almost-equal-to",
+      "type": "math",
+      "symbol": "≈",
+      "unicode": [
+        "U+2248"
+      ],
+      "name": "Almost Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "almost",
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-almost-equal-to",
+      "type": "math",
+      "symbol": "≉",
+      "unicode": [
+        "U+2249"
+      ],
+      "name": "Not Almost Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "almost",
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "almost-equal-or-equal-to",
+      "type": "math",
+      "symbol": "≊",
+      "unicode": [
+        "U+224A"
+      ],
+      "name": "Almost Equal Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "almost",
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "all-equal-to",
+      "type": "math",
+      "symbol": "≌",
+      "unicode": [
+        "U+224C"
+      ],
+      "name": "All Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "all",
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "geometrically-equal-to",
+      "type": "math",
+      "symbol": "≑",
+      "unicode": [
+        "U+2251"
+      ],
+      "name": "Geometrically Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "geometrically",
+        "math",
+        "mathematics",
+        "operator",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "approximately-equal-to-or-the-image-of",
+      "type": "math",
+      "symbol": "≒",
+      "unicode": [
+        "U+2252"
+      ],
+      "name": "Approximately Equal To Or The Image Of",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "approximately",
+        "comparison",
+        "equal",
+        "equivalent",
+        "image",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "or",
+        "same",
+        "symbol",
+        "the",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "image-of-or-approximately-equal-to",
+      "type": "math",
+      "symbol": "≓",
+      "unicode": [
+        "U+2253"
+      ],
+      "name": "Image Of Or Approximately Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "approximately",
+        "comparison",
+        "equal",
+        "equivalent",
+        "image",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "or",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "colon-equals",
+      "type": "math",
+      "symbol": "≔",
+      "unicode": [
+        "U+2254"
+      ],
+      "name": "Colon Equals",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "colon",
+        "comparison",
+        "equals",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "equals-colon",
+      "type": "math",
+      "symbol": "≕",
+      "unicode": [
+        "U+2255"
+      ],
+      "name": "Equals Colon",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "colon",
+        "comparison",
+        "equals",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ring-in-equal-to",
+      "type": "math",
+      "symbol": "≖",
+      "unicode": [
+        "U+2256"
+      ],
+      "name": "Ring In Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "in",
+        "math",
+        "mathematics",
+        "operator",
+        "ring",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ring-equal-to",
+      "type": "math",
+      "symbol": "≗",
+      "unicode": [
+        "U+2257"
+      ],
+      "name": "Ring Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "ring",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "star-equals",
+      "type": "math",
+      "symbol": "≛",
+      "unicode": [
+        "U+225B"
+      ],
+      "name": "Star Equals",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equals",
+        "math",
+        "mathematics",
+        "operator",
+        "star",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "delta-equal-to",
+      "type": "math",
+      "symbol": "≜",
+      "unicode": [
+        "U+225C"
+      ],
+      "name": "Delta Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "delta",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "equal-to-by-definition",
+      "type": "math",
+      "symbol": "≝",
+      "unicode": [
+        "U+225D"
+      ],
+      "name": "Equal To By Definition",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "by",
+        "comparison",
+        "definition",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "questioned-equal-to",
+      "type": "math",
+      "symbol": "≟",
+      "unicode": [
+        "U+225F"
+      ],
+      "name": "Questioned Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "questioned",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "less-than-or-equal-to",
+      "type": "math",
+      "symbol": "≤",
+      "unicode": [
+        "U+2264"
+      ],
+      "name": "Less-Than Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "less",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "same",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "greater-than-or-equal-to",
+      "type": "math",
+      "symbol": "≥",
+      "unicode": [
+        "U+2265"
+      ],
+      "name": "Greater-Than Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "greater",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "same",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "less-than-over-equal-to",
+      "type": "math",
+      "symbol": "≦",
+      "unicode": [
+        "U+2266"
+      ],
+      "name": "Less-Than Over Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "less",
+        "math",
+        "mathematics",
+        "operator",
+        "over",
+        "same",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "greater-than-over-equal-to",
+      "type": "math",
+      "symbol": "≧",
+      "unicode": [
+        "U+2267"
+      ],
+      "name": "Greater-Than Over Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "greater",
+        "math",
+        "mathematics",
+        "operator",
+        "over",
+        "same",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "less-than-but-not-equal-to",
+      "type": "math",
+      "symbol": "≨",
+      "unicode": [
+        "U+2268"
+      ],
+      "name": "Less-Than But Not Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "but",
+        "comparison",
+        "equal",
+        "equivalent",
+        "less",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "same",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "greater-than-but-not-equal-to",
+      "type": "math",
+      "symbol": "≩",
+      "unicode": [
+        "U+2269"
+      ],
+      "name": "Greater-Than But Not Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "but",
+        "comparison",
+        "equal",
+        "equivalent",
+        "greater",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "same",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "much-less-than",
+      "type": "math",
+      "symbol": "≪",
+      "unicode": [
+        "U+226A"
+      ],
+      "name": "Much Less-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "less",
+        "math",
+        "mathematics",
+        "much",
+        "operator",
+        "symbol",
+        "than",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "much-greater-than",
+      "type": "math",
+      "symbol": "≫",
+      "unicode": [
+        "U+226B"
+      ],
+      "name": "Much Greater-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "greater",
+        "math",
+        "mathematics",
+        "much",
+        "operator",
+        "symbol",
+        "than",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-less-than",
+      "type": "math",
+      "symbol": "≮",
+      "unicode": [
+        "U+226E"
+      ],
+      "name": "Not Less-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "less",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "symbol",
+        "than",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-greater-than",
+      "type": "math",
+      "symbol": "≯",
+      "unicode": [
+        "U+226F"
+      ],
+      "name": "Not Greater-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "greater",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "symbol",
+        "than",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "neither-less-than-nor-equal-to",
+      "type": "math",
+      "symbol": "≰",
+      "unicode": [
+        "U+2270"
+      ],
+      "name": "Neither Less-Than Nor Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "less",
+        "math",
+        "mathematics",
+        "neither",
+        "nor",
+        "operator",
+        "same",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "neither-greater-than-nor-equal-to",
+      "type": "math",
+      "symbol": "≱",
+      "unicode": [
+        "U+2271"
+      ],
+      "name": "Neither Greater-Than Nor Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "greater",
+        "math",
+        "mathematics",
+        "neither",
+        "nor",
+        "operator",
+        "same",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "less-than-or-equivalent-to",
+      "type": "math",
+      "symbol": "≲",
+      "unicode": [
+        "U+2272"
+      ],
+      "name": "Less-Than Or Equivalent To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equivalent",
+        "less",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "greater-than-or-equivalent-to",
+      "type": "math",
+      "symbol": "≳",
+      "unicode": [
+        "U+2273"
+      ],
+      "name": "Greater-Than Or Equivalent To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equivalent",
+        "greater",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "neither-less-than-nor-equivalent-to",
+      "type": "math",
+      "symbol": "≴",
+      "unicode": [
+        "U+2274"
+      ],
+      "name": "Neither Less-Than Nor Equivalent To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equivalent",
+        "less",
+        "math",
+        "mathematics",
+        "neither",
+        "nor",
+        "operator",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "neither-greater-than-nor-equivalent-to",
+      "type": "math",
+      "symbol": "≵",
+      "unicode": [
+        "U+2275"
+      ],
+      "name": "Neither Greater-Than Nor Equivalent To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equivalent",
+        "greater",
+        "math",
+        "mathematics",
+        "neither",
+        "nor",
+        "operator",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "less-than-or-greater-than",
+      "type": "math",
+      "symbol": "≶",
+      "unicode": [
+        "U+2276"
+      ],
+      "name": "Less-Than Or Greater-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "greater",
+        "less",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "symbol",
+        "than",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "greater-than-or-less-than",
+      "type": "math",
+      "symbol": "≷",
+      "unicode": [
+        "U+2277"
+      ],
+      "name": "Greater-Than Or Less-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "greater",
+        "less",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "symbol",
+        "than",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "neither-less-than-nor-greater-than",
+      "type": "math",
+      "symbol": "≸",
+      "unicode": [
+        "U+2278"
+      ],
+      "name": "Neither Less-Than Nor Greater-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "greater",
+        "less",
+        "math",
+        "mathematics",
+        "neither",
+        "nor",
+        "operator",
+        "symbol",
+        "than",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "neither-greater-than-nor-less-than",
+      "type": "math",
+      "symbol": "≹",
+      "unicode": [
+        "U+2279"
+      ],
+      "name": "Neither Greater-Than Nor Less-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "greater",
+        "less",
+        "math",
+        "mathematics",
+        "neither",
+        "nor",
+        "operator",
+        "symbol",
+        "than",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "precedes-or-equal-to",
+      "type": "math",
+      "symbol": "≼",
+      "unicode": [
+        "U+227C"
+      ],
+      "name": "Precedes Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "precedes",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "succeeds-or-equal-to",
+      "type": "math",
+      "symbol": "≽",
+      "unicode": [
+        "U+227D"
+      ],
+      "name": "Succeeds Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "same",
+        "succeeds",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subset-of-or-equal-to",
+      "type": "math",
+      "symbol": "⊆",
+      "unicode": [
+        "U+2286"
+      ],
+      "name": "Subset Of Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "contained",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "or",
+        "same",
+        "subset",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superset-of-or-equal-to",
+      "type": "math",
+      "symbol": "⊇",
+      "unicode": [
+        "U+2287"
+      ],
+      "name": "Superset Of Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "contains",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "or",
+        "same",
+        "superset",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "neither-a-subset-of-nor-equal-to",
+      "type": "math",
+      "symbol": "⊈",
+      "unicode": [
+        "U+2288"
+      ],
+      "name": "Neither A Subset Of Nor Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "comparison",
+        "contained",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "neither",
+        "nor",
+        "of",
+        "operator",
+        "same",
+        "subset",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "neither-a-superset-of-nor-equal-to",
+      "type": "math",
+      "symbol": "⊉",
+      "unicode": [
+        "U+2289"
+      ],
+      "name": "Neither A Superset Of Nor Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "comparison",
+        "contains",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "neither",
+        "nor",
+        "of",
+        "operator",
+        "same",
+        "superset",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subset-of-with-not-equal-to",
+      "type": "math",
+      "symbol": "⊊",
+      "unicode": [
+        "U+228A"
+      ],
+      "name": "Subset Of With Not Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "contained",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "not",
+        "of",
+        "operator",
+        "same",
+        "subset",
+        "symbol",
+        "to",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superset-of-with-not-equal-to",
+      "type": "math",
+      "symbol": "⊋",
+      "unicode": [
+        "U+228B"
+      ],
+      "name": "Superset Of With Not Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "contains",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "not",
+        "of",
+        "operator",
+        "same",
+        "superset",
+        "symbol",
+        "to",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "square-image-of-or-equal-to",
+      "type": "math",
+      "symbol": "⊑",
+      "unicode": [
+        "U+2291"
+      ],
+      "name": "Square Image Of Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "image",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "or",
+        "same",
+        "square",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "square-original-of-or-equal-to",
+      "type": "math",
+      "symbol": "⊒",
+      "unicode": [
+        "U+2292"
+      ],
+      "name": "Square Original Of Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "or",
+        "original",
+        "same",
+        "square",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "circled-equals",
+      "type": "math",
+      "symbol": "⊜",
+      "unicode": [
+        "U+229C"
+      ],
+      "name": "Circled Equals",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "circled",
+        "comparison",
+        "equals",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "normal-subgroup-of-or-equal-to",
+      "type": "math",
+      "symbol": "⊴",
+      "unicode": [
+        "U+22B4"
+      ],
+      "name": "Normal Subgroup Of Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "normal",
+        "of",
+        "operator",
+        "or",
+        "same",
+        "subgroup",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "contains-as-normal-subgroup-or-equal-to",
+      "type": "math",
+      "symbol": "⊵",
+      "unicode": [
+        "U+22B5"
+      ],
+      "name": "Contains As Normal Subgroup Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "as",
+        "comparison",
+        "contains",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "normal",
+        "operator",
+        "or",
+        "same",
+        "subgroup",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "reversed-tilde-equals",
+      "type": "math",
+      "symbol": "⋍",
+      "unicode": [
+        "U+22CD"
+      ],
+      "name": "Reversed Tilde Equals",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equals",
+        "math",
+        "mathematics",
+        "operator",
+        "reversed",
+        "symbol",
+        "tilde",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "equal-and-parallel-to",
+      "type": "math",
+      "symbol": "⋕",
+      "unicode": [
+        "U+22D5"
+      ],
+      "name": "Equal And Parallel To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "parallel",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "less-than-with-dot",
+      "type": "math",
+      "symbol": "⋖",
+      "unicode": [
+        "U+22D6"
+      ],
+      "name": "Less-Than With Dot",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "dot",
+        "less",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "than",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "greater-than-with-dot",
+      "type": "math",
+      "symbol": "⋗",
+      "unicode": [
+        "U+22D7"
+      ],
+      "name": "Greater-Than With Dot",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "dot",
+        "greater",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "than",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "very-much-less-than",
+      "type": "math",
+      "symbol": "⋘",
+      "unicode": [
+        "U+22D8"
+      ],
+      "name": "Very Much Less-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "less",
+        "math",
+        "mathematics",
+        "much",
+        "operator",
+        "symbol",
+        "than",
+        "unicode",
+        "very"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "very-much-greater-than",
+      "type": "math",
+      "symbol": "⋙",
+      "unicode": [
+        "U+22D9"
+      ],
+      "name": "Very Much Greater-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "greater",
+        "math",
+        "mathematics",
+        "much",
+        "operator",
+        "symbol",
+        "than",
+        "unicode",
+        "very"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "less-than-equal-to-or-greater-than",
+      "type": "math",
+      "symbol": "⋚",
+      "unicode": [
+        "U+22DA"
+      ],
+      "name": "Less-Than Equal To Or Greater-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "greater",
+        "less",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "same",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "greater-than-equal-to-or-less-than",
+      "type": "math",
+      "symbol": "⋛",
+      "unicode": [
+        "U+22DB"
+      ],
+      "name": "Greater-Than Equal To Or Less-Than",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "greater",
+        "less",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "same",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "equal-to-or-precedes",
+      "type": "math",
+      "symbol": "⋞",
+      "unicode": [
+        "U+22DE"
+      ],
+      "name": "Equal To Or Precedes",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "precedes",
+        "same",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "equal-to-or-succeeds",
+      "type": "math",
+      "symbol": "⋟",
+      "unicode": [
+        "U+22DF"
+      ],
+      "name": "Equal To Or Succeeds",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "same",
+        "succeeds",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "does-not-precede-or-equal",
+      "type": "math",
+      "symbol": "⋠",
+      "unicode": [
+        "U+22E0"
+      ],
+      "name": "Does Not Precede Or Equal",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "does",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "or",
+        "precede",
+        "same",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "does-not-succeed-or-equal",
+      "type": "math",
+      "symbol": "⋡",
+      "unicode": [
+        "U+22E1"
+      ],
+      "name": "Does Not Succeed Or Equal",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "does",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "or",
+        "same",
+        "succeed",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-square-image-of-or-equal-to",
+      "type": "math",
+      "symbol": "⋢",
+      "unicode": [
+        "U+22E2"
+      ],
+      "name": "Not Square Image Of Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "image",
+        "math",
+        "mathematics",
+        "not",
+        "of",
+        "operator",
+        "or",
+        "same",
+        "square",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-square-original-of-or-equal-to",
+      "type": "math",
+      "symbol": "⋣",
+      "unicode": [
+        "U+22E3"
+      ],
+      "name": "Not Square Original Of Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "not",
+        "of",
+        "operator",
+        "or",
+        "original",
+        "same",
+        "square",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "square-image-of-or-not-equal-to",
+      "type": "math",
+      "symbol": "⋤",
+      "unicode": [
+        "U+22E4"
+      ],
+      "name": "Square Image Of Or Not Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "image",
+        "math",
+        "mathematics",
+        "not",
+        "of",
+        "operator",
+        "or",
+        "same",
+        "square",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "square-original-of-or-not-equal-to",
+      "type": "math",
+      "symbol": "⋥",
+      "unicode": [
+        "U+22E5"
+      ],
+      "name": "Square Original Of Or Not Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "not",
+        "of",
+        "operator",
+        "or",
+        "original",
+        "same",
+        "square",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "less-than-but-not-equivalent-to",
+      "type": "math",
+      "symbol": "⋦",
+      "unicode": [
+        "U+22E6"
+      ],
+      "name": "Less-Than But Not Equivalent To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "but",
+        "comparison",
+        "equivalent",
+        "less",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "greater-than-but-not-equivalent-to",
+      "type": "math",
+      "symbol": "⋧",
+      "unicode": [
+        "U+22E7"
+      ],
+      "name": "Greater-Than But Not Equivalent To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "but",
+        "comparison",
+        "equivalent",
+        "greater",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "symbol",
+        "than",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-normal-subgroup-of-or-equal-to",
+      "type": "math",
+      "symbol": "⋬",
+      "unicode": [
+        "U+22EC"
+      ],
+      "name": "Not Normal Subgroup Of Or Equal To",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "normal",
+        "not",
+        "of",
+        "operator",
+        "or",
+        "same",
+        "subgroup",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "does-not-contain-as-normal-subgroup-or-equal",
+      "type": "math",
+      "symbol": "⋭",
+      "unicode": [
+        "U+22ED"
+      ],
+      "name": "Does Not Contain As Normal Subgroup Or Equal",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "as",
+        "comparison",
+        "contain",
+        "does",
+        "equal",
+        "equivalent",
+        "math",
+        "mathematics",
+        "normal",
+        "not",
+        "operator",
+        "or",
+        "same",
+        "subgroup",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-equals-sign",
+      "type": "math",
+      "symbol": "⁼",
+      "unicode": [
+        "U+207C"
+      ],
+      "name": "Superscript Equals Sign",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equals",
+        "math",
+        "mathematics",
+        "operator",
+        "sign",
+        "superscript",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-equals-sign",
+      "type": "math",
+      "symbol": "₌",
+      "unicode": [
+        "U+208C"
+      ],
+      "name": "Subscript Equals Sign",
+      "aliases": [],
+      "category": "Comparison",
+      "subcategory": null,
+      "tags": [
+        "comparison",
+        "equals",
+        "math",
+        "mathematics",
+        "operator",
+        "sign",
+        "subscript",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-sign",
+      "type": "math",
+      "symbol": "¬",
+      "unicode": [
+        "U+00AC"
+      ],
+      "name": "Not Sign",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "per-ten-thousand-sign",
+      "type": "math",
+      "symbol": "‱",
+      "unicode": [
+        "U+2031"
+      ],
+      "name": "Per Ten Thousand Sign",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "per",
+        "sign",
+        "symbol",
+        "ten",
+        "thousand",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "for-all",
+      "type": "math",
+      "symbol": "∀",
+      "unicode": [
+        "U+2200"
+      ],
+      "name": "For All",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "all",
+        "for",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "there-exists",
+      "type": "math",
+      "symbol": "∃",
+      "unicode": [
+        "U+2203"
+      ],
+      "name": "There Exists",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "exists",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "there",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "there-does-not-exist",
+      "type": "math",
+      "symbol": "∄",
+      "unicode": [
+        "U+2204"
+      ],
+      "name": "There Does Not Exist",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "does",
+        "exist",
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "symbol",
+        "there",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-an-element-of",
+      "type": "math",
+      "symbol": "∉",
+      "unicode": [
+        "U+2209"
+      ],
+      "name": "Not An Element Of",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "an",
+        "element",
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "of",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "does-not-contain-as-member",
+      "type": "math",
+      "symbol": "∌",
+      "unicode": [
+        "U+220C"
+      ],
+      "name": "Does Not Contain As Member",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "as",
+        "contain",
+        "does",
+        "logic",
+        "math",
+        "mathematics",
+        "member",
+        "not",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "asterisk-operator",
+      "type": "math",
+      "symbol": "∗",
+      "unicode": [
+        "U+2217"
+      ],
+      "name": "Asterisk Operator",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ring-operator",
+      "type": "math",
+      "symbol": "∘",
+      "unicode": [
+        "U+2218"
+      ],
+      "name": "Ring Operator",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "ring",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "bullet-operator",
+      "type": "math",
+      "symbol": "∙",
+      "unicode": [
+        "U+2219"
+      ],
+      "name": "Bullet Operator",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "bullet",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "proportional-to",
+      "type": "math",
+      "symbol": "∝",
+      "unicode": [
+        "U+221D"
+      ],
+      "name": "Proportional To",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "proportional",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "does-not-divide",
+      "type": "math",
+      "symbol": "∤",
+      "unicode": [
+        "U+2224"
+      ],
+      "name": "Does Not Divide",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "divide",
+        "does",
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-parallel-to",
+      "type": "math",
+      "symbol": "∦",
+      "unicode": [
+        "U+2226"
+      ],
+      "name": "Not Parallel To",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "parallel",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "logical-and",
+      "type": "math",
+      "symbol": "∧",
+      "unicode": [
+        "U+2227"
+      ],
+      "name": "Logical And",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "logic",
+        "logical",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "logical-or",
+      "type": "math",
+      "symbol": "∨",
+      "unicode": [
+        "U+2228"
+      ],
+      "name": "Logical Or",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "logical",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "therefore",
+      "type": "math",
+      "symbol": "∴",
+      "unicode": [
+        "U+2234"
+      ],
+      "name": "Therefore",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "therefore",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "proportion",
+      "type": "math",
+      "symbol": "∷",
+      "unicode": [
+        "U+2237"
+      ],
+      "name": "Proportion",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "proportion",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "geometric-proportion",
+      "type": "math",
+      "symbol": "∺",
+      "unicode": [
+        "U+223A"
+      ],
+      "name": "Geometric Proportion",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "geometric",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "proportion",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "tilde-operator",
+      "type": "math",
+      "symbol": "∼",
+      "unicode": [
+        "U+223C"
+      ],
+      "name": "Tilde Operator",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "tilde",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-tilde",
+      "type": "math",
+      "symbol": "≁",
+      "unicode": [
+        "U+2241"
+      ],
+      "name": "Not Tilde",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "symbol",
+        "tilde",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "corresponds-to",
+      "type": "math",
+      "symbol": "≘",
+      "unicode": [
+        "U+2258"
+      ],
+      "name": "Corresponds To",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "corresponds",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-identical-to",
+      "type": "math",
+      "symbol": "≢",
+      "unicode": [
+        "U+2262"
+      ],
+      "name": "Not Identical To",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "identical",
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-equivalent-to",
+      "type": "math",
+      "symbol": "≭",
+      "unicode": [
+        "U+226D"
+      ],
+      "name": "Not Equivalent To",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "equivalent",
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "precedes-or-equivalent-to",
+      "type": "math",
+      "symbol": "≾",
+      "unicode": [
+        "U+227E"
+      ],
+      "name": "Precedes Or Equivalent To",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "equivalent",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "precedes",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "succeeds-or-equivalent-to",
+      "type": "math",
+      "symbol": "≿",
+      "unicode": [
+        "U+227F"
+      ],
+      "name": "Succeeds Or Equivalent To",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "equivalent",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "succeeds",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "does-not-precede",
+      "type": "math",
+      "symbol": "⊀",
+      "unicode": [
+        "U+2280"
+      ],
+      "name": "Does Not Precede",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "does",
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "precede",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "does-not-succeed",
+      "type": "math",
+      "symbol": "⊁",
+      "unicode": [
+        "U+2281"
+      ],
+      "name": "Does Not Succeed",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "does",
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "succeed",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "square-original-of",
+      "type": "math",
+      "symbol": "⊐",
+      "unicode": [
+        "U+2290"
+      ],
+      "name": "Square Original Of",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "original",
+        "square",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "circled-dot-operator",
+      "type": "math",
+      "symbol": "⊙",
+      "unicode": [
+        "U+2299"
+      ],
+      "name": "Circled Dot Operator",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "circled",
+        "dot",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "circled-ring-operator",
+      "type": "math",
+      "symbol": "⊚",
+      "unicode": [
+        "U+229A"
+      ],
+      "name": "Circled Ring Operator",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "circled",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "ring",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "circled-asterisk-operator",
+      "type": "math",
+      "symbol": "⊛",
+      "unicode": [
+        "U+229B"
+      ],
+      "name": "Circled Asterisk Operator",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "circled",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "squared-dot-operator",
+      "type": "math",
+      "symbol": "⊡",
+      "unicode": [
+        "U+22A1"
+      ],
+      "name": "Squared Dot Operator",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "dot",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "squared",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "forces",
+      "type": "math",
+      "symbol": "⊩",
+      "unicode": [
+        "U+22A9"
+      ],
+      "name": "Forces",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "forces",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "does-not-prove",
+      "type": "math",
+      "symbol": "⊬",
+      "unicode": [
+        "U+22AC"
+      ],
+      "name": "Does Not Prove",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "does",
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "prove",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-true",
+      "type": "math",
+      "symbol": "⊭",
+      "unicode": [
+        "U+22AD"
+      ],
+      "name": "Not True",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "symbol",
+        "true",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "does-not-force",
+      "type": "math",
+      "symbol": "⊮",
+      "unicode": [
+        "U+22AE"
+      ],
+      "name": "Does Not Force",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "does",
+        "force",
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "normal-subgroup-of",
+      "type": "math",
+      "symbol": "⊲",
+      "unicode": [
+        "U+22B2"
+      ],
+      "name": "Normal Subgroup Of",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "normal",
+        "of",
+        "operator",
+        "subgroup",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "contains-as-normal-subgroup",
+      "type": "math",
+      "symbol": "⊳",
+      "unicode": [
+        "U+22B3"
+      ],
+      "name": "Contains As Normal Subgroup",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "as",
+        "contains",
+        "logic",
+        "math",
+        "mathematics",
+        "normal",
+        "operator",
+        "subgroup",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "original-of",
+      "type": "math",
+      "symbol": "⊶",
+      "unicode": [
+        "U+22B6"
+      ],
+      "name": "Original Of",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "original",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "xor",
+      "type": "math",
+      "symbol": "⊻",
+      "unicode": [
+        "U+22BB"
+      ],
+      "name": "Xor",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode",
+        "xor"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "nand",
+      "type": "math",
+      "symbol": "⊼",
+      "unicode": [
+        "U+22BC"
+      ],
+      "name": "Nand",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "nand",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "nor",
+      "type": "math",
+      "symbol": "⊽",
+      "unicode": [
+        "U+22BD"
+      ],
+      "name": "Nor",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "nor",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "n-ary-logical-and",
+      "type": "math",
+      "symbol": "⋀",
+      "unicode": [
+        "U+22C0"
+      ],
+      "name": "N-Ary Logical And",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "ary",
+        "logic",
+        "logical",
+        "math",
+        "mathematics",
+        "n",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "n-ary-logical-or",
+      "type": "math",
+      "symbol": "⋁",
+      "unicode": [
+        "U+22C1"
+      ],
+      "name": "N-Ary Logical Or",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "ary",
+        "logic",
+        "logical",
+        "math",
+        "mathematics",
+        "n",
+        "operator",
+        "or",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "diamond-operator",
+      "type": "math",
+      "symbol": "⋄",
+      "unicode": [
+        "U+22C4"
+      ],
+      "name": "Diamond Operator",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "diamond",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "dot-operator",
+      "type": "math",
+      "symbol": "⋅",
+      "unicode": [
+        "U+22C5"
+      ],
+      "name": "Dot Operator",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "dot",
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "star-operator",
+      "type": "math",
+      "symbol": "⋆",
+      "unicode": [
+        "U+22C6"
+      ],
+      "name": "Star Operator",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "star",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "curly-logical-or",
+      "type": "math",
+      "symbol": "⋎",
+      "unicode": [
+        "U+22CE"
+      ],
+      "name": "Curly Logical Or",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "curly",
+        "logic",
+        "logical",
+        "math",
+        "mathematics",
+        "operator",
+        "or",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "curly-logical-and",
+      "type": "math",
+      "symbol": "⋏",
+      "unicode": [
+        "U+22CF"
+      ],
+      "name": "Curly Logical And",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "curly",
+        "logic",
+        "logical",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "pitchfork",
+      "type": "math",
+      "symbol": "⋔",
+      "unicode": [
+        "U+22D4"
+      ],
+      "name": "Pitchfork",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "operator",
+        "pitchfork",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "precedes-but-not-equivalent-to",
+      "type": "math",
+      "symbol": "⋨",
+      "unicode": [
+        "U+22E8"
+      ],
+      "name": "Precedes But Not Equivalent To",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "but",
+        "equivalent",
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "precedes",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "succeeds-but-not-equivalent-to",
+      "type": "math",
+      "symbol": "⋩",
+      "unicode": [
+        "U+22E9"
+      ],
+      "name": "Succeeds But Not Equivalent To",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "but",
+        "equivalent",
+        "logic",
+        "math",
+        "mathematics",
+        "not",
+        "operator",
+        "succeeds",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-normal-subgroup-of",
+      "type": "math",
+      "symbol": "⋪",
+      "unicode": [
+        "U+22EA"
+      ],
+      "name": "Not Normal Subgroup Of",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "logic",
+        "math",
+        "mathematics",
+        "normal",
+        "not",
+        "of",
+        "operator",
+        "subgroup",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "does-not-contain-as-normal-subgroup",
+      "type": "math",
+      "symbol": "⋫",
+      "unicode": [
+        "U+22EB"
+      ],
+      "name": "Does Not Contain As Normal Subgroup",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "as",
+        "contain",
+        "does",
+        "logic",
+        "math",
+        "mathematics",
+        "normal",
+        "not",
+        "operator",
+        "subgroup",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "midline-horizontal-ellipsis",
+      "type": "math",
+      "symbol": "⋯",
+      "unicode": [
+        "U+22EF"
+      ],
+      "name": "Midline Horizontal Ellipsis",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "ellipsis",
+        "horizontal",
+        "logic",
+        "math",
+        "mathematics",
+        "midline",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "element-of-with-long-horizontal-stroke",
+      "type": "math",
+      "symbol": "⋲",
+      "unicode": [
+        "U+22F2"
+      ],
+      "name": "Element Of With Long Horizontal Stroke",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "element",
+        "horizontal",
+        "logic",
+        "long",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "stroke",
+        "symbol",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "element-of-with-vertical-bar-at-end-of-horizontal-stroke",
+      "type": "math",
+      "symbol": "⋳",
+      "unicode": [
+        "U+22F3"
+      ],
+      "name": "Element Of With Vertical Bar At End Of Horizontal Stroke",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "at",
+        "bar",
+        "element",
+        "end",
+        "horizontal",
+        "logic",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "stroke",
+        "symbol",
+        "unicode",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "small-element-of-with-vertical-bar-at-end-of-horizontal-stroke",
+      "type": "math",
+      "symbol": "⋴",
+      "unicode": [
+        "U+22F4"
+      ],
+      "name": "Small Element Of With Vertical Bar At End Of Horizontal Stroke",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "at",
+        "bar",
+        "element",
+        "end",
+        "horizontal",
+        "logic",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "small",
+        "stroke",
+        "symbol",
+        "unicode",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "element-of-with-two-horizontal-strokes",
+      "type": "math",
+      "symbol": "⋹",
+      "unicode": [
+        "U+22F9"
+      ],
+      "name": "Element Of With Two Horizontal Strokes",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "element",
+        "horizontal",
+        "logic",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "strokes",
+        "symbol",
+        "two",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "contains-with-long-horizontal-stroke",
+      "type": "math",
+      "symbol": "⋺",
+      "unicode": [
+        "U+22FA"
+      ],
+      "name": "Contains With Long Horizontal Stroke",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "contains",
+        "horizontal",
+        "logic",
+        "long",
+        "math",
+        "mathematics",
+        "operator",
+        "stroke",
+        "symbol",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "contains-with-vertical-bar-at-end-of-horizontal-stroke",
+      "type": "math",
+      "symbol": "⋻",
+      "unicode": [
+        "U+22FB"
+      ],
+      "name": "Contains With Vertical Bar At End Of Horizontal Stroke",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "at",
+        "bar",
+        "contains",
+        "end",
+        "horizontal",
+        "logic",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "stroke",
+        "symbol",
+        "unicode",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "small-contains-with-vertical-bar-at-end-of-horizontal-stroke",
+      "type": "math",
+      "symbol": "⋼",
+      "unicode": [
+        "U+22FC"
+      ],
+      "name": "Small Contains With Vertical Bar At End Of Horizontal Stroke",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "at",
+        "bar",
+        "contains",
+        "end",
+        "horizontal",
+        "logic",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "small",
+        "stroke",
+        "symbol",
+        "unicode",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "z-notation-bag-membership",
+      "type": "math",
+      "symbol": "⋿",
+      "unicode": [
+        "U+22FF"
+      ],
+      "name": "Z Notation Bag Membership",
+      "aliases": [],
+      "category": "Logic",
+      "subcategory": null,
+      "tags": [
+        "bag",
+        "logic",
+        "math",
+        "mathematics",
+        "membership",
+        "notation",
+        "operator",
+        "symbol",
+        "unicode",
+        "z"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "degree-sign",
+      "type": "math",
+      "symbol": "°",
+      "unicode": [
+        "U+00B0"
+      ],
+      "name": "Degree Sign",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "degree",
+        "math",
+        "mathematics",
+        "operator",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "latin-small-letter-f-with-hook",
+      "type": "math",
+      "symbol": "ƒ",
+      "unicode": [
+        "U+0192"
+      ],
+      "name": "Latin Small Letter F With Hook",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "f",
+        "hook",
+        "latin",
+        "letter",
+        "math",
+        "mathematics",
+        "operator",
+        "small",
+        "symbol",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "percent-sign",
+      "type": "math",
+      "symbol": "%",
+      "unicode": [
+        "U+0025"
+      ],
+      "name": "Percent Sign",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "percent",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "per-mille-sign",
+      "type": "math",
+      "symbol": "‰",
+      "unicode": [
+        "U+2030"
+      ],
+      "name": "Per Mille Sign",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "mille",
+        "operator",
+        "per",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "complement",
+      "type": "math",
+      "symbol": "∁",
+      "unicode": [
+        "U+2201"
+      ],
+      "name": "Complement",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "complement",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "partial-differential",
+      "type": "math",
+      "symbol": "∂",
+      "unicode": [
+        "U+2202"
+      ],
+      "name": "Partial Differential",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "differential",
+        "math",
+        "mathematics",
+        "operator",
+        "partial",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "empty-set",
+      "type": "math",
+      "symbol": "∅",
+      "unicode": [
+        "U+2205"
+      ],
+      "name": "Empty Set",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "empty",
+        "math",
+        "mathematics",
+        "operator",
+        "set",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "increment",
+      "type": "math",
+      "symbol": "∆",
+      "unicode": [
+        "U+2206"
+      ],
+      "name": "Increment",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "increment",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "nabla",
+      "type": "math",
+      "symbol": "∇",
+      "unicode": [
+        "U+2207"
+      ],
+      "name": "Nabla",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "nabla",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "element-of",
+      "type": "math",
+      "symbol": "∈",
+      "unicode": [
+        "U+2208"
+      ],
+      "name": "Element Of",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "element",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "small-element-of",
+      "type": "math",
+      "symbol": "∊",
+      "unicode": [
+        "U+220A"
+      ],
+      "name": "Small Element Of",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "element",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "small",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "contains-as-member",
+      "type": "math",
+      "symbol": "∋",
+      "unicode": [
+        "U+220B"
+      ],
+      "name": "Contains As Member",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "as",
+        "contains",
+        "math",
+        "mathematics",
+        "member",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "small-contains-as-member",
+      "type": "math",
+      "symbol": "∍",
+      "unicode": [
+        "U+220D"
+      ],
+      "name": "Small Contains As Member",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "as",
+        "contains",
+        "math",
+        "mathematics",
+        "member",
+        "operator",
+        "small",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "end-of-proof",
+      "type": "math",
+      "symbol": "∎",
+      "unicode": [
+        "U+220E"
+      ],
+      "name": "End Of Proof",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "end",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "proof",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "cube-root",
+      "type": "math",
+      "symbol": "∛",
+      "unicode": [
+        "U+221B"
+      ],
+      "name": "Cube Root",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "cube",
+        "math",
+        "mathematics",
+        "operator",
+        "root",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "fourth-root",
+      "type": "math",
+      "symbol": "∜",
+      "unicode": [
+        "U+221C"
+      ],
+      "name": "Fourth Root",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "fourth",
+        "math",
+        "mathematics",
+        "operator",
+        "root",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "divides",
+      "type": "math",
+      "symbol": "∣",
+      "unicode": [
+        "U+2223"
+      ],
+      "name": "Divides",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "divides",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "parallel-to",
+      "type": "math",
+      "symbol": "∥",
+      "unicode": [
+        "U+2225"
+      ],
+      "name": "Parallel To",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "parallel",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "because",
+      "type": "math",
+      "symbol": "∵",
+      "unicode": [
+        "U+2235"
+      ],
+      "name": "Because",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "because",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ratio",
+      "type": "math",
+      "symbol": "∶",
+      "unicode": [
+        "U+2236"
+      ],
+      "name": "Ratio",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "ratio",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "excess",
+      "type": "math",
+      "symbol": "∹",
+      "unicode": [
+        "U+2239"
+      ],
+      "name": "Excess",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "excess",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "homothetic",
+      "type": "math",
+      "symbol": "∻",
+      "unicode": [
+        "U+223B"
+      ],
+      "name": "Homothetic",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "homothetic",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "reversed-tilde",
+      "type": "math",
+      "symbol": "∽",
+      "unicode": [
+        "U+223D"
+      ],
+      "name": "Reversed Tilde",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "reversed",
+        "symbol",
+        "tilde",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "inverted-lazy-s",
+      "type": "math",
+      "symbol": "∾",
+      "unicode": [
+        "U+223E"
+      ],
+      "name": "Inverted Lazy S",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "inverted",
+        "lazy",
+        "math",
+        "mathematics",
+        "operator",
+        "s",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "sine-wave",
+      "type": "math",
+      "symbol": "∿",
+      "unicode": [
+        "U+223F"
+      ],
+      "name": "Sine Wave",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "sine",
+        "symbol",
+        "unicode",
+        "wave"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "triple-tilde",
+      "type": "math",
+      "symbol": "≋",
+      "unicode": [
+        "U+224B"
+      ],
+      "name": "Triple Tilde",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "tilde",
+        "triple",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "equivalent-to",
+      "type": "math",
+      "symbol": "≍",
+      "unicode": [
+        "U+224D"
+      ],
+      "name": "Equivalent To",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "geometrically-equivalent-to",
+      "type": "math",
+      "symbol": "≎",
+      "unicode": [
+        "U+224E"
+      ],
+      "name": "Geometrically Equivalent To",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "equivalent",
+        "geometrically",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "difference-between",
+      "type": "math",
+      "symbol": "≏",
+      "unicode": [
+        "U+224F"
+      ],
+      "name": "Difference Between",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "between",
+        "difference",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "approaches-the-limit",
+      "type": "math",
+      "symbol": "≐",
+      "unicode": [
+        "U+2250"
+      ],
+      "name": "Approaches The Limit",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "approaches",
+        "limit",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "the",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "estimates",
+      "type": "math",
+      "symbol": "≙",
+      "unicode": [
+        "U+2259"
+      ],
+      "name": "Estimates",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "estimates",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "equiangular-to",
+      "type": "math",
+      "symbol": "≚",
+      "unicode": [
+        "U+225A"
+      ],
+      "name": "Equiangular To",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "equiangular",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "measured-by",
+      "type": "math",
+      "symbol": "≞",
+      "unicode": [
+        "U+225E"
+      ],
+      "name": "Measured By",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "by",
+        "math",
+        "mathematics",
+        "measured",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "identical-to",
+      "type": "math",
+      "symbol": "≡",
+      "unicode": [
+        "U+2261"
+      ],
+      "name": "Identical To",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "identical",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "strictly-equivalent-to",
+      "type": "math",
+      "symbol": "≣",
+      "unicode": [
+        "U+2263"
+      ],
+      "name": "Strictly Equivalent To",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "equivalent",
+        "math",
+        "mathematics",
+        "operator",
+        "strictly",
+        "symbol",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "between",
+      "type": "math",
+      "symbol": "≬",
+      "unicode": [
+        "U+226C"
+      ],
+      "name": "Between",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "between",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "precedes",
+      "type": "math",
+      "symbol": "≺",
+      "unicode": [
+        "U+227A"
+      ],
+      "name": "Precedes",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "precedes",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "succeeds",
+      "type": "math",
+      "symbol": "≻",
+      "unicode": [
+        "U+227B"
+      ],
+      "name": "Succeeds",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "succeeds",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "multiset",
+      "type": "math",
+      "symbol": "⊌",
+      "unicode": [
+        "U+228C"
+      ],
+      "name": "Multiset",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "multiset",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "square-image-of",
+      "type": "math",
+      "symbol": "⊏",
+      "unicode": [
+        "U+228F"
+      ],
+      "name": "Square Image Of",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "image",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "square",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "square-cap",
+      "type": "math",
+      "symbol": "⊓",
+      "unicode": [
+        "U+2293"
+      ],
+      "name": "Square Cap",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "cap",
+        "math",
+        "mathematics",
+        "operator",
+        "square",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "square-cup",
+      "type": "math",
+      "symbol": "⊔",
+      "unicode": [
+        "U+2294"
+      ],
+      "name": "Square Cup",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "cup",
+        "math",
+        "mathematics",
+        "operator",
+        "square",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "circled-times",
+      "type": "math",
+      "symbol": "⊗",
+      "unicode": [
+        "U+2297"
+      ],
+      "name": "Circled Times",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "circled",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "times",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "circled-dash",
+      "type": "math",
+      "symbol": "⊝",
+      "unicode": [
+        "U+229D"
+      ],
+      "name": "Circled Dash",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "circled",
+        "dash",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "squared-times",
+      "type": "math",
+      "symbol": "⊠",
+      "unicode": [
+        "U+22A0"
+      ],
+      "name": "Squared Times",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "squared",
+        "symbol",
+        "times",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "right-tack",
+      "type": "math",
+      "symbol": "⊢",
+      "unicode": [
+        "U+22A2"
+      ],
+      "name": "Right Tack",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "right",
+        "symbol",
+        "tack",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-tack",
+      "type": "math",
+      "symbol": "⊣",
+      "unicode": [
+        "U+22A3"
+      ],
+      "name": "Left Tack",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "left",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "tack",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "down-tack",
+      "type": "math",
+      "symbol": "⊤",
+      "unicode": [
+        "U+22A4"
+      ],
+      "name": "Down Tack",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "down",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "tack",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "up-tack",
+      "type": "math",
+      "symbol": "⊥",
+      "unicode": [
+        "U+22A5"
+      ],
+      "name": "Up Tack",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "tack",
+        "unicode",
+        "up"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "assertion",
+      "type": "math",
+      "symbol": "⊦",
+      "unicode": [
+        "U+22A6"
+      ],
+      "name": "Assertion",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "assertion",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "models",
+      "type": "math",
+      "symbol": "⊧",
+      "unicode": [
+        "U+22A7"
+      ],
+      "name": "Models",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "models",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "true",
+      "type": "math",
+      "symbol": "⊨",
+      "unicode": [
+        "U+22A8"
+      ],
+      "name": "True",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "true",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "triple-vertical-bar-right-turnstile",
+      "type": "math",
+      "symbol": "⊪",
+      "unicode": [
+        "U+22AA"
+      ],
+      "name": "Triple Vertical Bar Right Turnstile",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "math",
+        "mathematics",
+        "operator",
+        "right",
+        "symbol",
+        "triple",
+        "turnstile",
+        "unicode",
+        "vertical"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-vertical-bar-double-right-turnstile",
+      "type": "math",
+      "symbol": "⊫",
+      "unicode": [
+        "U+22AB"
+      ],
+      "name": "Double Vertical Bar Double Right Turnstile",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "double",
+        "math",
+        "mathematics",
+        "operator",
+        "right",
+        "symbol",
+        "turnstile",
+        "unicode",
+        "vertical"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "negated-double-vertical-bar-double-right-turnstile",
+      "type": "math",
+      "symbol": "⊯",
+      "unicode": [
+        "U+22AF"
+      ],
+      "name": "Negated Double Vertical Bar Double Right Turnstile",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "double",
+        "math",
+        "mathematics",
+        "negated",
+        "operator",
+        "right",
+        "symbol",
+        "turnstile",
+        "unicode",
+        "vertical"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "precedes-under-relation",
+      "type": "math",
+      "symbol": "⊰",
+      "unicode": [
+        "U+22B0"
+      ],
+      "name": "Precedes Under Relation",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "precedes",
+        "relation",
+        "symbol",
+        "under",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "succeeds-under-relation",
+      "type": "math",
+      "symbol": "⊱",
+      "unicode": [
+        "U+22B1"
+      ],
+      "name": "Succeeds Under Relation",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "relation",
+        "succeeds",
+        "symbol",
+        "under",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "image-of",
+      "type": "math",
+      "symbol": "⊷",
+      "unicode": [
+        "U+22B7"
+      ],
+      "name": "Image Of",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "image",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "multimap",
+      "type": "math",
+      "symbol": "⊸",
+      "unicode": [
+        "U+22B8"
+      ],
+      "name": "Multimap",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "multimap",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hermitian-conjugate-matrix",
+      "type": "math",
+      "symbol": "⊹",
+      "unicode": [
+        "U+22B9"
+      ],
+      "name": "Hermitian Conjugate Matrix",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "conjugate",
+        "hermitian",
+        "math",
+        "mathematics",
+        "matrix",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "intercalate",
+      "type": "math",
+      "symbol": "⊺",
+      "unicode": [
+        "U+22BA"
+      ],
+      "name": "Intercalate",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "intercalate",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "bowtie",
+      "type": "math",
+      "symbol": "⋈",
+      "unicode": [
+        "U+22C8"
+      ],
+      "name": "Bowtie",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "bowtie",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "vertical-ellipsis",
+      "type": "math",
+      "symbol": "⋮",
+      "unicode": [
+        "U+22EE"
+      ],
+      "name": "Vertical Ellipsis",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "ellipsis",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode",
+        "vertical"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "up-right-diagonal-ellipsis",
+      "type": "math",
+      "symbol": "⋰",
+      "unicode": [
+        "U+22F0"
+      ],
+      "name": "Up Right Diagonal Ellipsis",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "diagonal",
+        "ellipsis",
+        "math",
+        "mathematics",
+        "operator",
+        "right",
+        "symbol",
+        "unicode",
+        "up"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "down-right-diagonal-ellipsis",
+      "type": "math",
+      "symbol": "⋱",
+      "unicode": [
+        "U+22F1"
+      ],
+      "name": "Down Right Diagonal Ellipsis",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "diagonal",
+        "down",
+        "ellipsis",
+        "math",
+        "mathematics",
+        "operator",
+        "right",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "element-of-with-dot-above",
+      "type": "math",
+      "symbol": "⋵",
+      "unicode": [
+        "U+22F5"
+      ],
+      "name": "Element Of With Dot Above",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "above",
+        "dot",
+        "element",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "symbol",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "element-of-with-overbar",
+      "type": "math",
+      "symbol": "⋶",
+      "unicode": [
+        "U+22F6"
+      ],
+      "name": "Element Of With Overbar",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "element",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "overbar",
+        "symbol",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "small-element-of-with-overbar",
+      "type": "math",
+      "symbol": "⋷",
+      "unicode": [
+        "U+22F7"
+      ],
+      "name": "Small Element Of With Overbar",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "element",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "overbar",
+        "small",
+        "symbol",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "element-of-with-underbar",
+      "type": "math",
+      "symbol": "⋸",
+      "unicode": [
+        "U+22F8"
+      ],
+      "name": "Element Of With Underbar",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "element",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "symbol",
+        "underbar",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "contains-with-overbar",
+      "type": "math",
+      "symbol": "⋽",
+      "unicode": [
+        "U+22FD"
+      ],
+      "name": "Contains With Overbar",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "contains",
+        "math",
+        "mathematics",
+        "operator",
+        "overbar",
+        "symbol",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "small-contains-with-overbar",
+      "type": "math",
+      "symbol": "⋾",
+      "unicode": [
+        "U+22FE"
+      ],
+      "name": "Small Contains With Overbar",
+      "aliases": [],
+      "category": "Mathematics",
+      "subcategory": null,
+      "tags": [
+        "contains",
+        "math",
+        "mathematics",
+        "operator",
+        "overbar",
+        "small",
+        "symbol",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-one",
+      "type": "math",
+      "symbol": "¹",
+      "unicode": [
+        "U+00B9"
+      ],
+      "name": "Superscript One",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "one",
+        "operator",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-two",
+      "type": "math",
+      "symbol": "²",
+      "unicode": [
+        "U+00B2"
+      ],
+      "name": "Superscript Two",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "two",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-three",
+      "type": "math",
+      "symbol": "³",
+      "unicode": [
+        "U+00B3"
+      ],
+      "name": "Superscript Three",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "three",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-zero",
+      "type": "math",
+      "symbol": "⁰",
+      "unicode": [
+        "U+2070"
+      ],
+      "name": "Superscript Zero",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "unicode",
+        "zero"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-latin-small-letter-i",
+      "type": "math",
+      "symbol": "ⁱ",
+      "unicode": [
+        "U+2071"
+      ],
+      "name": "Superscript Latin Small Letter I",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "i",
+        "latin",
+        "letter",
+        "math",
+        "mathematics",
+        "operator",
+        "small",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-four",
+      "type": "math",
+      "symbol": "⁴",
+      "unicode": [
+        "U+2074"
+      ],
+      "name": "Superscript Four",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "four",
+        "math",
+        "mathematics",
+        "operator",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-five",
+      "type": "math",
+      "symbol": "⁵",
+      "unicode": [
+        "U+2075"
+      ],
+      "name": "Superscript Five",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "five",
+        "math",
+        "mathematics",
+        "operator",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-six",
+      "type": "math",
+      "symbol": "⁶",
+      "unicode": [
+        "U+2076"
+      ],
+      "name": "Superscript Six",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "six",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-seven",
+      "type": "math",
+      "symbol": "⁷",
+      "unicode": [
+        "U+2077"
+      ],
+      "name": "Superscript Seven",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "seven",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-eight",
+      "type": "math",
+      "symbol": "⁸",
+      "unicode": [
+        "U+2078"
+      ],
+      "name": "Superscript Eight",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "eight",
+        "math",
+        "mathematics",
+        "operator",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-nine",
+      "type": "math",
+      "symbol": "⁹",
+      "unicode": [
+        "U+2079"
+      ],
+      "name": "Superscript Nine",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "nine",
+        "operator",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-left-parenthesis",
+      "type": "math",
+      "symbol": "⁽",
+      "unicode": [
+        "U+207D"
+      ],
+      "name": "Superscript Left Parenthesis",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "left",
+        "math",
+        "mathematics",
+        "operator",
+        "parenthesis",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-right-parenthesis",
+      "type": "math",
+      "symbol": "⁾",
+      "unicode": [
+        "U+207E"
+      ],
+      "name": "Superscript Right Parenthesis",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "parenthesis",
+        "right",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superscript-latin-small-letter-n",
+      "type": "math",
+      "symbol": "ⁿ",
+      "unicode": [
+        "U+207F"
+      ],
+      "name": "Superscript Latin Small Letter N",
+      "aliases": [],
+      "category": "Superscripts",
+      "subcategory": null,
+      "tags": [
+        "latin",
+        "letter",
+        "math",
+        "mathematics",
+        "n",
+        "operator",
+        "small",
+        "superscript",
+        "superscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "n-ary-product",
+      "type": "math",
+      "symbol": "∏",
+      "unicode": [
+        "U+220F"
+      ],
+      "name": "N-Ary Product",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "ary",
+        "calculus",
+        "math",
+        "mathematics",
+        "multiply",
+        "n",
+        "operator",
+        "product",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "n-ary-coproduct",
+      "type": "math",
+      "symbol": "∐",
+      "unicode": [
+        "U+2210"
+      ],
+      "name": "N-Ary Coproduct",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "ary",
+        "calculus",
+        "coproduct",
+        "math",
+        "mathematics",
+        "n",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "n-ary-summation",
+      "type": "math",
+      "symbol": "∑",
+      "unicode": [
+        "U+2211"
+      ],
+      "name": "N-Ary Summation",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "ary",
+        "calculus",
+        "math",
+        "mathematics",
+        "n",
+        "operator",
+        "sigma",
+        "sum",
+        "summation",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "integral",
+      "type": "math",
+      "symbol": "∫",
+      "unicode": [
+        "U+222B"
+      ],
+      "name": "Integral",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "integral",
+        "integration",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-integral",
+      "type": "math",
+      "symbol": "∬",
+      "unicode": [
+        "U+222C"
+      ],
+      "name": "Double Integral",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "double",
+        "integral",
+        "integration",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "triple-integral",
+      "type": "math",
+      "symbol": "∭",
+      "unicode": [
+        "U+222D"
+      ],
+      "name": "Triple Integral",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "integral",
+        "integration",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "triple",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "contour-integral",
+      "type": "math",
+      "symbol": "∮",
+      "unicode": [
+        "U+222E"
+      ],
+      "name": "Contour Integral",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "contour",
+        "integral",
+        "integration",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "surface-integral",
+      "type": "math",
+      "symbol": "∯",
+      "unicode": [
+        "U+222F"
+      ],
+      "name": "Surface Integral",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "integral",
+        "integration",
+        "math",
+        "mathematics",
+        "operator",
+        "surface",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "volume-integral",
+      "type": "math",
+      "symbol": "∰",
+      "unicode": [
+        "U+2230"
+      ],
+      "name": "Volume Integral",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "integral",
+        "integration",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode",
+        "volume"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "clockwise-integral",
+      "type": "math",
+      "symbol": "∱",
+      "unicode": [
+        "U+2231"
+      ],
+      "name": "Clockwise Integral",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "clockwise",
+        "integral",
+        "integration",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "clockwise-contour-integral",
+      "type": "math",
+      "symbol": "∲",
+      "unicode": [
+        "U+2232"
+      ],
+      "name": "Clockwise Contour Integral",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "clockwise",
+        "contour",
+        "integral",
+        "integration",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "anticlockwise-contour-integral",
+      "type": "math",
+      "symbol": "∳",
+      "unicode": [
+        "U+2233"
+      ],
+      "name": "Anticlockwise Contour Integral",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "anticlockwise",
+        "calculus",
+        "contour",
+        "integral",
+        "integration",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "wreath-product",
+      "type": "math",
+      "symbol": "≀",
+      "unicode": [
+        "U+2240"
+      ],
+      "name": "Wreath Product",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "math",
+        "mathematics",
+        "multiply",
+        "operator",
+        "product",
+        "symbol",
+        "unicode",
+        "wreath"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-normal-factor-semidirect-product",
+      "type": "math",
+      "symbol": "⋉",
+      "unicode": [
+        "U+22C9"
+      ],
+      "name": "Left Normal Factor Semidirect Product",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "factor",
+        "left",
+        "math",
+        "mathematics",
+        "multiply",
+        "normal",
+        "operator",
+        "product",
+        "semidirect",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "right-normal-factor-semidirect-product",
+      "type": "math",
+      "symbol": "⋊",
+      "unicode": [
+        "U+22CA"
+      ],
+      "name": "Right Normal Factor Semidirect Product",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "factor",
+        "math",
+        "mathematics",
+        "multiply",
+        "normal",
+        "operator",
+        "product",
+        "right",
+        "semidirect",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-semidirect-product",
+      "type": "math",
+      "symbol": "⋋",
+      "unicode": [
+        "U+22CB"
+      ],
+      "name": "Left Semidirect Product",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "left",
+        "math",
+        "mathematics",
+        "multiply",
+        "operator",
+        "product",
+        "semidirect",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "right-semidirect-product",
+      "type": "math",
+      "symbol": "⋌",
+      "unicode": [
+        "U+22CC"
+      ],
+      "name": "Right Semidirect Product",
+      "aliases": [],
+      "category": "Calculus",
+      "subcategory": null,
+      "tags": [
+        "calculus",
+        "math",
+        "mathematics",
+        "multiply",
+        "operator",
+        "product",
+        "right",
+        "semidirect",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "infinity",
+      "type": "math",
+      "symbol": "∞",
+      "unicode": [
+        "U+221E"
+      ],
+      "name": "Infinity",
+      "aliases": [],
+      "category": "Constants",
+      "subcategory": null,
+      "tags": [
+        "constants",
+        "endless",
+        "infinity",
+        "limitless",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "right-angle",
+      "type": "math",
+      "symbol": "∟",
+      "unicode": [
+        "U+221F"
+      ],
+      "name": "Right Angle",
+      "aliases": [],
+      "category": "Geometry",
+      "subcategory": null,
+      "tags": [
+        "angle",
+        "geometry",
+        "math",
+        "mathematics",
+        "operator",
+        "right",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "angle",
+      "type": "math",
+      "symbol": "∠",
+      "unicode": [
+        "U+2220"
+      ],
+      "name": "Angle",
+      "aliases": [],
+      "category": "Geometry",
+      "subcategory": null,
+      "tags": [
+        "angle",
+        "geometry",
+        "math",
+        "mathematics",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "measured-angle",
+      "type": "math",
+      "symbol": "∡",
+      "unicode": [
+        "U+2221"
+      ],
+      "name": "Measured Angle",
+      "aliases": [],
+      "category": "Geometry",
+      "subcategory": null,
+      "tags": [
+        "angle",
+        "geometry",
+        "math",
+        "mathematics",
+        "measured",
+        "operator",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "spherical-angle",
+      "type": "math",
+      "symbol": "∢",
+      "unicode": [
+        "U+2222"
+      ],
+      "name": "Spherical Angle",
+      "aliases": [],
+      "category": "Geometry",
+      "subcategory": null,
+      "tags": [
+        "angle",
+        "geometry",
+        "math",
+        "mathematics",
+        "operator",
+        "spherical",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "right-angle-with-arc",
+      "type": "math",
+      "symbol": "⊾",
+      "unicode": [
+        "U+22BE"
+      ],
+      "name": "Right Angle With Arc",
+      "aliases": [],
+      "category": "Geometry",
+      "subcategory": null,
+      "tags": [
+        "angle",
+        "arc",
+        "geometry",
+        "math",
+        "mathematics",
+        "operator",
+        "right",
+        "symbol",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "right-triangle",
+      "type": "math",
+      "symbol": "⊿",
+      "unicode": [
+        "U+22BF"
+      ],
+      "name": "Right Triangle",
+      "aliases": [],
+      "category": "Geometry",
+      "subcategory": null,
+      "tags": [
+        "geometry",
+        "math",
+        "mathematics",
+        "operator",
+        "right",
+        "symbol",
+        "triangle",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "intersection",
+      "type": "math",
+      "symbol": "∩",
+      "unicode": [
+        "U+2229"
+      ],
+      "name": "Intersection",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "common",
+        "intersection",
+        "math",
+        "mathematics",
+        "operator",
+        "set",
+        "symbol",
+        "theory",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "union",
+      "type": "math",
+      "symbol": "∪",
+      "unicode": [
+        "U+222A"
+      ],
+      "name": "Union",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "combine",
+        "math",
+        "mathematics",
+        "operator",
+        "set",
+        "symbol",
+        "theory",
+        "unicode",
+        "union"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subset-of",
+      "type": "math",
+      "symbol": "⊂",
+      "unicode": [
+        "U+2282"
+      ],
+      "name": "Subset Of",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "contained",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "set",
+        "subset",
+        "symbol",
+        "theory",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superset-of",
+      "type": "math",
+      "symbol": "⊃",
+      "unicode": [
+        "U+2283"
+      ],
+      "name": "Superset Of",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "contains",
+        "math",
+        "mathematics",
+        "of",
+        "operator",
+        "set",
+        "superset",
+        "symbol",
+        "theory",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-a-subset-of",
+      "type": "math",
+      "symbol": "⊄",
+      "unicode": [
+        "U+2284"
+      ],
+      "name": "Not A Subset Of",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "contained",
+        "math",
+        "mathematics",
+        "not",
+        "of",
+        "operator",
+        "set",
+        "subset",
+        "symbol",
+        "theory",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "not-a-superset-of",
+      "type": "math",
+      "symbol": "⊅",
+      "unicode": [
+        "U+2285"
+      ],
+      "name": "Not A Superset Of",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "contains",
+        "math",
+        "mathematics",
+        "not",
+        "of",
+        "operator",
+        "set",
+        "superset",
+        "symbol",
+        "theory",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "multiset-union",
+      "type": "math",
+      "symbol": "⊎",
+      "unicode": [
+        "U+228E"
+      ],
+      "name": "Multiset Union",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "combine",
+        "math",
+        "mathematics",
+        "multiset",
+        "operator",
+        "set",
+        "symbol",
+        "theory",
+        "unicode",
+        "union"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "n-ary-intersection",
+      "type": "math",
+      "symbol": "⋂",
+      "unicode": [
+        "U+22C2"
+      ],
+      "name": "N-Ary Intersection",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "ary",
+        "common",
+        "intersection",
+        "math",
+        "mathematics",
+        "n",
+        "operator",
+        "set",
+        "symbol",
+        "theory",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "n-ary-union",
+      "type": "math",
+      "symbol": "⋃",
+      "unicode": [
+        "U+22C3"
+      ],
+      "name": "N-Ary Union",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "ary",
+        "combine",
+        "math",
+        "mathematics",
+        "n",
+        "operator",
+        "set",
+        "symbol",
+        "theory",
+        "unicode",
+        "union"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-subset",
+      "type": "math",
+      "symbol": "⋐",
+      "unicode": [
+        "U+22D0"
+      ],
+      "name": "Double Subset",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "contained",
+        "double",
+        "math",
+        "mathematics",
+        "operator",
+        "set",
+        "subset",
+        "symbol",
+        "theory",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-superset",
+      "type": "math",
+      "symbol": "⋑",
+      "unicode": [
+        "U+22D1"
+      ],
+      "name": "Double Superset",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "contains",
+        "double",
+        "math",
+        "mathematics",
+        "operator",
+        "set",
+        "superset",
+        "symbol",
+        "theory",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-intersection",
+      "type": "math",
+      "symbol": "⋒",
+      "unicode": [
+        "U+22D2"
+      ],
+      "name": "Double Intersection",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "common",
+        "double",
+        "intersection",
+        "math",
+        "mathematics",
+        "operator",
+        "set",
+        "symbol",
+        "theory",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-union",
+      "type": "math",
+      "symbol": "⋓",
+      "unicode": [
+        "U+22D3"
+      ],
+      "name": "Double Union",
+      "aliases": [],
+      "category": "Set Theory",
+      "subcategory": null,
+      "tags": [
+        "combine",
+        "double",
+        "math",
+        "mathematics",
+        "operator",
+        "set",
+        "symbol",
+        "theory",
+        "unicode",
+        "union"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-zero",
+      "type": "math",
+      "symbol": "₀",
+      "unicode": [
+        "U+2080"
+      ],
+      "name": "Subscript Zero",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode",
+        "zero"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-one",
+      "type": "math",
+      "symbol": "₁",
+      "unicode": [
+        "U+2081"
+      ],
+      "name": "Subscript One",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "one",
+        "operator",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-two",
+      "type": "math",
+      "symbol": "₂",
+      "unicode": [
+        "U+2082"
+      ],
+      "name": "Subscript Two",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "two",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-three",
+      "type": "math",
+      "symbol": "₃",
+      "unicode": [
+        "U+2083"
+      ],
+      "name": "Subscript Three",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "three",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-four",
+      "type": "math",
+      "symbol": "₄",
+      "unicode": [
+        "U+2084"
+      ],
+      "name": "Subscript Four",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "four",
+        "math",
+        "mathematics",
+        "operator",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-five",
+      "type": "math",
+      "symbol": "₅",
+      "unicode": [
+        "U+2085"
+      ],
+      "name": "Subscript Five",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "five",
+        "math",
+        "mathematics",
+        "operator",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-six",
+      "type": "math",
+      "symbol": "₆",
+      "unicode": [
+        "U+2086"
+      ],
+      "name": "Subscript Six",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "six",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-seven",
+      "type": "math",
+      "symbol": "₇",
+      "unicode": [
+        "U+2087"
+      ],
+      "name": "Subscript Seven",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "seven",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-eight",
+      "type": "math",
+      "symbol": "₈",
+      "unicode": [
+        "U+2088"
+      ],
+      "name": "Subscript Eight",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "eight",
+        "math",
+        "mathematics",
+        "operator",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-nine",
+      "type": "math",
+      "symbol": "₉",
+      "unicode": [
+        "U+2089"
+      ],
+      "name": "Subscript Nine",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "nine",
+        "operator",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-left-parenthesis",
+      "type": "math",
+      "symbol": "₍",
+      "unicode": [
+        "U+208D"
+      ],
+      "name": "Subscript Left Parenthesis",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "left",
+        "math",
+        "mathematics",
+        "operator",
+        "parenthesis",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subscript-right-parenthesis",
+      "type": "math",
+      "symbol": "₎",
+      "unicode": [
+        "U+208E"
+      ],
+      "name": "Subscript Right Parenthesis",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "math",
+        "mathematics",
+        "operator",
+        "parenthesis",
+        "right",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "latin-subscript-small-letter-a",
+      "type": "math",
+      "symbol": "ₐ",
+      "unicode": [
+        "U+2090"
+      ],
+      "name": "Latin Subscript Small Letter A",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "latin",
+        "letter",
+        "math",
+        "mathematics",
+        "operator",
+        "small",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "latin-subscript-small-letter-e",
+      "type": "math",
+      "symbol": "ₑ",
+      "unicode": [
+        "U+2091"
+      ],
+      "name": "Latin Subscript Small Letter E",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "e",
+        "latin",
+        "letter",
+        "math",
+        "mathematics",
+        "operator",
+        "small",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "latin-subscript-small-letter-o",
+      "type": "math",
+      "symbol": "ₒ",
+      "unicode": [
+        "U+2092"
+      ],
+      "name": "Latin Subscript Small Letter O",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "latin",
+        "letter",
+        "math",
+        "mathematics",
+        "o",
+        "operator",
+        "small",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "latin-subscript-small-letter-x",
+      "type": "math",
+      "symbol": "ₓ",
+      "unicode": [
+        "U+2093"
+      ],
+      "name": "Latin Subscript Small Letter X",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "latin",
+        "letter",
+        "math",
+        "mathematics",
+        "operator",
+        "small",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode",
+        "x"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "latin-subscript-small-letter-schwa",
+      "type": "math",
+      "symbol": "ₔ",
+      "unicode": [
+        "U+2094"
+      ],
+      "name": "Latin Subscript Small Letter Schwa",
+      "aliases": [],
+      "category": "Subscripts",
+      "subcategory": null,
+      "tags": [
+        "latin",
+        "letter",
+        "math",
+        "mathematics",
+        "operator",
+        "schwa",
+        "small",
+        "subscript",
+        "subscripts",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    }
+  ]
+}

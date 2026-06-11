@@ -1,0 +1,7945 @@
+{
+  "categories": [
+    {
+      "name": null,
+      "icon": "←"
+    }
+  ],
+  "symbols": [
+    {
+      "id": "leftwards-arrow",
+      "type": "arrow",
+      "symbol": "←",
+      "unicode": [
+        "U+2190"
+      ],
+      "name": "Leftwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow",
+        "move",
+        "navigation",
+        "pointer"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-arrow",
+      "type": "arrow",
+      "symbol": "↑",
+      "unicode": [
+        "U+2191"
+      ],
+      "name": "Upwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "top",
+        "up",
+        "upwards",
+        "upwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow",
+      "type": "arrow",
+      "symbol": "→",
+      "unicode": [
+        "U+2192"
+      ],
+      "name": "Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-arrow",
+      "type": "arrow",
+      "symbol": "↓",
+      "unicode": [
+        "U+2193"
+      ],
+      "name": "Downwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "south"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-right-arrow",
+      "type": "arrow",
+      "symbol": "↔",
+      "unicode": [
+        "U+2194"
+      ],
+      "name": "Left Right Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "left",
+        "left-right-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "up-down-arrow",
+      "type": "arrow",
+      "symbol": "↕",
+      "unicode": [
+        "U+2195"
+      ],
+      "name": "Up Down Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "south",
+        "top",
+        "up",
+        "up-down-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-west-arrow",
+      "type": "arrow",
+      "symbol": "↖",
+      "unicode": [
+        "U+2196"
+      ],
+      "name": "North West Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "left",
+        "move",
+        "navigation",
+        "north",
+        "north-west-arrow",
+        "pointer",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-east-arrow",
+      "type": "arrow",
+      "symbol": "↗",
+      "unicode": [
+        "U+2197"
+      ],
+      "name": "North East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "east",
+        "move",
+        "navigation",
+        "north",
+        "north-east-arrow",
+        "pointer",
+        "right",
+        "up"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "south-east-arrow",
+      "type": "arrow",
+      "symbol": "↘",
+      "unicode": [
+        "U+2198"
+      ],
+      "name": "South East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "down",
+        "east",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "south",
+        "south-east-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "south-west-arrow",
+      "type": "arrow",
+      "symbol": "↙",
+      "unicode": [
+        "U+2199"
+      ],
+      "name": "South West Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "down",
+        "left",
+        "move",
+        "navigation",
+        "pointer",
+        "south",
+        "south-west-arrow",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-with-stroke",
+      "type": "arrow",
+      "symbol": "↚",
+      "unicode": [
+        "U+219A"
+      ],
+      "name": "Leftwards Arrow With Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-with-stroke",
+        "move",
+        "navigation",
+        "pointer",
+        "stroke",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-with-stroke",
+      "type": "arrow",
+      "symbol": "↛",
+      "unicode": [
+        "U+219B"
+      ],
+      "name": "Rightwards Arrow With Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-with-stroke",
+        "stroke",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-wave-arrow",
+      "type": "arrow",
+      "symbol": "↜",
+      "unicode": [
+        "U+219C"
+      ],
+      "name": "Leftwards Wave Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-wave-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "wave"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-wave-arrow",
+      "type": "arrow",
+      "symbol": "↝",
+      "unicode": [
+        "U+219D"
+      ],
+      "name": "Rightwards Wave Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-wave-arrow",
+        "wave"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-two-headed-arrow",
+      "type": "arrow",
+      "symbol": "↞",
+      "unicode": [
+        "U+219E"
+      ],
+      "name": "Leftwards Two Headed Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "headed",
+        "leftwards",
+        "leftwards-two-headed-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "two"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-two-headed-arrow",
+      "type": "arrow",
+      "symbol": "↟",
+      "unicode": [
+        "U+219F"
+      ],
+      "name": "Upwards Two Headed Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "headed",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "top",
+        "two",
+        "up",
+        "upwards",
+        "upwards-two-headed-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-two-headed-arrow",
+      "type": "arrow",
+      "symbol": "↠",
+      "unicode": [
+        "U+21A0"
+      ],
+      "name": "Rightwards Two Headed Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "headed",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-two-headed-arrow",
+        "two"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-two-headed-arrow",
+      "type": "arrow",
+      "symbol": "↡",
+      "unicode": [
+        "U+21A1"
+      ],
+      "name": "Downwards Two Headed Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-two-headed-arrow",
+        "headed",
+        "move",
+        "navigation",
+        "pointer",
+        "south",
+        "two"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-with-tail",
+      "type": "arrow",
+      "symbol": "↢",
+      "unicode": [
+        "U+21A2"
+      ],
+      "name": "Leftwards Arrow With Tail",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-with-tail",
+        "move",
+        "navigation",
+        "pointer",
+        "tail",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-with-tail",
+      "type": "arrow",
+      "symbol": "↣",
+      "unicode": [
+        "U+21A3"
+      ],
+      "name": "Rightwards Arrow With Tail",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-with-tail",
+        "tail",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-from-bar",
+      "type": "arrow",
+      "symbol": "↤",
+      "unicode": [
+        "U+21A4"
+      ],
+      "name": "Leftwards Arrow From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "from",
+        "leftwards",
+        "leftwards-arrow-from-bar",
+        "move",
+        "navigation",
+        "pointer"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-arrow-from-bar",
+      "type": "arrow",
+      "symbol": "↥",
+      "unicode": [
+        "U+21A5"
+      ],
+      "name": "Upwards Arrow From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "from",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "top",
+        "up",
+        "upwards",
+        "upwards-arrow-from-bar"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-from-bar",
+      "type": "arrow",
+      "symbol": "↦",
+      "unicode": [
+        "U+21A6"
+      ],
+      "name": "Rightwards Arrow From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "from",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-from-bar"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-arrow-from-bar",
+      "type": "arrow",
+      "symbol": "↧",
+      "unicode": [
+        "U+21A7"
+      ],
+      "name": "Downwards Arrow From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-arrow-from-bar",
+        "from",
+        "move",
+        "navigation",
+        "pointer",
+        "south"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "up-down-arrow-with-base",
+      "type": "arrow",
+      "symbol": "↨",
+      "unicode": [
+        "U+21A8"
+      ],
+      "name": "Up Down Arrow With Base",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "base",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "south",
+        "top",
+        "up",
+        "up-down-arrow-with-base",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-with-hook",
+      "type": "arrow",
+      "symbol": "↩",
+      "unicode": [
+        "U+21A9"
+      ],
+      "name": "Leftwards Arrow With Hook",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "hook",
+        "leftwards",
+        "leftwards-arrow-with-hook",
+        "move",
+        "navigation",
+        "pointer",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-with-hook",
+      "type": "arrow",
+      "symbol": "↪",
+      "unicode": [
+        "U+21AA"
+      ],
+      "name": "Rightwards Arrow With Hook",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "hook",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-with-hook",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-with-loop",
+      "type": "arrow",
+      "symbol": "↫",
+      "unicode": [
+        "U+21AB"
+      ],
+      "name": "Leftwards Arrow With Loop",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "cycle",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-with-loop",
+        "loop",
+        "move",
+        "navigation",
+        "pointer",
+        "repeat",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-with-loop",
+      "type": "arrow",
+      "symbol": "↬",
+      "unicode": [
+        "U+21AC"
+      ],
+      "name": "Rightwards Arrow With Loop",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "cycle",
+        "direction",
+        "loop",
+        "move",
+        "navigation",
+        "pointer",
+        "repeat",
+        "rightwards",
+        "rightwards-arrow-with-loop",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-right-wave-arrow",
+      "type": "arrow",
+      "symbol": "↭",
+      "unicode": [
+        "U+21AD"
+      ],
+      "name": "Left Right Wave Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "left",
+        "left-right-wave-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "wave",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-right-arrow-with-stroke",
+      "type": "arrow",
+      "symbol": "↮",
+      "unicode": [
+        "U+21AE"
+      ],
+      "name": "Left Right Arrow With Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "left",
+        "left-right-arrow-with-stroke",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "stroke",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-zigzag-arrow",
+      "type": "arrow",
+      "symbol": "↯",
+      "unicode": [
+        "U+21AF"
+      ],
+      "name": "Downwards Zigzag Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-zigzag-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "south",
+        "zigzag"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-arrow-with-tip-leftwards",
+      "type": "arrow",
+      "symbol": "↰",
+      "unicode": [
+        "U+21B0"
+      ],
+      "name": "Upwards Arrow With Tip Leftwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "tip",
+        "top",
+        "up",
+        "upwards",
+        "upwards-arrow-with-tip-leftwards",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-arrow-with-tip-rightwards",
+      "type": "arrow",
+      "symbol": "↱",
+      "unicode": [
+        "U+21B1"
+      ],
+      "name": "Upwards Arrow With Tip Rightwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "rightwards",
+        "tip",
+        "top",
+        "up",
+        "upwards",
+        "upwards-arrow-with-tip-rightwards",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-arrow-with-tip-leftwards",
+      "type": "arrow",
+      "symbol": "↲",
+      "unicode": [
+        "U+21B2"
+      ],
+      "name": "Downwards Arrow With Tip Leftwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-arrow-with-tip-leftwards",
+        "leftwards",
+        "move",
+        "navigation",
+        "pointer",
+        "south",
+        "tip",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-arrow-with-tip-rightwards",
+      "type": "arrow",
+      "symbol": "↳",
+      "unicode": [
+        "U+21B3"
+      ],
+      "name": "Downwards Arrow With Tip Rightwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-arrow-with-tip-rightwards",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "south",
+        "tip",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-with-corner-downwards",
+      "type": "arrow",
+      "symbol": "↴",
+      "unicode": [
+        "U+21B4"
+      ],
+      "name": "Rightwards Arrow With Corner Downwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "corner",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-with-corner-downwards",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-arrow-with-corner-leftwards",
+      "type": "arrow",
+      "symbol": "↵",
+      "unicode": [
+        "U+21B5"
+      ],
+      "name": "Downwards Arrow With Corner Leftwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "corner",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-arrow-with-corner-leftwards",
+        "leftwards",
+        "move",
+        "navigation",
+        "pointer",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "anticlockwise-top-semicircle-arrow",
+      "type": "arrow",
+      "symbol": "↶",
+      "unicode": [
+        "U+21B6"
+      ],
+      "name": "Anticlockwise Top Semicircle Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "anticlockwise",
+        "anticlockwise-top-semicircle-arrow",
+        "arrow",
+        "counterclockwise",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rotate-left",
+        "semicircle",
+        "top"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "clockwise-top-semicircle-arrow",
+      "type": "arrow",
+      "symbol": "↷",
+      "unicode": [
+        "U+21B7"
+      ],
+      "name": "Clockwise Top Semicircle Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "clockwise",
+        "clockwise-top-semicircle-arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "refresh",
+        "rotate-right",
+        "semicircle",
+        "top"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-west-arrow-to-long-bar",
+      "type": "arrow",
+      "symbol": "↸",
+      "unicode": [
+        "U+21B8"
+      ],
+      "name": "North West Arrow To Long Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "left",
+        "long",
+        "move",
+        "navigation",
+        "north",
+        "north-west-arrow-to-long-bar",
+        "pointer",
+        "to",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-to-bar-over-rightwards-arrow-to-bar",
+      "type": "arrow",
+      "symbol": "↹",
+      "unicode": [
+        "U+21B9"
+      ],
+      "name": "Leftwards Arrow To Bar Over Rightwards Arrow To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-to-bar-over-rightwards-arrow-to-bar",
+        "move",
+        "navigation",
+        "over",
+        "pointer",
+        "rightwards",
+        "to"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "anticlockwise-open-circle-arrow",
+      "type": "arrow",
+      "symbol": "↺",
+      "unicode": [
+        "U+21BA"
+      ],
+      "name": "Anticlockwise Open Circle Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "anticlockwise",
+        "anticlockwise-open-circle-arrow",
+        "arrow",
+        "circle",
+        "counterclockwise",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "open",
+        "pointer",
+        "rotate-left"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "clockwise-open-circle-arrow",
+      "type": "arrow",
+      "symbol": "↻",
+      "unicode": [
+        "U+21BB"
+      ],
+      "name": "Clockwise Open Circle Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "circle",
+        "clockwise",
+        "clockwise-open-circle-arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "open",
+        "pointer",
+        "refresh",
+        "rotate-right"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-harpoon-with-barb-upwards",
+      "type": "arrow",
+      "symbol": "↼",
+      "unicode": [
+        "U+21BC"
+      ],
+      "name": "Leftwards Harpoon With Barb Upwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "barb",
+        "harpoon",
+        "leftwards",
+        "leftwards-harpoon-with-barb-upwards",
+        "north",
+        "top",
+        "up",
+        "upwards",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-harpoon-with-barb-downwards",
+      "type": "arrow",
+      "symbol": "↽",
+      "unicode": [
+        "U+21BD"
+      ],
+      "name": "Leftwards Harpoon With Barb Downwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "barb",
+        "bottom",
+        "down",
+        "downwards",
+        "harpoon",
+        "leftwards",
+        "leftwards-harpoon-with-barb-downwards",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-harpoon-with-barb-rightwards",
+      "type": "arrow",
+      "symbol": "↾",
+      "unicode": [
+        "U+21BE"
+      ],
+      "name": "Upwards Harpoon With Barb Rightwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "barb",
+        "harpoon",
+        "north",
+        "rightwards",
+        "top",
+        "up",
+        "upwards",
+        "upwards-harpoon-with-barb-rightwards",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-harpoon-with-barb-leftwards",
+      "type": "arrow",
+      "symbol": "↿",
+      "unicode": [
+        "U+21BF"
+      ],
+      "name": "Upwards Harpoon With Barb Leftwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "barb",
+        "harpoon",
+        "leftwards",
+        "north",
+        "top",
+        "up",
+        "upwards",
+        "upwards-harpoon-with-barb-leftwards",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-harpoon-with-barb-upwards",
+      "type": "arrow",
+      "symbol": "⇀",
+      "unicode": [
+        "U+21C0"
+      ],
+      "name": "Rightwards Harpoon With Barb Upwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "barb",
+        "harpoon",
+        "north",
+        "rightwards",
+        "rightwards-harpoon-with-barb-upwards",
+        "top",
+        "up",
+        "upwards",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-harpoon-with-barb-downwards",
+      "type": "arrow",
+      "symbol": "⇁",
+      "unicode": [
+        "U+21C1"
+      ],
+      "name": "Rightwards Harpoon With Barb Downwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "barb",
+        "bottom",
+        "down",
+        "downwards",
+        "harpoon",
+        "rightwards",
+        "rightwards-harpoon-with-barb-downwards",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-harpoon-with-barb-rightwards",
+      "type": "arrow",
+      "symbol": "⇂",
+      "unicode": [
+        "U+21C2"
+      ],
+      "name": "Downwards Harpoon With Barb Rightwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "barb",
+        "bottom",
+        "down",
+        "downwards",
+        "downwards-harpoon-with-barb-rightwards",
+        "harpoon",
+        "rightwards",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-harpoon-with-barb-leftwards",
+      "type": "arrow",
+      "symbol": "⇃",
+      "unicode": [
+        "U+21C3"
+      ],
+      "name": "Downwards Harpoon With Barb Leftwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "barb",
+        "bottom",
+        "down",
+        "downwards",
+        "downwards-harpoon-with-barb-leftwards",
+        "harpoon",
+        "leftwards",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-over-leftwards-arrow",
+      "type": "arrow",
+      "symbol": "⇄",
+      "unicode": [
+        "U+21C4"
+      ],
+      "name": "Rightwards Arrow Over Leftwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "move",
+        "navigation",
+        "over",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-over-leftwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-arrow-leftwards-of-downwards-arrow",
+      "type": "arrow",
+      "symbol": "⇅",
+      "unicode": [
+        "U+21C5"
+      ],
+      "name": "Upwards Arrow Leftwards Of Downwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "leftwards",
+        "move",
+        "navigation",
+        "north",
+        "of",
+        "pointer",
+        "south",
+        "top",
+        "up",
+        "upwards",
+        "upwards-arrow-leftwards-of-downwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-over-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "⇆",
+      "unicode": [
+        "U+21C6"
+      ],
+      "name": "Leftwards Arrow Over Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-over-rightwards-arrow",
+        "move",
+        "navigation",
+        "over",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-paired-arrows",
+      "type": "arrow",
+      "symbol": "⇇",
+      "unicode": [
+        "U+21C7"
+      ],
+      "name": "Leftwards Paired Arrows",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrows",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-paired-arrows",
+        "move",
+        "navigation",
+        "paired",
+        "pointer"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-paired-arrows",
+      "type": "arrow",
+      "symbol": "⇈",
+      "unicode": [
+        "U+21C8"
+      ],
+      "name": "Upwards Paired Arrows",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrows",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "north",
+        "paired",
+        "pointer",
+        "top",
+        "up",
+        "upwards",
+        "upwards-paired-arrows"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-paired-arrows",
+      "type": "arrow",
+      "symbol": "⇉",
+      "unicode": [
+        "U+21C9"
+      ],
+      "name": "Rightwards Paired Arrows",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrows",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "paired",
+        "pointer",
+        "rightwards",
+        "rightwards-paired-arrows"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-paired-arrows",
+      "type": "arrow",
+      "symbol": "⇊",
+      "unicode": [
+        "U+21CA"
+      ],
+      "name": "Downwards Paired Arrows",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrows",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-paired-arrows",
+        "move",
+        "navigation",
+        "paired",
+        "pointer",
+        "south"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-harpoon-over-rightwards-harpoon",
+      "type": "arrow",
+      "symbol": "⇋",
+      "unicode": [
+        "U+21CB"
+      ],
+      "name": "Leftwards Harpoon Over Rightwards Harpoon",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "harpoon",
+        "leftwards",
+        "leftwards-harpoon-over-rightwards-harpoon",
+        "over",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-harpoon-over-leftwards-harpoon",
+      "type": "arrow",
+      "symbol": "⇌",
+      "unicode": [
+        "U+21CC"
+      ],
+      "name": "Rightwards Harpoon Over Leftwards Harpoon",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "harpoon",
+        "leftwards",
+        "over",
+        "rightwards",
+        "rightwards-harpoon-over-leftwards-harpoon"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-double-arrow-with-stroke",
+      "type": "arrow",
+      "symbol": "⇍",
+      "unicode": [
+        "U+21CD"
+      ],
+      "name": "Leftwards Double Arrow With Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "leftwards",
+        "leftwards-double-arrow-with-stroke",
+        "move",
+        "navigation",
+        "pointer",
+        "stroke",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-right-double-arrow-with-stroke",
+      "type": "arrow",
+      "symbol": "⇎",
+      "unicode": [
+        "U+21CE"
+      ],
+      "name": "Left Right Double Arrow With Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "cursor",
+        "direction",
+        "double",
+        "east",
+        "forward",
+        "left",
+        "left-right-double-arrow-with-stroke",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "stroke",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-double-arrow-with-stroke",
+      "type": "arrow",
+      "symbol": "⇏",
+      "unicode": [
+        "U+21CF"
+      ],
+      "name": "Rightwards Double Arrow With Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-double-arrow-with-stroke",
+        "stroke",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-double-arrow",
+      "type": "arrow",
+      "symbol": "⇐",
+      "unicode": [
+        "U+21D0"
+      ],
+      "name": "Leftwards Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "leftwards",
+        "leftwards-double-arrow",
+        "move",
+        "navigation",
+        "pointer"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-double-arrow",
+      "type": "arrow",
+      "symbol": "⇑",
+      "unicode": [
+        "U+21D1"
+      ],
+      "name": "Upwards Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "top",
+        "up",
+        "upwards",
+        "upwards-double-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-double-arrow",
+      "type": "arrow",
+      "symbol": "⇒",
+      "unicode": [
+        "U+21D2"
+      ],
+      "name": "Rightwards Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-double-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-double-arrow",
+      "type": "arrow",
+      "symbol": "⇓",
+      "unicode": [
+        "U+21D3"
+      ],
+      "name": "Downwards Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "double",
+        "down",
+        "downwards",
+        "downwards-double-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "south"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-right-double-arrow",
+      "type": "arrow",
+      "symbol": "⇔",
+      "unicode": [
+        "U+21D4"
+      ],
+      "name": "Left Right Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "cursor",
+        "direction",
+        "double",
+        "east",
+        "forward",
+        "left",
+        "left-right-double-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "up-down-double-arrow",
+      "type": "arrow",
+      "symbol": "⇕",
+      "unicode": [
+        "U+21D5"
+      ],
+      "name": "Up Down Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "double",
+        "down",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "south",
+        "top",
+        "up",
+        "up-down-double-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-west-double-arrow",
+      "type": "arrow",
+      "symbol": "⇖",
+      "unicode": [
+        "U+21D6"
+      ],
+      "name": "North West Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "left",
+        "move",
+        "navigation",
+        "north",
+        "north-west-double-arrow",
+        "pointer",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-east-double-arrow",
+      "type": "arrow",
+      "symbol": "⇗",
+      "unicode": [
+        "U+21D7"
+      ],
+      "name": "North East Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "east",
+        "move",
+        "navigation",
+        "north",
+        "north-east-double-arrow",
+        "pointer",
+        "right",
+        "up"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "south-east-double-arrow",
+      "type": "arrow",
+      "symbol": "⇘",
+      "unicode": [
+        "U+21D8"
+      ],
+      "name": "South East Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "down",
+        "east",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "south",
+        "south-east-double-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "south-west-double-arrow",
+      "type": "arrow",
+      "symbol": "⇙",
+      "unicode": [
+        "U+21D9"
+      ],
+      "name": "South West Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "down",
+        "left",
+        "move",
+        "navigation",
+        "pointer",
+        "south",
+        "south-west-double-arrow",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-triple-arrow",
+      "type": "arrow",
+      "symbol": "⇚",
+      "unicode": [
+        "U+21DA"
+      ],
+      "name": "Leftwards Triple Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-triple-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "triple"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-triple-arrow",
+      "type": "arrow",
+      "symbol": "⇛",
+      "unicode": [
+        "U+21DB"
+      ],
+      "name": "Rightwards Triple Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-triple-arrow",
+        "triple"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-squiggle-arrow",
+      "type": "arrow",
+      "symbol": "⇜",
+      "unicode": [
+        "U+21DC"
+      ],
+      "name": "Leftwards Squiggle Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-squiggle-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "squiggle"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-squiggle-arrow",
+      "type": "arrow",
+      "symbol": "⇝",
+      "unicode": [
+        "U+21DD"
+      ],
+      "name": "Rightwards Squiggle Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-squiggle-arrow",
+        "squiggle"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-arrow-with-double-stroke",
+      "type": "arrow",
+      "symbol": "⇞",
+      "unicode": [
+        "U+21DE"
+      ],
+      "name": "Upwards Arrow With Double Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "stroke",
+        "top",
+        "up",
+        "upwards",
+        "upwards-arrow-with-double-stroke",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-arrow-with-double-stroke",
+      "type": "arrow",
+      "symbol": "⇟",
+      "unicode": [
+        "U+21DF"
+      ],
+      "name": "Downwards Arrow With Double Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "double",
+        "down",
+        "downwards",
+        "downwards-arrow-with-double-stroke",
+        "move",
+        "navigation",
+        "pointer",
+        "south",
+        "stroke",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-dashed-arrow",
+      "type": "arrow",
+      "symbol": "⇠",
+      "unicode": [
+        "U+21E0"
+      ],
+      "name": "Leftwards Dashed Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "dashed",
+        "direction",
+        "leftwards",
+        "leftwards-dashed-arrow",
+        "move",
+        "navigation",
+        "pointer"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-dashed-arrow",
+      "type": "arrow",
+      "symbol": "⇡",
+      "unicode": [
+        "U+21E1"
+      ],
+      "name": "Upwards Dashed Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "dashed",
+        "direction",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "top",
+        "up",
+        "upwards",
+        "upwards-dashed-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-dashed-arrow",
+      "type": "arrow",
+      "symbol": "⇢",
+      "unicode": [
+        "U+21E2"
+      ],
+      "name": "Rightwards Dashed Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "dashed",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-dashed-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-dashed-arrow",
+      "type": "arrow",
+      "symbol": "⇣",
+      "unicode": [
+        "U+21E3"
+      ],
+      "name": "Downwards Dashed Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "dashed",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-dashed-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "south"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-to-bar",
+      "type": "arrow",
+      "symbol": "⇤",
+      "unicode": [
+        "U+21E4"
+      ],
+      "name": "Leftwards Arrow To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-to-bar",
+        "move",
+        "navigation",
+        "pointer",
+        "to"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-to-bar",
+      "type": "arrow",
+      "symbol": "⇥",
+      "unicode": [
+        "U+21E5"
+      ],
+      "name": "Rightwards Arrow To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-to-bar",
+        "to"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-white-arrow",
+      "type": "arrow",
+      "symbol": "⇦",
+      "unicode": [
+        "U+21E6"
+      ],
+      "name": "Leftwards White Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-white-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-white-arrow",
+      "type": "arrow",
+      "symbol": "⇧",
+      "unicode": [
+        "U+21E7"
+      ],
+      "name": "Upwards White Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "top",
+        "up",
+        "upwards",
+        "upwards-white-arrow",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-white-arrow",
+      "type": "arrow",
+      "symbol": "⇨",
+      "unicode": [
+        "U+21E8"
+      ],
+      "name": "Rightwards White Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-white-arrow",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-white-arrow",
+      "type": "arrow",
+      "symbol": "⇩",
+      "unicode": [
+        "U+21E9"
+      ],
+      "name": "Downwards White Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-white-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "south",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-white-arrow-from-bar",
+      "type": "arrow",
+      "symbol": "⇪",
+      "unicode": [
+        "U+21EA"
+      ],
+      "name": "Upwards White Arrow From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "from",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "top",
+        "up",
+        "upwards",
+        "upwards-white-arrow-from-bar",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-white-arrow-on-pedestal",
+      "type": "arrow",
+      "symbol": "⇫",
+      "unicode": [
+        "U+21EB"
+      ],
+      "name": "Upwards White Arrow On Pedestal",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "north",
+        "on",
+        "pedestal",
+        "pointer",
+        "top",
+        "up",
+        "upwards",
+        "upwards-white-arrow-on-pedestal",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-white-arrow-on-pedestal-with-horizontal-bar",
+      "type": "arrow",
+      "symbol": "⇬",
+      "unicode": [
+        "U+21EC"
+      ],
+      "name": "Upwards White Arrow On Pedestal With Horizontal Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "horizontal",
+        "move",
+        "navigation",
+        "north",
+        "on",
+        "pedestal",
+        "pointer",
+        "top",
+        "up",
+        "upwards",
+        "upwards-white-arrow-on-pedestal-with-horizontal-bar",
+        "white",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-white-arrow-on-pedestal-with-vertical-bar",
+      "type": "arrow",
+      "symbol": "⇭",
+      "unicode": [
+        "U+21ED"
+      ],
+      "name": "Upwards White Arrow On Pedestal With Vertical Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "north",
+        "on",
+        "pedestal",
+        "pointer",
+        "top",
+        "up",
+        "upwards",
+        "upwards-white-arrow-on-pedestal-with-vertical-bar",
+        "vertical",
+        "white",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-white-double-arrow",
+      "type": "arrow",
+      "symbol": "⇮",
+      "unicode": [
+        "U+21EE"
+      ],
+      "name": "Upwards White Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "top",
+        "up",
+        "upwards",
+        "upwards-white-double-arrow",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-white-double-arrow-on-pedestal",
+      "type": "arrow",
+      "symbol": "⇯",
+      "unicode": [
+        "U+21EF"
+      ],
+      "name": "Upwards White Double Arrow On Pedestal",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "move",
+        "navigation",
+        "north",
+        "on",
+        "pedestal",
+        "pointer",
+        "top",
+        "up",
+        "upwards",
+        "upwards-white-double-arrow-on-pedestal",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-white-arrow-from-wall",
+      "type": "arrow",
+      "symbol": "⇰",
+      "unicode": [
+        "U+21F0"
+      ],
+      "name": "Rightwards White Arrow From Wall",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "from",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-white-arrow-from-wall",
+        "wall",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-west-arrow-to-corner",
+      "type": "arrow",
+      "symbol": "⇱",
+      "unicode": [
+        "U+21F1"
+      ],
+      "name": "North West Arrow To Corner",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "corner",
+        "cursor",
+        "direction",
+        "left",
+        "move",
+        "navigation",
+        "north",
+        "north-west-arrow-to-corner",
+        "pointer",
+        "to",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "south-east-arrow-to-corner",
+      "type": "arrow",
+      "symbol": "⇲",
+      "unicode": [
+        "U+21F2"
+      ],
+      "name": "South East Arrow To Corner",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "corner",
+        "cursor",
+        "direction",
+        "down",
+        "east",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "south",
+        "south-east-arrow-to-corner",
+        "to"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "up-down-white-arrow",
+      "type": "arrow",
+      "symbol": "⇳",
+      "unicode": [
+        "U+21F3"
+      ],
+      "name": "Up Down White Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "south",
+        "top",
+        "up",
+        "up-down-white-arrow",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "right-arrow-with-small-circle",
+      "type": "arrow",
+      "symbol": "⇴",
+      "unicode": [
+        "U+21F4"
+      ],
+      "name": "Right Arrow With Small Circle",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "circle",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "right-arrow-with-small-circle",
+        "small",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-arrow-leftwards-of-upwards-arrow",
+      "type": "arrow",
+      "symbol": "⇵",
+      "unicode": [
+        "U+21F5"
+      ],
+      "name": "Downwards Arrow Leftwards Of Upwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-arrow-leftwards-of-upwards-arrow",
+        "leftwards",
+        "move",
+        "navigation",
+        "north",
+        "of",
+        "pointer",
+        "south",
+        "top",
+        "up",
+        "upwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "three-rightwards-arrows",
+      "type": "arrow",
+      "symbol": "⇶",
+      "unicode": [
+        "U+21F6"
+      ],
+      "name": "Three Rightwards Arrows",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrows",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "three",
+        "three-rightwards-arrows"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-with-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⇷",
+      "unicode": [
+        "U+21F7"
+      ],
+      "name": "Leftwards Arrow With Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-with-vertical-stroke",
+        "move",
+        "navigation",
+        "pointer",
+        "stroke",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-with-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⇸",
+      "unicode": [
+        "U+21F8"
+      ],
+      "name": "Rightwards Arrow With Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-with-vertical-stroke",
+        "stroke",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-right-arrow-with-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⇹",
+      "unicode": [
+        "U+21F9"
+      ],
+      "name": "Left Right Arrow With Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "left",
+        "left-right-arrow-with-vertical-stroke",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "stroke",
+        "vertical",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-with-double-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⇺",
+      "unicode": [
+        "U+21FA"
+      ],
+      "name": "Leftwards Arrow With Double Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "leftwards",
+        "leftwards-arrow-with-double-vertical-stroke",
+        "move",
+        "navigation",
+        "pointer",
+        "stroke",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-with-double-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⇻",
+      "unicode": [
+        "U+21FB"
+      ],
+      "name": "Rightwards Arrow With Double Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-with-double-vertical-stroke",
+        "stroke",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-right-arrow-with-double-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⇼",
+      "unicode": [
+        "U+21FC"
+      ],
+      "name": "Left Right Arrow With Double Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "cursor",
+        "direction",
+        "double",
+        "east",
+        "forward",
+        "left",
+        "left-right-arrow-with-double-vertical-stroke",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "stroke",
+        "vertical",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-open-headed-arrow",
+      "type": "arrow",
+      "symbol": "⇽",
+      "unicode": [
+        "U+21FD"
+      ],
+      "name": "Leftwards Open-Headed Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "headed",
+        "leftwards",
+        "leftwards-open-headed-arrow",
+        "move",
+        "navigation",
+        "open",
+        "pointer"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-open-headed-arrow",
+      "type": "arrow",
+      "symbol": "⇾",
+      "unicode": [
+        "U+21FE"
+      ],
+      "name": "Rightwards Open-Headed Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "headed",
+        "move",
+        "navigation",
+        "open",
+        "pointer",
+        "rightwards",
+        "rightwards-open-headed-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-right-open-headed-arrow",
+      "type": "arrow",
+      "symbol": "⇿",
+      "unicode": [
+        "U+21FF"
+      ],
+      "name": "Left Right Open-Headed Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "headed",
+        "left",
+        "left-right-open-headed-arrow",
+        "move",
+        "navigation",
+        "open",
+        "pointer",
+        "right",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-quadruple-arrow",
+      "type": "arrow",
+      "symbol": "⟰",
+      "unicode": [
+        "U+27F0"
+      ],
+      "name": "Upwards Quadruple Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "quadruple",
+        "top",
+        "up",
+        "upwards",
+        "upwards-quadruple-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-quadruple-arrow",
+      "type": "arrow",
+      "symbol": "⟱",
+      "unicode": [
+        "U+27F1"
+      ],
+      "name": "Downwards Quadruple Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-quadruple-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "quadruple",
+        "south"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "anticlockwise-gapped-circle-arrow",
+      "type": "arrow",
+      "symbol": "⟲",
+      "unicode": [
+        "U+27F2"
+      ],
+      "name": "Anticlockwise Gapped Circle Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "anticlockwise",
+        "anticlockwise-gapped-circle-arrow",
+        "arrow",
+        "circle",
+        "counterclockwise",
+        "cursor",
+        "direction",
+        "gapped",
+        "move",
+        "navigation",
+        "pointer",
+        "rotate-left"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "clockwise-gapped-circle-arrow",
+      "type": "arrow",
+      "symbol": "⟳",
+      "unicode": [
+        "U+27F3"
+      ],
+      "name": "Clockwise Gapped Circle Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "circle",
+        "clockwise",
+        "clockwise-gapped-circle-arrow",
+        "cursor",
+        "direction",
+        "gapped",
+        "move",
+        "navigation",
+        "pointer",
+        "refresh",
+        "rotate-right"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "right-arrow-with-circled-plus",
+      "type": "arrow",
+      "symbol": "⟴",
+      "unicode": [
+        "U+27F4"
+      ],
+      "name": "Right Arrow With Circled Plus",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "circled",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "move",
+        "navigation",
+        "plus",
+        "pointer",
+        "right",
+        "right-arrow-with-circled-plus",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "long-leftwards-arrow",
+      "type": "arrow",
+      "symbol": "⟵",
+      "unicode": [
+        "U+27F5"
+      ],
+      "name": "Long Leftwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "long",
+        "long-leftwards-arrow",
+        "move",
+        "navigation",
+        "pointer"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "long-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "⟶",
+      "unicode": [
+        "U+27F6"
+      ],
+      "name": "Long Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "long",
+        "long-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "long-left-right-arrow",
+      "type": "arrow",
+      "symbol": "⟷",
+      "unicode": [
+        "U+27F7"
+      ],
+      "name": "Long Left Right Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "left",
+        "long",
+        "long-left-right-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "long-leftwards-double-arrow",
+      "type": "arrow",
+      "symbol": "⟸",
+      "unicode": [
+        "U+27F8"
+      ],
+      "name": "Long Leftwards Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "leftwards",
+        "long",
+        "long-leftwards-double-arrow",
+        "move",
+        "navigation",
+        "pointer"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "long-rightwards-double-arrow",
+      "type": "arrow",
+      "symbol": "⟹",
+      "unicode": [
+        "U+27F9"
+      ],
+      "name": "Long Rightwards Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "long",
+        "long-rightwards-double-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "long-left-right-double-arrow",
+      "type": "arrow",
+      "symbol": "⟺",
+      "unicode": [
+        "U+27FA"
+      ],
+      "name": "Long Left Right Double Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "cursor",
+        "direction",
+        "double",
+        "east",
+        "forward",
+        "left",
+        "long",
+        "long-left-right-double-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "long-leftwards-arrow-from-bar",
+      "type": "arrow",
+      "symbol": "⟻",
+      "unicode": [
+        "U+27FB"
+      ],
+      "name": "Long Leftwards Arrow From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "from",
+        "leftwards",
+        "long",
+        "long-leftwards-arrow-from-bar",
+        "move",
+        "navigation",
+        "pointer"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "long-rightwards-arrow-from-bar",
+      "type": "arrow",
+      "symbol": "⟼",
+      "unicode": [
+        "U+27FC"
+      ],
+      "name": "Long Rightwards Arrow From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "from",
+        "long",
+        "long-rightwards-arrow-from-bar",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "long-leftwards-double-arrow-from-bar",
+      "type": "arrow",
+      "symbol": "⟽",
+      "unicode": [
+        "U+27FD"
+      ],
+      "name": "Long Leftwards Double Arrow From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "double",
+        "from",
+        "leftwards",
+        "long",
+        "long-leftwards-double-arrow-from-bar",
+        "move",
+        "navigation",
+        "pointer"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "long-rightwards-double-arrow-from-bar",
+      "type": "arrow",
+      "symbol": "⟾",
+      "unicode": [
+        "U+27FE"
+      ],
+      "name": "Long Rightwards Double Arrow From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "double",
+        "from",
+        "long",
+        "long-rightwards-double-arrow-from-bar",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "long-rightwards-squiggle-arrow",
+      "type": "arrow",
+      "symbol": "⟿",
+      "unicode": [
+        "U+27FF"
+      ],
+      "name": "Long Rightwards Squiggle Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "long",
+        "long-rightwards-squiggle-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "squiggle"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-two-headed-arrow-with-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⤀",
+      "unicode": [
+        "U+2900"
+      ],
+      "name": "Rightwards Two-Headed Arrow With Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "headed",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-two-headed-arrow-with-vertical-stroke",
+        "stroke",
+        "two",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-two-headed-arrow-with-double-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⤁",
+      "unicode": [
+        "U+2901"
+      ],
+      "name": "Rightwards Two-Headed Arrow With Double Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "headed",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-two-headed-arrow-with-double-vertical-stroke",
+        "stroke",
+        "two",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-double-arrow-with-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⤂",
+      "unicode": [
+        "U+2902"
+      ],
+      "name": "Leftwards Double Arrow With Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "leftwards",
+        "leftwards-double-arrow-with-vertical-stroke",
+        "move",
+        "navigation",
+        "pointer",
+        "stroke",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-double-arrow-with-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⤃",
+      "unicode": [
+        "U+2903"
+      ],
+      "name": "Rightwards Double Arrow With Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-double-arrow-with-vertical-stroke",
+        "stroke",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-right-double-arrow-with-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⤄",
+      "unicode": [
+        "U+2904"
+      ],
+      "name": "Left Right Double Arrow With Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "cursor",
+        "direction",
+        "double",
+        "east",
+        "forward",
+        "left",
+        "left-right-double-arrow-with-vertical-stroke",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "stroke",
+        "vertical",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-two-headed-arrow-from-bar",
+      "type": "arrow",
+      "symbol": "⤅",
+      "unicode": [
+        "U+2905"
+      ],
+      "name": "Rightwards Two-Headed Arrow From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "from",
+        "headed",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-two-headed-arrow-from-bar",
+        "two"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-double-arrow-from-bar",
+      "type": "arrow",
+      "symbol": "⤆",
+      "unicode": [
+        "U+2906"
+      ],
+      "name": "Leftwards Double Arrow From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "double",
+        "from",
+        "leftwards",
+        "leftwards-double-arrow-from-bar",
+        "move",
+        "navigation",
+        "pointer"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-double-arrow-from-bar",
+      "type": "arrow",
+      "symbol": "⤇",
+      "unicode": [
+        "U+2907"
+      ],
+      "name": "Rightwards Double Arrow From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "double",
+        "from",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-double-arrow-from-bar"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-arrow-with-horizontal-stroke",
+      "type": "arrow",
+      "symbol": "⤈",
+      "unicode": [
+        "U+2908"
+      ],
+      "name": "Downwards Arrow With Horizontal Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-arrow-with-horizontal-stroke",
+        "horizontal",
+        "move",
+        "navigation",
+        "pointer",
+        "south",
+        "stroke",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-arrow-with-horizontal-stroke",
+      "type": "arrow",
+      "symbol": "⤉",
+      "unicode": [
+        "U+2909"
+      ],
+      "name": "Upwards Arrow With Horizontal Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "horizontal",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "stroke",
+        "top",
+        "up",
+        "upwards",
+        "upwards-arrow-with-horizontal-stroke",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-triple-arrow",
+      "type": "arrow",
+      "symbol": "⤊",
+      "unicode": [
+        "U+290A"
+      ],
+      "name": "Upwards Triple Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "top",
+        "triple",
+        "up",
+        "upwards",
+        "upwards-triple-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-triple-arrow",
+      "type": "arrow",
+      "symbol": "⤋",
+      "unicode": [
+        "U+290B"
+      ],
+      "name": "Downwards Triple Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-triple-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "south",
+        "triple"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-double-dash-arrow",
+      "type": "arrow",
+      "symbol": "⤌",
+      "unicode": [
+        "U+290C"
+      ],
+      "name": "Leftwards Double Dash Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "dash",
+        "direction",
+        "double",
+        "leftwards",
+        "leftwards-double-dash-arrow",
+        "move",
+        "navigation",
+        "pointer"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-double-dash-arrow",
+      "type": "arrow",
+      "symbol": "⤍",
+      "unicode": [
+        "U+290D"
+      ],
+      "name": "Rightwards Double Dash Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "dash",
+        "direction",
+        "double",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-double-dash-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-triple-dash-arrow",
+      "type": "arrow",
+      "symbol": "⤎",
+      "unicode": [
+        "U+290E"
+      ],
+      "name": "Leftwards Triple Dash Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "dash",
+        "direction",
+        "leftwards",
+        "leftwards-triple-dash-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "triple"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-triple-dash-arrow",
+      "type": "arrow",
+      "symbol": "⤏",
+      "unicode": [
+        "U+290F"
+      ],
+      "name": "Rightwards Triple Dash Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "dash",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-triple-dash-arrow",
+        "triple"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-two-headed-triple-dash-arrow",
+      "type": "arrow",
+      "symbol": "⤐",
+      "unicode": [
+        "U+2910"
+      ],
+      "name": "Rightwards Two-Headed Triple Dash Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "dash",
+        "direction",
+        "headed",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-two-headed-triple-dash-arrow",
+        "triple",
+        "two"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-with-dotted-stem",
+      "type": "arrow",
+      "symbol": "⤑",
+      "unicode": [
+        "U+2911"
+      ],
+      "name": "Rightwards Arrow With Dotted Stem",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "dotted",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-with-dotted-stem",
+        "stem",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-arrow-to-bar",
+      "type": "arrow",
+      "symbol": "⤒",
+      "unicode": [
+        "U+2912"
+      ],
+      "name": "Upwards Arrow To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "to",
+        "top",
+        "up",
+        "upwards",
+        "upwards-arrow-to-bar"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-arrow-to-bar",
+      "type": "arrow",
+      "symbol": "⤓",
+      "unicode": [
+        "U+2913"
+      ],
+      "name": "Downwards Arrow To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "bottom",
+        "cursor",
+        "direction",
+        "down",
+        "downwards",
+        "downwards-arrow-to-bar",
+        "move",
+        "navigation",
+        "pointer",
+        "south",
+        "to"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-with-tail-with-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⤔",
+      "unicode": [
+        "U+2914"
+      ],
+      "name": "Rightwards Arrow With Tail With Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-with-tail-with-vertical-stroke",
+        "stroke",
+        "tail",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-with-tail-with-double-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⤕",
+      "unicode": [
+        "U+2915"
+      ],
+      "name": "Rightwards Arrow With Tail With Double Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-with-tail-with-double-vertical-stroke",
+        "stroke",
+        "tail",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-two-headed-arrow-with-tail",
+      "type": "arrow",
+      "symbol": "⤖",
+      "unicode": [
+        "U+2916"
+      ],
+      "name": "Rightwards Two-Headed Arrow With Tail",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "headed",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-two-headed-arrow-with-tail",
+        "tail",
+        "two",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-two-headed-arrow-with-tail-with-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⤗",
+      "unicode": [
+        "U+2917"
+      ],
+      "name": "Rightwards Two-Headed Arrow With Tail With Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "headed",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-two-headed-arrow-with-tail-with-vertical-stroke",
+        "stroke",
+        "tail",
+        "two",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-two-headed-arrow-with-tail-with-double-vertical-stroke",
+      "type": "arrow",
+      "symbol": "⤘",
+      "unicode": [
+        "U+2918"
+      ],
+      "name": "Rightwards Two-Headed Arrow With Tail With Double Vertical Stroke",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "headed",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-two-headed-arrow-with-tail-with-double-vertical-stroke",
+        "stroke",
+        "tail",
+        "two",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-tail",
+      "type": "arrow",
+      "symbol": "⤙",
+      "unicode": [
+        "U+2919"
+      ],
+      "name": "Leftwards Arrow-Tail",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-tail",
+        "move",
+        "navigation",
+        "pointer",
+        "tail"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-tail",
+      "type": "arrow",
+      "symbol": "⤚",
+      "unicode": [
+        "U+291A"
+      ],
+      "name": "Rightwards Arrow-Tail",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-tail",
+        "tail"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-double-arrow-tail",
+      "type": "arrow",
+      "symbol": "⤛",
+      "unicode": [
+        "U+291B"
+      ],
+      "name": "Leftwards Double Arrow-Tail",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "leftwards",
+        "leftwards-double-arrow-tail",
+        "move",
+        "navigation",
+        "pointer",
+        "tail"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-double-arrow-tail",
+      "type": "arrow",
+      "symbol": "⤜",
+      "unicode": [
+        "U+291C"
+      ],
+      "name": "Rightwards Double Arrow-Tail",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-double-arrow-tail",
+        "tail"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-to-black-diamond",
+      "type": "arrow",
+      "symbol": "⤝",
+      "unicode": [
+        "U+291D"
+      ],
+      "name": "Leftwards Arrow To Black Diamond",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "black",
+        "cursor",
+        "diamond",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-to-black-diamond",
+        "move",
+        "navigation",
+        "pointer",
+        "to"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-to-black-diamond",
+      "type": "arrow",
+      "symbol": "⤞",
+      "unicode": [
+        "U+291E"
+      ],
+      "name": "Rightwards Arrow To Black Diamond",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "black",
+        "cursor",
+        "diamond",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-to-black-diamond",
+        "to"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-from-bar-to-black-diamond",
+      "type": "arrow",
+      "symbol": "⤟",
+      "unicode": [
+        "U+291F"
+      ],
+      "name": "Leftwards Arrow From Bar To Black Diamond",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "black",
+        "cursor",
+        "diamond",
+        "direction",
+        "from",
+        "leftwards",
+        "leftwards-arrow-from-bar-to-black-diamond",
+        "move",
+        "navigation",
+        "pointer",
+        "to"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-from-bar-to-black-diamond",
+      "type": "arrow",
+      "symbol": "⤠",
+      "unicode": [
+        "U+2920"
+      ],
+      "name": "Rightwards Arrow From Bar To Black Diamond",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "bar",
+        "black",
+        "cursor",
+        "diamond",
+        "direction",
+        "from",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-from-bar-to-black-diamond",
+        "to"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-west-and-south-east-arrow",
+      "type": "arrow",
+      "symbol": "⤡",
+      "unicode": [
+        "U+2921"
+      ],
+      "name": "North West And South East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "and",
+        "arrow",
+        "cursor",
+        "direction",
+        "down",
+        "east",
+        "left",
+        "move",
+        "navigation",
+        "north",
+        "north-west-and-south-east-arrow",
+        "pointer",
+        "right",
+        "south",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-east-and-south-west-arrow",
+      "type": "arrow",
+      "symbol": "⤢",
+      "unicode": [
+        "U+2922"
+      ],
+      "name": "North East And South West Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "and",
+        "arrow",
+        "cursor",
+        "direction",
+        "down",
+        "east",
+        "left",
+        "move",
+        "navigation",
+        "north",
+        "north-east-and-south-west-arrow",
+        "pointer",
+        "right",
+        "south",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-west-arrow-with-hook",
+      "type": "arrow",
+      "symbol": "⤣",
+      "unicode": [
+        "U+2923"
+      ],
+      "name": "North West Arrow With Hook",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "hook",
+        "left",
+        "move",
+        "navigation",
+        "north",
+        "north-west-arrow-with-hook",
+        "pointer",
+        "up",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-east-arrow-with-hook",
+      "type": "arrow",
+      "symbol": "⤤",
+      "unicode": [
+        "U+2924"
+      ],
+      "name": "North East Arrow With Hook",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "east",
+        "hook",
+        "move",
+        "navigation",
+        "north",
+        "north-east-arrow-with-hook",
+        "pointer",
+        "right",
+        "up",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "south-east-arrow-with-hook",
+      "type": "arrow",
+      "symbol": "⤥",
+      "unicode": [
+        "U+2925"
+      ],
+      "name": "South East Arrow With Hook",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "down",
+        "east",
+        "hook",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "south",
+        "south-east-arrow-with-hook",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "south-west-arrow-with-hook",
+      "type": "arrow",
+      "symbol": "⤦",
+      "unicode": [
+        "U+2926"
+      ],
+      "name": "South West Arrow With Hook",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "down",
+        "hook",
+        "left",
+        "move",
+        "navigation",
+        "pointer",
+        "south",
+        "south-west-arrow-with-hook",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-west-arrow-and-north-east-arrow",
+      "type": "arrow",
+      "symbol": "⤧",
+      "unicode": [
+        "U+2927"
+      ],
+      "name": "North West Arrow And North East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "and",
+        "arrow",
+        "cursor",
+        "direction",
+        "east",
+        "left",
+        "move",
+        "navigation",
+        "north",
+        "north-west-arrow-and-north-east-arrow",
+        "pointer",
+        "right",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-east-arrow-and-south-east-arrow",
+      "type": "arrow",
+      "symbol": "⤨",
+      "unicode": [
+        "U+2928"
+      ],
+      "name": "North East Arrow And South East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "and",
+        "arrow",
+        "cursor",
+        "direction",
+        "down",
+        "east",
+        "move",
+        "navigation",
+        "north",
+        "north-east-arrow-and-south-east-arrow",
+        "pointer",
+        "right",
+        "south",
+        "up"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "south-east-arrow-and-south-west-arrow",
+      "type": "arrow",
+      "symbol": "⤩",
+      "unicode": [
+        "U+2929"
+      ],
+      "name": "South East Arrow And South West Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "and",
+        "arrow",
+        "cursor",
+        "direction",
+        "down",
+        "east",
+        "left",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "south",
+        "south-east-arrow-and-south-west-arrow",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "south-west-arrow-and-north-west-arrow",
+      "type": "arrow",
+      "symbol": "⤪",
+      "unicode": [
+        "U+292A"
+      ],
+      "name": "South West Arrow And North West Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "and",
+        "arrow",
+        "cursor",
+        "direction",
+        "down",
+        "left",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "south",
+        "south-west-arrow-and-north-west-arrow",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rising-diagonal-crossing-falling-diagonal",
+      "type": "arrow",
+      "symbol": "⤫",
+      "unicode": [
+        "U+292B"
+      ],
+      "name": "Rising Diagonal Crossing Falling Diagonal",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "crossing",
+        "diagonal",
+        "falling",
+        "rising",
+        "rising-diagonal-crossing-falling-diagonal"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "falling-diagonal-crossing-rising-diagonal",
+      "type": "arrow",
+      "symbol": "⤬",
+      "unicode": [
+        "U+292C"
+      ],
+      "name": "Falling Diagonal Crossing Rising Diagonal",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "crossing",
+        "diagonal",
+        "falling",
+        "falling-diagonal-crossing-rising-diagonal",
+        "rising"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "south-east-arrow-crossing-north-east-arrow",
+      "type": "arrow",
+      "symbol": "⤭",
+      "unicode": [
+        "U+292D"
+      ],
+      "name": "South East Arrow Crossing North East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "crossing",
+        "cursor",
+        "direction",
+        "down",
+        "east",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "right",
+        "south",
+        "south-east-arrow-crossing-north-east-arrow",
+        "up"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-east-arrow-crossing-south-east-arrow",
+      "type": "arrow",
+      "symbol": "⤮",
+      "unicode": [
+        "U+292E"
+      ],
+      "name": "North East Arrow Crossing South East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "crossing",
+        "cursor",
+        "direction",
+        "down",
+        "east",
+        "move",
+        "navigation",
+        "north",
+        "north-east-arrow-crossing-south-east-arrow",
+        "pointer",
+        "right",
+        "south",
+        "up"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "falling-diagonal-crossing-north-east-arrow",
+      "type": "arrow",
+      "symbol": "⤯",
+      "unicode": [
+        "U+292F"
+      ],
+      "name": "Falling Diagonal Crossing North East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "crossing",
+        "cursor",
+        "diagonal",
+        "direction",
+        "east",
+        "falling",
+        "falling-diagonal-crossing-north-east-arrow",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "right",
+        "up"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rising-diagonal-crossing-south-east-arrow",
+      "type": "arrow",
+      "symbol": "⤰",
+      "unicode": [
+        "U+2930"
+      ],
+      "name": "Rising Diagonal Crossing South East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "crossing",
+        "cursor",
+        "diagonal",
+        "direction",
+        "down",
+        "east",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "rising",
+        "rising-diagonal-crossing-south-east-arrow",
+        "south"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-east-arrow-crossing-north-west-arrow",
+      "type": "arrow",
+      "symbol": "⤱",
+      "unicode": [
+        "U+2931"
+      ],
+      "name": "North East Arrow Crossing North West Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "crossing",
+        "cursor",
+        "direction",
+        "east",
+        "left",
+        "move",
+        "navigation",
+        "north",
+        "north-east-arrow-crossing-north-west-arrow",
+        "pointer",
+        "right",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "north-west-arrow-crossing-north-east-arrow",
+      "type": "arrow",
+      "symbol": "⤲",
+      "unicode": [
+        "U+2932"
+      ],
+      "name": "North West Arrow Crossing North East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "crossing",
+        "cursor",
+        "direction",
+        "east",
+        "left",
+        "move",
+        "navigation",
+        "north",
+        "north-west-arrow-crossing-north-east-arrow",
+        "pointer",
+        "right",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "wave-arrow-pointing-directly-right",
+      "type": "arrow",
+      "symbol": "⤳",
+      "unicode": [
+        "U+2933"
+      ],
+      "name": "Wave Arrow Pointing Directly Right",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "directly",
+        "east",
+        "forward",
+        "move",
+        "navigation",
+        "pointer",
+        "pointing",
+        "right",
+        "wave",
+        "wave-arrow-pointing-directly-right"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "arrow-pointing-rightwards-then-curving-upwards",
+      "type": "arrow",
+      "symbol": "⤴",
+      "unicode": [
+        "U+2934"
+      ],
+      "name": "Arrow Pointing Rightwards Then Curving Upwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrow-pointing-rightwards-then-curving-upwards",
+        "cursor",
+        "curving",
+        "direction",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "pointing",
+        "rightwards",
+        "then",
+        "top",
+        "up",
+        "upwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "arrow-pointing-rightwards-then-curving-downwards",
+      "type": "arrow",
+      "symbol": "⤵",
+      "unicode": [
+        "U+2935"
+      ],
+      "name": "Arrow Pointing Rightwards Then Curving Downwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrow-pointing-rightwards-then-curving-downwards",
+        "bottom",
+        "cursor",
+        "curving",
+        "direction",
+        "down",
+        "downwards",
+        "move",
+        "navigation",
+        "pointer",
+        "pointing",
+        "rightwards",
+        "south",
+        "then"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "arrow-pointing-downwards-then-curving-leftwards",
+      "type": "arrow",
+      "symbol": "⤶",
+      "unicode": [
+        "U+2936"
+      ],
+      "name": "Arrow Pointing Downwards Then Curving Leftwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrow-pointing-downwards-then-curving-leftwards",
+        "bottom",
+        "cursor",
+        "curving",
+        "direction",
+        "down",
+        "downwards",
+        "leftwards",
+        "move",
+        "navigation",
+        "pointer",
+        "pointing",
+        "south",
+        "then"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "arrow-pointing-downwards-then-curving-rightwards",
+      "type": "arrow",
+      "symbol": "⤷",
+      "unicode": [
+        "U+2937"
+      ],
+      "name": "Arrow Pointing Downwards Then Curving Rightwards",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrow-pointing-downwards-then-curving-rightwards",
+        "bottom",
+        "cursor",
+        "curving",
+        "direction",
+        "down",
+        "downwards",
+        "move",
+        "navigation",
+        "pointer",
+        "pointing",
+        "rightwards",
+        "south",
+        "then"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "right-side-arc-clockwise-arrow",
+      "type": "arrow",
+      "symbol": "⤸",
+      "unicode": [
+        "U+2938"
+      ],
+      "name": "Right-Side Arc Clockwise Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arc",
+        "arrow",
+        "clockwise",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "move",
+        "navigation",
+        "pointer",
+        "refresh",
+        "right",
+        "right-side-arc-clockwise-arrow",
+        "rotate-right",
+        "side"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-side-arc-anticlockwise-arrow",
+      "type": "arrow",
+      "symbol": "⤹",
+      "unicode": [
+        "U+2939"
+      ],
+      "name": "Left-Side Arc Anticlockwise Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "anticlockwise",
+        "arc",
+        "arrow",
+        "back",
+        "counterclockwise",
+        "cursor",
+        "direction",
+        "left",
+        "left-side-arc-anticlockwise-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rotate-left",
+        "side",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "top-arc-anticlockwise-arrow",
+      "type": "arrow",
+      "symbol": "⤺",
+      "unicode": [
+        "U+293A"
+      ],
+      "name": "Top Arc Anticlockwise Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "anticlockwise",
+        "arc",
+        "arrow",
+        "counterclockwise",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rotate-left",
+        "top",
+        "top-arc-anticlockwise-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "bottom-arc-anticlockwise-arrow",
+      "type": "arrow",
+      "symbol": "⤻",
+      "unicode": [
+        "U+293B"
+      ],
+      "name": "Bottom Arc Anticlockwise Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "anticlockwise",
+        "arc",
+        "arrow",
+        "bottom",
+        "bottom-arc-anticlockwise-arrow",
+        "counterclockwise",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rotate-left"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "top-arc-clockwise-arrow-with-minus",
+      "type": "arrow",
+      "symbol": "⤼",
+      "unicode": [
+        "U+293C"
+      ],
+      "name": "Top Arc Clockwise Arrow With Minus",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arc",
+        "arrow",
+        "clockwise",
+        "cursor",
+        "direction",
+        "minus",
+        "move",
+        "navigation",
+        "pointer",
+        "refresh",
+        "rotate-right",
+        "top",
+        "top-arc-clockwise-arrow-with-minus",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "top-arc-anticlockwise-arrow-with-plus",
+      "type": "arrow",
+      "symbol": "⤽",
+      "unicode": [
+        "U+293D"
+      ],
+      "name": "Top Arc Anticlockwise Arrow With Plus",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "anticlockwise",
+        "arc",
+        "arrow",
+        "counterclockwise",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "plus",
+        "pointer",
+        "rotate-left",
+        "top",
+        "top-arc-anticlockwise-arrow-with-plus",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "lower-right-semicircular-clockwise-arrow",
+      "type": "arrow",
+      "symbol": "⤾",
+      "unicode": [
+        "U+293E"
+      ],
+      "name": "Lower Right Semicircular Clockwise Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "clockwise",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "lower",
+        "lower-right-semicircular-clockwise-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "refresh",
+        "right",
+        "rotate-right",
+        "semicircular"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "lower-left-semicircular-anticlockwise-arrow",
+      "type": "arrow",
+      "symbol": "⤿",
+      "unicode": [
+        "U+293F"
+      ],
+      "name": "Lower Left Semicircular Anticlockwise Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "anticlockwise",
+        "arrow",
+        "back",
+        "counterclockwise",
+        "cursor",
+        "direction",
+        "left",
+        "lower",
+        "lower-left-semicircular-anticlockwise-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rotate-left",
+        "semicircular",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "anticlockwise-closed-circle-arrow",
+      "type": "arrow",
+      "symbol": "⥀",
+      "unicode": [
+        "U+2940"
+      ],
+      "name": "Anticlockwise Closed Circle Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "anticlockwise",
+        "anticlockwise-closed-circle-arrow",
+        "arrow",
+        "circle",
+        "closed",
+        "counterclockwise",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rotate-left"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "clockwise-closed-circle-arrow",
+      "type": "arrow",
+      "symbol": "⥁",
+      "unicode": [
+        "U+2941"
+      ],
+      "name": "Clockwise Closed Circle Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "circle",
+        "clockwise",
+        "clockwise-closed-circle-arrow",
+        "closed",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "refresh",
+        "rotate-right"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-above-short-leftwards-arrow",
+      "type": "arrow",
+      "symbol": "⥂",
+      "unicode": [
+        "U+2942"
+      ],
+      "name": "Rightwards Arrow Above Short Leftwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-above-short-leftwards-arrow",
+        "short"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-above-short-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "⥃",
+      "unicode": [
+        "U+2943"
+      ],
+      "name": "Leftwards Arrow Above Short Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-above-short-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "short"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "short-rightwards-arrow-above-leftwards-arrow",
+      "type": "arrow",
+      "symbol": "⥄",
+      "unicode": [
+        "U+2944"
+      ],
+      "name": "Short Rightwards Arrow Above Leftwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "short",
+        "short-rightwards-arrow-above-leftwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-with-plus-below",
+      "type": "arrow",
+      "symbol": "⥅",
+      "unicode": [
+        "U+2945"
+      ],
+      "name": "Rightwards Arrow With Plus Below",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "below",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "plus",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-with-plus-below",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-with-plus-below",
+      "type": "arrow",
+      "symbol": "⥆",
+      "unicode": [
+        "U+2946"
+      ],
+      "name": "Leftwards Arrow With Plus Below",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "below",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-with-plus-below",
+        "move",
+        "navigation",
+        "plus",
+        "pointer",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-through-x",
+      "type": "arrow",
+      "symbol": "⥇",
+      "unicode": [
+        "U+2947"
+      ],
+      "name": "Rightwards Arrow Through X",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-through-x",
+        "through",
+        "x"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-right-arrow-through-small-circle",
+      "type": "arrow",
+      "symbol": "⥈",
+      "unicode": [
+        "U+2948"
+      ],
+      "name": "Left Right Arrow Through Small Circle",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "circle",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "left",
+        "left-right-arrow-through-small-circle",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "small",
+        "through",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-two-headed-arrow-from-small-circle",
+      "type": "arrow",
+      "symbol": "⥉",
+      "unicode": [
+        "U+2949"
+      ],
+      "name": "Upwards Two-Headed Arrow From Small Circle",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "circle",
+        "cursor",
+        "direction",
+        "from",
+        "headed",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "small",
+        "top",
+        "two",
+        "up",
+        "upwards",
+        "upwards-two-headed-arrow-from-small-circle"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-barb-up-right-barb-down-harpoon",
+      "type": "arrow",
+      "symbol": "⥊",
+      "unicode": [
+        "U+294A"
+      ],
+      "name": "Left Barb Up Right Barb Down Harpoon",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "barb",
+        "bottom",
+        "down",
+        "east",
+        "forward",
+        "harpoon",
+        "left",
+        "left-barb-up-right-barb-down-harpoon",
+        "north",
+        "right",
+        "south",
+        "top",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-barb-down-right-barb-up-harpoon",
+      "type": "arrow",
+      "symbol": "⥋",
+      "unicode": [
+        "U+294B"
+      ],
+      "name": "Left Barb Down Right Barb Up Harpoon",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "barb",
+        "bottom",
+        "down",
+        "east",
+        "forward",
+        "harpoon",
+        "left",
+        "left-barb-down-right-barb-up-harpoon",
+        "north",
+        "right",
+        "south",
+        "top",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "up-barb-right-down-barb-left-harpoon",
+      "type": "arrow",
+      "symbol": "⥌",
+      "unicode": [
+        "U+294C"
+      ],
+      "name": "Up Barb Right Down Barb Left Harpoon",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "barb",
+        "bottom",
+        "down",
+        "east",
+        "forward",
+        "harpoon",
+        "left",
+        "north",
+        "right",
+        "south",
+        "top",
+        "up",
+        "up-barb-right-down-barb-left-harpoon",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "up-barb-left-down-barb-right-harpoon",
+      "type": "arrow",
+      "symbol": "⥍",
+      "unicode": [
+        "U+294D"
+      ],
+      "name": "Up Barb Left Down Barb Right Harpoon",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "barb",
+        "bottom",
+        "down",
+        "east",
+        "forward",
+        "harpoon",
+        "left",
+        "north",
+        "right",
+        "south",
+        "top",
+        "up",
+        "up-barb-left-down-barb-right-harpoon",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-barb-up-right-barb-up-harpoon",
+      "type": "arrow",
+      "symbol": "⥎",
+      "unicode": [
+        "U+294E"
+      ],
+      "name": "Left Barb Up Right Barb Up Harpoon",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "barb",
+        "east",
+        "forward",
+        "harpoon",
+        "left",
+        "left-barb-up-right-barb-up-harpoon",
+        "north",
+        "right",
+        "top",
+        "up",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "up-barb-right-down-barb-right-harpoon",
+      "type": "arrow",
+      "symbol": "⥏",
+      "unicode": [
+        "U+294F"
+      ],
+      "name": "Up Barb Right Down Barb Right Harpoon",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "barb",
+        "bottom",
+        "down",
+        "east",
+        "forward",
+        "harpoon",
+        "north",
+        "right",
+        "south",
+        "top",
+        "up",
+        "up-barb-right-down-barb-right-harpoon"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-barb-down-right-barb-down-harpoon",
+      "type": "arrow",
+      "symbol": "⥐",
+      "unicode": [
+        "U+2950"
+      ],
+      "name": "Left Barb Down Right Barb Down Harpoon",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "barb",
+        "bottom",
+        "down",
+        "east",
+        "forward",
+        "harpoon",
+        "left",
+        "left-barb-down-right-barb-down-harpoon",
+        "right",
+        "south",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "up-barb-left-down-barb-left-harpoon",
+      "type": "arrow",
+      "symbol": "⥑",
+      "unicode": [
+        "U+2951"
+      ],
+      "name": "Up Barb Left Down Barb Left Harpoon",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "barb",
+        "bottom",
+        "down",
+        "harpoon",
+        "left",
+        "north",
+        "south",
+        "top",
+        "up",
+        "up-barb-left-down-barb-left-harpoon",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-harpoon-with-barb-up-to-bar",
+      "type": "arrow",
+      "symbol": "⥒",
+      "unicode": [
+        "U+2952"
+      ],
+      "name": "Leftwards Harpoon With Barb Up To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "barb",
+        "harpoon",
+        "leftwards",
+        "leftwards-harpoon-with-barb-up-to-bar",
+        "north",
+        "to",
+        "top",
+        "up",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-harpoon-with-barb-up-to-bar",
+      "type": "arrow",
+      "symbol": "⥓",
+      "unicode": [
+        "U+2953"
+      ],
+      "name": "Rightwards Harpoon With Barb Up To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "barb",
+        "harpoon",
+        "north",
+        "rightwards",
+        "rightwards-harpoon-with-barb-up-to-bar",
+        "to",
+        "top",
+        "up",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-harpoon-with-barb-right-to-bar",
+      "type": "arrow",
+      "symbol": "⥔",
+      "unicode": [
+        "U+2954"
+      ],
+      "name": "Upwards Harpoon With Barb Right To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "barb",
+        "east",
+        "forward",
+        "harpoon",
+        "north",
+        "right",
+        "to",
+        "top",
+        "up",
+        "upwards",
+        "upwards-harpoon-with-barb-right-to-bar",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-harpoon-with-barb-right-to-bar",
+      "type": "arrow",
+      "symbol": "⥕",
+      "unicode": [
+        "U+2955"
+      ],
+      "name": "Downwards Harpoon With Barb Right To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "barb",
+        "bottom",
+        "down",
+        "downwards",
+        "downwards-harpoon-with-barb-right-to-bar",
+        "east",
+        "forward",
+        "harpoon",
+        "right",
+        "south",
+        "to",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-harpoon-with-barb-down-to-bar",
+      "type": "arrow",
+      "symbol": "⥖",
+      "unicode": [
+        "U+2956"
+      ],
+      "name": "Leftwards Harpoon With Barb Down To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "barb",
+        "bottom",
+        "down",
+        "harpoon",
+        "leftwards",
+        "leftwards-harpoon-with-barb-down-to-bar",
+        "south",
+        "to",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-harpoon-with-barb-down-to-bar",
+      "type": "arrow",
+      "symbol": "⥗",
+      "unicode": [
+        "U+2957"
+      ],
+      "name": "Rightwards Harpoon With Barb Down To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "barb",
+        "bottom",
+        "down",
+        "harpoon",
+        "rightwards",
+        "rightwards-harpoon-with-barb-down-to-bar",
+        "south",
+        "to",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-harpoon-with-barb-left-to-bar",
+      "type": "arrow",
+      "symbol": "⥘",
+      "unicode": [
+        "U+2958"
+      ],
+      "name": "Upwards Harpoon With Barb Left To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "bar",
+        "barb",
+        "harpoon",
+        "left",
+        "north",
+        "to",
+        "top",
+        "up",
+        "upwards",
+        "upwards-harpoon-with-barb-left-to-bar",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-harpoon-with-barb-left-to-bar",
+      "type": "arrow",
+      "symbol": "⥙",
+      "unicode": [
+        "U+2959"
+      ],
+      "name": "Downwards Harpoon With Barb Left To Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "bar",
+        "barb",
+        "bottom",
+        "down",
+        "downwards",
+        "downwards-harpoon-with-barb-left-to-bar",
+        "harpoon",
+        "left",
+        "south",
+        "to",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-harpoon-with-barb-up-from-bar",
+      "type": "arrow",
+      "symbol": "⥚",
+      "unicode": [
+        "U+295A"
+      ],
+      "name": "Leftwards Harpoon With Barb Up From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "barb",
+        "from",
+        "harpoon",
+        "leftwards",
+        "leftwards-harpoon-with-barb-up-from-bar",
+        "north",
+        "top",
+        "up",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-harpoon-with-barb-up-from-bar",
+      "type": "arrow",
+      "symbol": "⥛",
+      "unicode": [
+        "U+295B"
+      ],
+      "name": "Rightwards Harpoon With Barb Up From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "barb",
+        "from",
+        "harpoon",
+        "north",
+        "rightwards",
+        "rightwards-harpoon-with-barb-up-from-bar",
+        "top",
+        "up",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-harpoon-with-barb-right-from-bar",
+      "type": "arrow",
+      "symbol": "⥜",
+      "unicode": [
+        "U+295C"
+      ],
+      "name": "Upwards Harpoon With Barb Right From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "barb",
+        "east",
+        "forward",
+        "from",
+        "harpoon",
+        "north",
+        "right",
+        "top",
+        "up",
+        "upwards",
+        "upwards-harpoon-with-barb-right-from-bar",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-harpoon-with-barb-right-from-bar",
+      "type": "arrow",
+      "symbol": "⥝",
+      "unicode": [
+        "U+295D"
+      ],
+      "name": "Downwards Harpoon With Barb Right From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "barb",
+        "bottom",
+        "down",
+        "downwards",
+        "downwards-harpoon-with-barb-right-from-bar",
+        "east",
+        "forward",
+        "from",
+        "harpoon",
+        "right",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-harpoon-with-barb-down-from-bar",
+      "type": "arrow",
+      "symbol": "⥞",
+      "unicode": [
+        "U+295E"
+      ],
+      "name": "Leftwards Harpoon With Barb Down From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "barb",
+        "bottom",
+        "down",
+        "from",
+        "harpoon",
+        "leftwards",
+        "leftwards-harpoon-with-barb-down-from-bar",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-harpoon-with-barb-down-from-bar",
+      "type": "arrow",
+      "symbol": "⥟",
+      "unicode": [
+        "U+295F"
+      ],
+      "name": "Rightwards Harpoon With Barb Down From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "barb",
+        "bottom",
+        "down",
+        "from",
+        "harpoon",
+        "rightwards",
+        "rightwards-harpoon-with-barb-down-from-bar",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-harpoon-with-barb-left-from-bar",
+      "type": "arrow",
+      "symbol": "⥠",
+      "unicode": [
+        "U+2960"
+      ],
+      "name": "Upwards Harpoon With Barb Left From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "bar",
+        "barb",
+        "from",
+        "harpoon",
+        "left",
+        "north",
+        "top",
+        "up",
+        "upwards",
+        "upwards-harpoon-with-barb-left-from-bar",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-harpoon-with-barb-left-from-bar",
+      "type": "arrow",
+      "symbol": "⥡",
+      "unicode": [
+        "U+2961"
+      ],
+      "name": "Downwards Harpoon With Barb Left From Bar",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "bar",
+        "barb",
+        "bottom",
+        "down",
+        "downwards",
+        "downwards-harpoon-with-barb-left-from-bar",
+        "from",
+        "harpoon",
+        "left",
+        "south",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-harpoon-with-barb-up-above-leftwards-harpoon-with-barb-down",
+      "type": "arrow",
+      "symbol": "⥢",
+      "unicode": [
+        "U+2962"
+      ],
+      "name": "Leftwards Harpoon With Barb Up Above Leftwards Harpoon With Barb Down",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "barb",
+        "bottom",
+        "down",
+        "harpoon",
+        "leftwards",
+        "leftwards-harpoon-with-barb-up-above-leftwards-harpoon-with-barb-down",
+        "north",
+        "south",
+        "top",
+        "up",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-harpoon-with-barb-left-beside-upwards-harpoon-with-barb-right",
+      "type": "arrow",
+      "symbol": "⥣",
+      "unicode": [
+        "U+2963"
+      ],
+      "name": "Upwards Harpoon With Barb Left Beside Upwards Harpoon With Barb Right",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "barb",
+        "beside",
+        "east",
+        "forward",
+        "harpoon",
+        "left",
+        "north",
+        "right",
+        "top",
+        "up",
+        "upwards",
+        "upwards-harpoon-with-barb-left-beside-upwards-harpoon-with-barb-right",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-harpoon-with-barb-up-above-rightwards-harpoon-with-barb-down",
+      "type": "arrow",
+      "symbol": "⥤",
+      "unicode": [
+        "U+2964"
+      ],
+      "name": "Rightwards Harpoon With Barb Up Above Rightwards Harpoon With Barb Down",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "barb",
+        "bottom",
+        "down",
+        "harpoon",
+        "north",
+        "rightwards",
+        "rightwards-harpoon-with-barb-up-above-rightwards-harpoon-with-barb-down",
+        "south",
+        "top",
+        "up",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-harpoon-with-barb-left-beside-downwards-harpoon-with-barb-right",
+      "type": "arrow",
+      "symbol": "⥥",
+      "unicode": [
+        "U+2965"
+      ],
+      "name": "Downwards Harpoon With Barb Left Beside Downwards Harpoon With Barb Right",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "barb",
+        "beside",
+        "bottom",
+        "down",
+        "downwards",
+        "downwards-harpoon-with-barb-left-beside-downwards-harpoon-with-barb-right",
+        "east",
+        "forward",
+        "harpoon",
+        "left",
+        "right",
+        "south",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-harpoon-with-barb-up-above-rightwards-harpoon-with-barb-up",
+      "type": "arrow",
+      "symbol": "⥦",
+      "unicode": [
+        "U+2966"
+      ],
+      "name": "Leftwards Harpoon With Barb Up Above Rightwards Harpoon With Barb Up",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "barb",
+        "harpoon",
+        "leftwards",
+        "leftwards-harpoon-with-barb-up-above-rightwards-harpoon-with-barb-up",
+        "north",
+        "rightwards",
+        "top",
+        "up",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-harpoon-with-barb-down-above-rightwards-harpoon-with-barb-down",
+      "type": "arrow",
+      "symbol": "⥧",
+      "unicode": [
+        "U+2967"
+      ],
+      "name": "Leftwards Harpoon With Barb Down Above Rightwards Harpoon With Barb Down",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "barb",
+        "bottom",
+        "down",
+        "harpoon",
+        "leftwards",
+        "leftwards-harpoon-with-barb-down-above-rightwards-harpoon-with-barb-down",
+        "rightwards",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-harpoon-with-barb-up-above-leftwards-harpoon-with-barb-up",
+      "type": "arrow",
+      "symbol": "⥨",
+      "unicode": [
+        "U+2968"
+      ],
+      "name": "Rightwards Harpoon With Barb Up Above Leftwards Harpoon With Barb Up",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "barb",
+        "harpoon",
+        "leftwards",
+        "north",
+        "rightwards",
+        "rightwards-harpoon-with-barb-up-above-leftwards-harpoon-with-barb-up",
+        "top",
+        "up",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-harpoon-with-barb-down-above-leftwards-harpoon-with-barb-down",
+      "type": "arrow",
+      "symbol": "⥩",
+      "unicode": [
+        "U+2969"
+      ],
+      "name": "Rightwards Harpoon With Barb Down Above Leftwards Harpoon With Barb Down",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "barb",
+        "bottom",
+        "down",
+        "harpoon",
+        "leftwards",
+        "rightwards",
+        "rightwards-harpoon-with-barb-down-above-leftwards-harpoon-with-barb-down",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-harpoon-with-barb-up-above-long-dash",
+      "type": "arrow",
+      "symbol": "⥪",
+      "unicode": [
+        "U+296A"
+      ],
+      "name": "Leftwards Harpoon With Barb Up Above Long Dash",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "barb",
+        "dash",
+        "harpoon",
+        "leftwards",
+        "leftwards-harpoon-with-barb-up-above-long-dash",
+        "long",
+        "north",
+        "top",
+        "up",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-harpoon-with-barb-down-below-long-dash",
+      "type": "arrow",
+      "symbol": "⥫",
+      "unicode": [
+        "U+296B"
+      ],
+      "name": "Leftwards Harpoon With Barb Down Below Long Dash",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "barb",
+        "below",
+        "bottom",
+        "dash",
+        "down",
+        "harpoon",
+        "leftwards",
+        "leftwards-harpoon-with-barb-down-below-long-dash",
+        "long",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-harpoon-with-barb-up-above-long-dash",
+      "type": "arrow",
+      "symbol": "⥬",
+      "unicode": [
+        "U+296C"
+      ],
+      "name": "Rightwards Harpoon With Barb Up Above Long Dash",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "barb",
+        "dash",
+        "harpoon",
+        "long",
+        "north",
+        "rightwards",
+        "rightwards-harpoon-with-barb-up-above-long-dash",
+        "top",
+        "up",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-harpoon-with-barb-down-below-long-dash",
+      "type": "arrow",
+      "symbol": "⥭",
+      "unicode": [
+        "U+296D"
+      ],
+      "name": "Rightwards Harpoon With Barb Down Below Long Dash",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "barb",
+        "below",
+        "bottom",
+        "dash",
+        "down",
+        "harpoon",
+        "long",
+        "rightwards",
+        "rightwards-harpoon-with-barb-down-below-long-dash",
+        "south",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upwards-harpoon-with-barb-left-beside-downwards-harpoon-with-barb-right",
+      "type": "arrow",
+      "symbol": "⥮",
+      "unicode": [
+        "U+296E"
+      ],
+      "name": "Upwards Harpoon With Barb Left Beside Downwards Harpoon With Barb Right",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "barb",
+        "beside",
+        "bottom",
+        "down",
+        "downwards",
+        "east",
+        "forward",
+        "harpoon",
+        "left",
+        "north",
+        "right",
+        "south",
+        "top",
+        "up",
+        "upwards",
+        "upwards-harpoon-with-barb-left-beside-downwards-harpoon-with-barb-right",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "downwards-harpoon-with-barb-left-beside-upwards-harpoon-with-barb-right",
+      "type": "arrow",
+      "symbol": "⥯",
+      "unicode": [
+        "U+296F"
+      ],
+      "name": "Downwards Harpoon With Barb Left Beside Upwards Harpoon With Barb Right",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "barb",
+        "beside",
+        "bottom",
+        "down",
+        "downwards",
+        "downwards-harpoon-with-barb-left-beside-upwards-harpoon-with-barb-right",
+        "east",
+        "forward",
+        "harpoon",
+        "left",
+        "north",
+        "right",
+        "south",
+        "top",
+        "up",
+        "upwards",
+        "west",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "right-double-arrow-with-rounded-head",
+      "type": "arrow",
+      "symbol": "⥰",
+      "unicode": [
+        "U+2970"
+      ],
+      "name": "Right Double Arrow With Rounded Head",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "double",
+        "east",
+        "forward",
+        "head",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "right-double-arrow-with-rounded-head",
+        "rounded",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "equals-sign-above-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "⥱",
+      "unicode": [
+        "U+2971"
+      ],
+      "name": "Equals Sign Above Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "arrow",
+        "cursor",
+        "direction",
+        "equals",
+        "equals-sign-above-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "sign"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "tilde-operator-above-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "⥲",
+      "unicode": [
+        "U+2972"
+      ],
+      "name": "Tilde Operator Above Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "operator",
+        "pointer",
+        "rightwards",
+        "tilde",
+        "tilde-operator-above-rightwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-above-tilde-operator",
+      "type": "arrow",
+      "symbol": "⥳",
+      "unicode": [
+        "U+2973"
+      ],
+      "name": "Leftwards Arrow Above Tilde Operator",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-above-tilde-operator",
+        "move",
+        "navigation",
+        "operator",
+        "pointer",
+        "tilde"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-above-tilde-operator",
+      "type": "arrow",
+      "symbol": "⥴",
+      "unicode": [
+        "U+2974"
+      ],
+      "name": "Rightwards Arrow Above Tilde Operator",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "operator",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-above-tilde-operator",
+        "tilde"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rightwards-arrow-above-almost-equal-to",
+      "type": "arrow",
+      "symbol": "⥵",
+      "unicode": [
+        "U+2975"
+      ],
+      "name": "Rightwards Arrow Above Almost Equal To",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "almost",
+        "arrow",
+        "cursor",
+        "direction",
+        "equal",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "rightwards-arrow-above-almost-equal-to",
+        "to"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "less-than-above-leftwards-arrow",
+      "type": "arrow",
+      "symbol": "⥶",
+      "unicode": [
+        "U+2976"
+      ],
+      "name": "Less-Than Above Leftwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "less",
+        "less-than-above-leftwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "than"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-through-less-than",
+      "type": "arrow",
+      "symbol": "⥷",
+      "unicode": [
+        "U+2977"
+      ],
+      "name": "Leftwards Arrow Through Less-Than",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-through-less-than",
+        "less",
+        "move",
+        "navigation",
+        "pointer",
+        "than",
+        "through"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "greater-than-above-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "⥸",
+      "unicode": [
+        "U+2978"
+      ],
+      "name": "Greater-Than Above Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "arrow",
+        "cursor",
+        "direction",
+        "greater",
+        "greater-than-above-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "than"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "subset-above-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "⥹",
+      "unicode": [
+        "U+2979"
+      ],
+      "name": "Subset Above Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "subset",
+        "subset-above-rightwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "leftwards-arrow-through-subset",
+      "type": "arrow",
+      "symbol": "⥺",
+      "unicode": [
+        "U+297A"
+      ],
+      "name": "Leftwards Arrow Through Subset",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "leftwards-arrow-through-subset",
+        "move",
+        "navigation",
+        "pointer",
+        "subset",
+        "through"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "superset-above-leftwards-arrow",
+      "type": "arrow",
+      "symbol": "⥻",
+      "unicode": [
+        "U+297B"
+      ],
+      "name": "Superset Above Leftwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "above",
+        "arrow",
+        "cursor",
+        "direction",
+        "leftwards",
+        "move",
+        "navigation",
+        "pointer",
+        "superset",
+        "superset-above-leftwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-fish-tail",
+      "type": "arrow",
+      "symbol": "⥼",
+      "unicode": [
+        "U+297C"
+      ],
+      "name": "Left Fish Tail",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "back",
+        "fish",
+        "left",
+        "left-fish-tail",
+        "tail",
+        "west"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "right-fish-tail",
+      "type": "arrow",
+      "symbol": "⥽",
+      "unicode": [
+        "U+297D"
+      ],
+      "name": "Right Fish Tail",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "east",
+        "fish",
+        "forward",
+        "right",
+        "right-fish-tail",
+        "tail"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "up-fish-tail",
+      "type": "arrow",
+      "symbol": "⥾",
+      "unicode": [
+        "U+297E"
+      ],
+      "name": "Up Fish Tail",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "fish",
+        "north",
+        "tail",
+        "top",
+        "up",
+        "up-fish-tail"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "down-fish-tail",
+      "type": "arrow",
+      "symbol": "⥿",
+      "unicode": [
+        "U+297F"
+      ],
+      "name": "Down Fish Tail",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "bottom",
+        "down",
+        "down-fish-tail",
+        "fish",
+        "south",
+        "tail"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-wide-headed-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➔",
+      "unicode": [
+        "U+2794"
+      ],
+      "name": "Heavy Wide-Headed Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "headed",
+        "heavy",
+        "heavy-wide-headed-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "wide"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-south-east-arrow",
+      "type": "arrow",
+      "symbol": "➘",
+      "unicode": [
+        "U+2798"
+      ],
+      "name": "Heavy South East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "down",
+        "east",
+        "heavy",
+        "heavy-south-east-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "south"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➙",
+      "unicode": [
+        "U+2799"
+      ],
+      "name": "Heavy Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "heavy",
+        "heavy-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-north-east-arrow",
+      "type": "arrow",
+      "symbol": "➚",
+      "unicode": [
+        "U+279A"
+      ],
+      "name": "Heavy North East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "east",
+        "heavy",
+        "heavy-north-east-arrow",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "right",
+        "up"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "drafting-point-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➛",
+      "unicode": [
+        "U+279B"
+      ],
+      "name": "Drafting Point Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "drafting",
+        "drafting-point-rightwards-arrow",
+        "move",
+        "navigation",
+        "point",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-round-tipped-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➜",
+      "unicode": [
+        "U+279C"
+      ],
+      "name": "Heavy Round-Tipped Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "heavy",
+        "heavy-round-tipped-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "round",
+        "tipped"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "triangle-headed-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➝",
+      "unicode": [
+        "U+279D"
+      ],
+      "name": "Triangle-Headed Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "headed",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "triangle",
+        "triangle-headed-rightwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-triangle-headed-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➞",
+      "unicode": [
+        "U+279E"
+      ],
+      "name": "Heavy Triangle-Headed Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "headed",
+        "heavy",
+        "heavy-triangle-headed-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "triangle"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "dashed-triangle-headed-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➟",
+      "unicode": [
+        "U+279F"
+      ],
+      "name": "Dashed Triangle-Headed Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "dashed",
+        "dashed-triangle-headed-rightwards-arrow",
+        "direction",
+        "headed",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "triangle"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-dashed-triangle-headed-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➠",
+      "unicode": [
+        "U+27A0"
+      ],
+      "name": "Heavy Dashed Triangle-Headed Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "dashed",
+        "direction",
+        "headed",
+        "heavy",
+        "heavy-dashed-triangle-headed-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "triangle"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➡",
+      "unicode": [
+        "U+27A1"
+      ],
+      "name": "Black Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "black",
+        "black-rightwards-arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "three-d-top-lighted-rightwards-arrowhead",
+      "type": "arrow",
+      "symbol": "➢",
+      "unicode": [
+        "U+27A2"
+      ],
+      "name": "Three-D Top-Lighted Rightwards Arrowhead",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrowhead",
+        "cursor",
+        "d",
+        "direction",
+        "lighted",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "three",
+        "three-d-top-lighted-rightwards-arrowhead",
+        "top"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "three-d-bottom-lighted-rightwards-arrowhead",
+      "type": "arrow",
+      "symbol": "➣",
+      "unicode": [
+        "U+27A3"
+      ],
+      "name": "Three-D Bottom-Lighted Rightwards Arrowhead",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrowhead",
+        "bottom",
+        "cursor",
+        "d",
+        "direction",
+        "lighted",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "three",
+        "three-d-bottom-lighted-rightwards-arrowhead"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-rightwards-arrowhead",
+      "type": "arrow",
+      "symbol": "➤",
+      "unicode": [
+        "U+27A4"
+      ],
+      "name": "Black Rightwards Arrowhead",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrowhead",
+        "black",
+        "black-rightwards-arrowhead",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-black-curved-downwards-and-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➥",
+      "unicode": [
+        "U+27A5"
+      ],
+      "name": "Heavy Black Curved Downwards And Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "and",
+        "arrow",
+        "black",
+        "bottom",
+        "cursor",
+        "curved",
+        "direction",
+        "down",
+        "downwards",
+        "heavy",
+        "heavy-black-curved-downwards-and-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "south"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-black-curved-upwards-and-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➦",
+      "unicode": [
+        "U+27A6"
+      ],
+      "name": "Heavy Black Curved Upwards And Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "and",
+        "arrow",
+        "black",
+        "cursor",
+        "curved",
+        "direction",
+        "heavy",
+        "heavy-black-curved-upwards-and-rightwards-arrow",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "rightwards",
+        "top",
+        "up",
+        "upwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "squat-black-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➧",
+      "unicode": [
+        "U+27A7"
+      ],
+      "name": "Squat Black Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "black",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "squat",
+        "squat-black-rightwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-concave-pointed-black-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➨",
+      "unicode": [
+        "U+27A8"
+      ],
+      "name": "Heavy Concave-Pointed Black Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "black",
+        "concave",
+        "cursor",
+        "direction",
+        "heavy",
+        "heavy-concave-pointed-black-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointed",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "right-shaded-white-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➩",
+      "unicode": [
+        "U+27A9"
+      ],
+      "name": "Right-Shaded White Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "right-shaded-white-rightwards-arrow",
+        "rightwards",
+        "shaded",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "left-shaded-white-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➪",
+      "unicode": [
+        "U+27AA"
+      ],
+      "name": "Left-Shaded White Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "cursor",
+        "direction",
+        "left",
+        "left-shaded-white-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "shaded",
+        "west",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "back-tilted-shadowed-white-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➫",
+      "unicode": [
+        "U+27AB"
+      ],
+      "name": "Back-Tilted Shadowed White Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "back",
+        "back-tilted-shadowed-white-rightwards-arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "shadowed",
+        "tilted",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "front-tilted-shadowed-white-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➬",
+      "unicode": [
+        "U+27AC"
+      ],
+      "name": "Front-Tilted Shadowed White Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "front",
+        "front-tilted-shadowed-white-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "shadowed",
+        "tilted",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-lower-right-shadowed-white-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➭",
+      "unicode": [
+        "U+27AD"
+      ],
+      "name": "Heavy Lower Right-Shadowed White Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "heavy",
+        "heavy-lower-right-shadowed-white-rightwards-arrow",
+        "lower",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "rightwards",
+        "shadowed",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-upper-right-shadowed-white-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➮",
+      "unicode": [
+        "U+27AE"
+      ],
+      "name": "Heavy Upper Right-Shadowed White Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "heavy",
+        "heavy-upper-right-shadowed-white-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "rightwards",
+        "shadowed",
+        "upper",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "notched-lower-right-shadowed-white-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➯",
+      "unicode": [
+        "U+27AF"
+      ],
+      "name": "Notched Lower Right-Shadowed White Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "lower",
+        "move",
+        "navigation",
+        "notched",
+        "notched-lower-right-shadowed-white-rightwards-arrow",
+        "pointer",
+        "right",
+        "rightwards",
+        "shadowed",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "notched-upper-right-shadowed-white-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➱",
+      "unicode": [
+        "U+27B1"
+      ],
+      "name": "Notched Upper Right-Shadowed White Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "east",
+        "forward",
+        "move",
+        "navigation",
+        "notched",
+        "notched-upper-right-shadowed-white-rightwards-arrow",
+        "pointer",
+        "right",
+        "rightwards",
+        "shadowed",
+        "upper",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "circled-heavy-white-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➲",
+      "unicode": [
+        "U+27B2"
+      ],
+      "name": "Circled Heavy White Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "circled",
+        "circled-heavy-white-rightwards-arrow",
+        "cursor",
+        "direction",
+        "heavy",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-feathered-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➳",
+      "unicode": [
+        "U+27B3"
+      ],
+      "name": "White-Feathered Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "feathered",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "white",
+        "white-feathered-rightwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-feathered-south-east-arrow",
+      "type": "arrow",
+      "symbol": "➴",
+      "unicode": [
+        "U+27B4"
+      ],
+      "name": "Black-Feathered South East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "black",
+        "black-feathered-south-east-arrow",
+        "cursor",
+        "direction",
+        "down",
+        "east",
+        "feathered",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "south"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-feathered-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➵",
+      "unicode": [
+        "U+27B5"
+      ],
+      "name": "Black-Feathered Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "black",
+        "black-feathered-rightwards-arrow",
+        "cursor",
+        "direction",
+        "feathered",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-feathered-north-east-arrow",
+      "type": "arrow",
+      "symbol": "➶",
+      "unicode": [
+        "U+27B6"
+      ],
+      "name": "Black-Feathered North East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "black",
+        "black-feathered-north-east-arrow",
+        "cursor",
+        "direction",
+        "east",
+        "feathered",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "right",
+        "up"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-black-feathered-south-east-arrow",
+      "type": "arrow",
+      "symbol": "➷",
+      "unicode": [
+        "U+27B7"
+      ],
+      "name": "Heavy Black-Feathered South East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "black",
+        "cursor",
+        "direction",
+        "down",
+        "east",
+        "feathered",
+        "heavy",
+        "heavy-black-feathered-south-east-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "right",
+        "south"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-black-feathered-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➸",
+      "unicode": [
+        "U+27B8"
+      ],
+      "name": "Heavy Black-Feathered Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "black",
+        "cursor",
+        "direction",
+        "feathered",
+        "heavy",
+        "heavy-black-feathered-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-black-feathered-north-east-arrow",
+      "type": "arrow",
+      "symbol": "➹",
+      "unicode": [
+        "U+27B9"
+      ],
+      "name": "Heavy Black-Feathered North East Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "black",
+        "cursor",
+        "direction",
+        "east",
+        "feathered",
+        "heavy",
+        "heavy-black-feathered-north-east-arrow",
+        "move",
+        "navigation",
+        "north",
+        "pointer",
+        "right",
+        "up"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "teardrop-barbed-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➺",
+      "unicode": [
+        "U+27BA"
+      ],
+      "name": "Teardrop-Barbed Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "barbed",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "teardrop",
+        "teardrop-barbed-rightwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-teardrop-shanked-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➻",
+      "unicode": [
+        "U+27BB"
+      ],
+      "name": "Heavy Teardrop-Shanked Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "heavy",
+        "heavy-teardrop-shanked-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "shanked",
+        "teardrop"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "wedge-tailed-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➼",
+      "unicode": [
+        "U+27BC"
+      ],
+      "name": "Wedge-Tailed Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "tailed",
+        "wedge",
+        "wedge-tailed-rightwards-arrow"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-wedge-tailed-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➽",
+      "unicode": [
+        "U+27BD"
+      ],
+      "name": "Heavy Wedge-Tailed Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "heavy",
+        "heavy-wedge-tailed-rightwards-arrow",
+        "move",
+        "navigation",
+        "pointer",
+        "rightwards",
+        "tailed",
+        "wedge"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "open-outlined-rightwards-arrow",
+      "type": "arrow",
+      "symbol": "➾",
+      "unicode": [
+        "U+27BE"
+      ],
+      "name": "Open-Outlined Rightwards Arrow",
+      "aliases": [],
+      "category": null,
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "cursor",
+        "direction",
+        "move",
+        "navigation",
+        "open",
+        "open-outlined-rightwards-arrow",
+        "outlined",
+        "pointer",
+        "rightwards"
+      ],
+      "metadata": {}
+    }
+  ]
+}

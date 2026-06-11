@@ -1,0 +1,8044 @@
+{
+  "categories": [
+    {
+      "name": "Symbols",
+      "icon": "⌘"
+    },
+    {
+      "name": "Letters",
+      "icon": "𝔸"
+    },
+    {
+      "name": "Communication",
+      "icon": "✉"
+    },
+    {
+      "name": "Arrows",
+      "icon": "↗"
+    },
+    {
+      "name": "Weather",
+      "icon": "☀"
+    },
+    {
+      "name": "Stars",
+      "icon": "★"
+    },
+    {
+      "name": "Love and Hearts",
+      "icon": "♥"
+    },
+    {
+      "name": "Danger",
+      "icon": "☠"
+    },
+    {
+      "name": "Religion",
+      "icon": "☯"
+    },
+    {
+      "name": "Tools",
+      "icon": "⚒"
+    },
+    {
+      "name": "Chess",
+      "icon": "♔"
+    },
+    {
+      "name": "Music",
+      "icon": "♫"
+    },
+    {
+      "name": "Recycling",
+      "icon": "♻"
+    },
+    {
+      "name": "Dice",
+      "icon": "⚄"
+    },
+    {
+      "name": "Warnings",
+      "icon": "⚠"
+    },
+    {
+      "name": "Writing",
+      "icon": "✎"
+    }
+  ],
+  "symbols": [
+    {
+      "id": "registered-sign",
+      "type": "symbol",
+      "symbol": "®",
+      "unicode": [
+        "U+00AE"
+      ],
+      "name": "Registered Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "registered",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "trade-mark-sign",
+      "type": "symbol",
+      "symbol": "™",
+      "unicode": [
+        "U+2122"
+      ],
+      "name": "Trade Mark Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "mark",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "trade",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "commercial-at",
+      "type": "symbol",
+      "symbol": "@",
+      "unicode": [
+        "U+0040"
+      ],
+      "name": "Commercial At",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "at",
+        "commercial",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "pilcrow-sign",
+      "type": "symbol",
+      "symbol": "¶",
+      "unicode": [
+        "U+00B6"
+      ],
+      "name": "Pilcrow Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "pilcrow",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "section-sign",
+      "type": "symbol",
+      "symbol": "§",
+      "unicode": [
+        "U+00A7"
+      ],
+      "name": "Section Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "section",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "account-of",
+      "type": "symbol",
+      "symbol": "℀",
+      "unicode": [
+        "U+2100"
+      ],
+      "name": "Account Of",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "account",
+        "of",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "addressed-to-the-subject",
+      "type": "symbol",
+      "symbol": "℁",
+      "unicode": [
+        "U+2101"
+      ],
+      "name": "Addressed To The Subject",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "addressed",
+        "special-character",
+        "subject",
+        "symbol",
+        "symbols",
+        "the",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-capital-c",
+      "type": "symbol",
+      "symbol": "ℂ",
+      "unicode": [
+        "U+2102"
+      ],
+      "name": "Double-Struck Capital C",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "c",
+        "capital",
+        "double",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "degree-celsius",
+      "type": "symbol",
+      "symbol": "℃",
+      "unicode": [
+        "U+2103"
+      ],
+      "name": "Degree Celsius",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "celsius",
+        "degree",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "centre-line-symbol",
+      "type": "symbol",
+      "symbol": "℄",
+      "unicode": [
+        "U+2104"
+      ],
+      "name": "Centre Line Symbol",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "centre",
+        "line",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "care-of",
+      "type": "symbol",
+      "symbol": "℅",
+      "unicode": [
+        "U+2105"
+      ],
+      "name": "Care Of",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "care",
+        "of",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "cada-una",
+      "type": "symbol",
+      "symbol": "℆",
+      "unicode": [
+        "U+2106"
+      ],
+      "name": "Cada Una",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "cada",
+        "special-character",
+        "symbol",
+        "symbols",
+        "una",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "euler-constant",
+      "type": "symbol",
+      "symbol": "ℇ",
+      "unicode": [
+        "U+2107"
+      ],
+      "name": "Euler Constant",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "constant",
+        "euler",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "scruple",
+      "type": "symbol",
+      "symbol": "℈",
+      "unicode": [
+        "U+2108"
+      ],
+      "name": "Scruple",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "scruple",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "degree-fahrenheit",
+      "type": "symbol",
+      "symbol": "℉",
+      "unicode": [
+        "U+2109"
+      ],
+      "name": "Degree Fahrenheit",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "degree",
+        "fahrenheit",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-small-g",
+      "type": "symbol",
+      "symbol": "ℊ",
+      "unicode": [
+        "U+210A"
+      ],
+      "name": "Script Small G",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "g",
+        "script",
+        "small",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-capital-h",
+      "type": "symbol",
+      "symbol": "ℋ",
+      "unicode": [
+        "U+210B"
+      ],
+      "name": "Script Capital H",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "h",
+        "script",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-capital-h",
+      "type": "symbol",
+      "symbol": "ℍ",
+      "unicode": [
+        "U+210D"
+      ],
+      "name": "Double-Struck Capital H",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "double",
+        "h",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "planck-constant",
+      "type": "symbol",
+      "symbol": "ℎ",
+      "unicode": [
+        "U+210E"
+      ],
+      "name": "Planck Constant",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "constant",
+        "planck",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "planck-constant-over-two-pi",
+      "type": "symbol",
+      "symbol": "ℏ",
+      "unicode": [
+        "U+210F"
+      ],
+      "name": "Planck Constant Over Two Pi",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "constant",
+        "over",
+        "pi",
+        "planck",
+        "special-character",
+        "symbol",
+        "symbols",
+        "two",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-capital-i",
+      "type": "symbol",
+      "symbol": "ℐ",
+      "unicode": [
+        "U+2110"
+      ],
+      "name": "Script Capital I",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "i",
+        "script",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-capital-l",
+      "type": "symbol",
+      "symbol": "ℒ",
+      "unicode": [
+        "U+2112"
+      ],
+      "name": "Script Capital L",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "l",
+        "script",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-small-l",
+      "type": "symbol",
+      "symbol": "ℓ",
+      "unicode": [
+        "U+2113"
+      ],
+      "name": "Script Small L",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "l",
+        "script",
+        "small",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "l-b-bar-symbol",
+      "type": "symbol",
+      "symbol": "℔",
+      "unicode": [
+        "U+2114"
+      ],
+      "name": "L B Bar Symbol",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "b",
+        "bar",
+        "l",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-capital-n",
+      "type": "symbol",
+      "symbol": "ℕ",
+      "unicode": [
+        "U+2115"
+      ],
+      "name": "Double-Struck Capital N",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "double",
+        "n",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "numero-sign",
+      "type": "symbol",
+      "symbol": "№",
+      "unicode": [
+        "U+2116"
+      ],
+      "name": "Numero Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "numero",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "sound-recording-copyright",
+      "type": "symbol",
+      "symbol": "℗",
+      "unicode": [
+        "U+2117"
+      ],
+      "name": "Sound Recording Copyright",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "copyright",
+        "recording",
+        "sound",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-capital-p",
+      "type": "symbol",
+      "symbol": "℘",
+      "unicode": [
+        "U+2118"
+      ],
+      "name": "Script Capital P",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "p",
+        "script",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-capital-p",
+      "type": "symbol",
+      "symbol": "ℙ",
+      "unicode": [
+        "U+2119"
+      ],
+      "name": "Double-Struck Capital P",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "double",
+        "p",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-capital-q",
+      "type": "symbol",
+      "symbol": "ℚ",
+      "unicode": [
+        "U+211A"
+      ],
+      "name": "Double-Struck Capital Q",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "double",
+        "q",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-capital-r",
+      "type": "symbol",
+      "symbol": "ℛ",
+      "unicode": [
+        "U+211B"
+      ],
+      "name": "Script Capital R",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "r",
+        "script",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-capital-r",
+      "type": "symbol",
+      "symbol": "ℝ",
+      "unicode": [
+        "U+211D"
+      ],
+      "name": "Double-Struck Capital R",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "double",
+        "r",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "prescription-take",
+      "type": "symbol",
+      "symbol": "℞",
+      "unicode": [
+        "U+211E"
+      ],
+      "name": "Prescription Take",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "prescription",
+        "special-character",
+        "symbol",
+        "symbols",
+        "take",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "response",
+      "type": "symbol",
+      "symbol": "℟",
+      "unicode": [
+        "U+211F"
+      ],
+      "name": "Response",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "response",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "service-mark",
+      "type": "symbol",
+      "symbol": "℠",
+      "unicode": [
+        "U+2120"
+      ],
+      "name": "Service Mark",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "mark",
+        "service",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "versicle",
+      "type": "symbol",
+      "symbol": "℣",
+      "unicode": [
+        "U+2123"
+      ],
+      "name": "Versicle",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "versicle"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-capital-z",
+      "type": "symbol",
+      "symbol": "ℤ",
+      "unicode": [
+        "U+2124"
+      ],
+      "name": "Double-Struck Capital Z",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "double",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode",
+        "z"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ounce-sign",
+      "type": "symbol",
+      "symbol": "℥",
+      "unicode": [
+        "U+2125"
+      ],
+      "name": "Ounce Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "ounce",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ohm-sign",
+      "type": "symbol",
+      "symbol": "Ω",
+      "unicode": [
+        "U+2126"
+      ],
+      "name": "Ohm Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "ohm",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "inverted-ohm-sign",
+      "type": "symbol",
+      "symbol": "℧",
+      "unicode": [
+        "U+2127"
+      ],
+      "name": "Inverted Ohm Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "inverted",
+        "ohm",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "kelvin-sign",
+      "type": "symbol",
+      "symbol": "K",
+      "unicode": [
+        "U+212A"
+      ],
+      "name": "Kelvin Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "kelvin",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "angstrom-sign",
+      "type": "symbol",
+      "symbol": "Å",
+      "unicode": [
+        "U+212B"
+      ],
+      "name": "Angstrom Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "angstrom",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-capital-b",
+      "type": "symbol",
+      "symbol": "ℬ",
+      "unicode": [
+        "U+212C"
+      ],
+      "name": "Script Capital B",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "b",
+        "capital",
+        "script",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "estimated-symbol",
+      "type": "symbol",
+      "symbol": "℮",
+      "unicode": [
+        "U+212E"
+      ],
+      "name": "Estimated Symbol",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "estimated",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-small-e",
+      "type": "symbol",
+      "symbol": "ℯ",
+      "unicode": [
+        "U+212F"
+      ],
+      "name": "Script Small E",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "e",
+        "script",
+        "small",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-capital-e",
+      "type": "symbol",
+      "symbol": "ℰ",
+      "unicode": [
+        "U+2130"
+      ],
+      "name": "Script Capital E",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "e",
+        "script",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-capital-f",
+      "type": "symbol",
+      "symbol": "ℱ",
+      "unicode": [
+        "U+2131"
+      ],
+      "name": "Script Capital F",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "f",
+        "script",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "turned-capital-f",
+      "type": "symbol",
+      "symbol": "Ⅎ",
+      "unicode": [
+        "U+2132"
+      ],
+      "name": "Turned Capital F",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "f",
+        "special-character",
+        "symbol",
+        "symbols",
+        "turned",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-capital-m",
+      "type": "symbol",
+      "symbol": "ℳ",
+      "unicode": [
+        "U+2133"
+      ],
+      "name": "Script Capital M",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "m",
+        "script",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "script-small-o",
+      "type": "symbol",
+      "symbol": "ℴ",
+      "unicode": [
+        "U+2134"
+      ],
+      "name": "Script Small O",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "o",
+        "script",
+        "small",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "information-source",
+      "type": "symbol",
+      "symbol": "ℹ",
+      "unicode": [
+        "U+2139"
+      ],
+      "name": "Information Source",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "information",
+        "source",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rotated-capital-q",
+      "type": "symbol",
+      "symbol": "℺",
+      "unicode": [
+        "U+213A"
+      ],
+      "name": "Rotated Capital Q",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "q",
+        "rotated",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "facsimile-sign",
+      "type": "symbol",
+      "symbol": "℻",
+      "unicode": [
+        "U+213B"
+      ],
+      "name": "Facsimile Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "facsimile",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-small-pi",
+      "type": "symbol",
+      "symbol": "ℼ",
+      "unicode": [
+        "U+213C"
+      ],
+      "name": "Double-Struck Small Pi",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "double",
+        "pi",
+        "small",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-small-gamma",
+      "type": "symbol",
+      "symbol": "ℽ",
+      "unicode": [
+        "U+213D"
+      ],
+      "name": "Double-Struck Small Gamma",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "double",
+        "gamma",
+        "small",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-capital-gamma",
+      "type": "symbol",
+      "symbol": "ℾ",
+      "unicode": [
+        "U+213E"
+      ],
+      "name": "Double-Struck Capital Gamma",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "double",
+        "gamma",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-capital-pi",
+      "type": "symbol",
+      "symbol": "ℿ",
+      "unicode": [
+        "U+213F"
+      ],
+      "name": "Double-Struck Capital Pi",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "double",
+        "pi",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-n-ary-summation",
+      "type": "symbol",
+      "symbol": "⅀",
+      "unicode": [
+        "U+2140"
+      ],
+      "name": "Double-Struck N-Ary Summation",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "ary",
+        "double",
+        "n",
+        "special-character",
+        "struck",
+        "summation",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "turned-sans-serif-capital-g",
+      "type": "symbol",
+      "symbol": "⅁",
+      "unicode": [
+        "U+2141"
+      ],
+      "name": "Turned Sans-Serif Capital G",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "g",
+        "sans",
+        "serif",
+        "special-character",
+        "symbol",
+        "symbols",
+        "turned",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "turned-sans-serif-capital-l",
+      "type": "symbol",
+      "symbol": "⅂",
+      "unicode": [
+        "U+2142"
+      ],
+      "name": "Turned Sans-Serif Capital L",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "l",
+        "sans",
+        "serif",
+        "special-character",
+        "symbol",
+        "symbols",
+        "turned",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "reversed-sans-serif-capital-l",
+      "type": "symbol",
+      "symbol": "⅃",
+      "unicode": [
+        "U+2143"
+      ],
+      "name": "Reversed Sans-Serif Capital L",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "l",
+        "reversed",
+        "sans",
+        "serif",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "turned-sans-serif-capital-y",
+      "type": "symbol",
+      "symbol": "⅄",
+      "unicode": [
+        "U+2144"
+      ],
+      "name": "Turned Sans-Serif Capital Y",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "sans",
+        "serif",
+        "special-character",
+        "symbol",
+        "symbols",
+        "turned",
+        "unicode",
+        "y"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-italic-capital-d",
+      "type": "symbol",
+      "symbol": "ⅅ",
+      "unicode": [
+        "U+2145"
+      ],
+      "name": "Double-Struck Italic Capital D",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "capital",
+        "d",
+        "double",
+        "italic",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-italic-small-d",
+      "type": "symbol",
+      "symbol": "ⅆ",
+      "unicode": [
+        "U+2146"
+      ],
+      "name": "Double-Struck Italic Small D",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "d",
+        "double",
+        "italic",
+        "small",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-italic-small-e",
+      "type": "symbol",
+      "symbol": "ⅇ",
+      "unicode": [
+        "U+2147"
+      ],
+      "name": "Double-Struck Italic Small E",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "double",
+        "e",
+        "italic",
+        "small",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-italic-small-i",
+      "type": "symbol",
+      "symbol": "ⅈ",
+      "unicode": [
+        "U+2148"
+      ],
+      "name": "Double-Struck Italic Small I",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "double",
+        "i",
+        "italic",
+        "small",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "double-struck-italic-small-j",
+      "type": "symbol",
+      "symbol": "ⅉ",
+      "unicode": [
+        "U+2149"
+      ],
+      "name": "Double-Struck Italic Small J",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "double",
+        "italic",
+        "j",
+        "small",
+        "special-character",
+        "struck",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "property-line",
+      "type": "symbol",
+      "symbol": "⅊",
+      "unicode": [
+        "U+214A"
+      ],
+      "name": "Property Line",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "line",
+        "property",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "turned-ampersand",
+      "type": "symbol",
+      "symbol": "⅋",
+      "unicode": [
+        "U+214B"
+      ],
+      "name": "Turned Ampersand",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "ampersand",
+        "special-character",
+        "symbol",
+        "symbols",
+        "turned",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "aktieselskab",
+      "type": "symbol",
+      "symbol": "⅍",
+      "unicode": [
+        "U+214D"
+      ],
+      "name": "Aktieselskab",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "aktieselskab",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "turned-small-f",
+      "type": "symbol",
+      "symbol": "ⅎ",
+      "unicode": [
+        "U+214E"
+      ],
+      "name": "Turned Small F",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "f",
+        "small",
+        "special-character",
+        "symbol",
+        "symbols",
+        "turned",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "place-of-interest-sign",
+      "type": "symbol",
+      "symbol": "⌘",
+      "unicode": [
+        "U+2318"
+      ],
+      "name": "Place Of Interest Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "interest",
+        "of",
+        "place",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "option-key",
+      "type": "symbol",
+      "symbol": "⌥",
+      "unicode": [
+        "U+2325"
+      ],
+      "name": "Option Key",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "key",
+        "option",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "erase-to-the-left",
+      "type": "symbol",
+      "symbol": "⌫",
+      "unicode": [
+        "U+232B"
+      ],
+      "name": "Erase To The Left",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "erase",
+        "left",
+        "special-character",
+        "symbol",
+        "symbols",
+        "the",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "erase-to-the-right",
+      "type": "symbol",
+      "symbol": "⌦",
+      "unicode": [
+        "U+2326"
+      ],
+      "name": "Erase To The Right",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "erase",
+        "right",
+        "special-character",
+        "symbol",
+        "symbols",
+        "the",
+        "to",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "symbol-for-delete",
+      "type": "symbol",
+      "symbol": "␡",
+      "unicode": [
+        "U+2421"
+      ],
+      "name": "Symbol For Delete",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "delete",
+        "for",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "symbol-for-escape",
+      "type": "symbol",
+      "symbol": "␛",
+      "unicode": [
+        "U+241B"
+      ],
+      "name": "Symbol For Escape",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "escape",
+        "for",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "return-symbol",
+      "type": "symbol",
+      "symbol": "⏎",
+      "unicode": [
+        "U+23CE"
+      ],
+      "name": "Return Symbol",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "return",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "open-box",
+      "type": "symbol",
+      "symbol": "␣",
+      "unicode": [
+        "U+2423"
+      ],
+      "name": "Open Box",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "box",
+        "open",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "comet",
+      "type": "symbol",
+      "symbol": "☄",
+      "unicode": [
+        "U+2604"
+      ],
+      "name": "Comet",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "comet",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "lightning",
+      "type": "symbol",
+      "symbol": "☇",
+      "unicode": [
+        "U+2607"
+      ],
+      "name": "Lightning",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "lightning",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "thunderstorm",
+      "type": "symbol",
+      "symbol": "☈",
+      "unicode": [
+        "U+2608"
+      ],
+      "name": "Thunderstorm",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "special-character",
+        "symbol",
+        "symbols",
+        "thunderstorm",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ascending-node",
+      "type": "symbol",
+      "symbol": "☊",
+      "unicode": [
+        "U+260A"
+      ],
+      "name": "Ascending Node",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "ascending",
+        "node",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "descending-node",
+      "type": "symbol",
+      "symbol": "☋",
+      "unicode": [
+        "U+260B"
+      ],
+      "name": "Descending Node",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "descending",
+        "node",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "conjunction",
+      "type": "symbol",
+      "symbol": "☌",
+      "unicode": [
+        "U+260C"
+      ],
+      "name": "Conjunction",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "conjunction",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "opposition",
+      "type": "symbol",
+      "symbol": "☍",
+      "unicode": [
+        "U+260D"
+      ],
+      "name": "Opposition",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "opposition",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ballot-box",
+      "type": "symbol",
+      "symbol": "☐",
+      "unicode": [
+        "U+2610"
+      ],
+      "name": "Ballot Box",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "ballot",
+        "box",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ballot-box-with-check",
+      "type": "symbol",
+      "symbol": "☑",
+      "unicode": [
+        "U+2611"
+      ],
+      "name": "Ballot Box With Check",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "ballot",
+        "box",
+        "check",
+        "done",
+        "special-character",
+        "success",
+        "symbol",
+        "symbols",
+        "tick",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ballot-box-with-x",
+      "type": "symbol",
+      "symbol": "☒",
+      "unicode": [
+        "U+2612"
+      ],
+      "name": "Ballot Box With X",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "ballot",
+        "box",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "with",
+        "x"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "saltire",
+      "type": "symbol",
+      "symbol": "☓",
+      "unicode": [
+        "U+2613"
+      ],
+      "name": "Saltire",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "saltire",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-shogi-piece",
+      "type": "symbol",
+      "symbol": "☖",
+      "unicode": [
+        "U+2616"
+      ],
+      "name": "White Shogi Piece",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "piece",
+        "shogi",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-shogi-piece",
+      "type": "symbol",
+      "symbol": "☗",
+      "unicode": [
+        "U+2617"
+      ],
+      "name": "Black Shogi Piece",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "piece",
+        "shogi",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "shamrock",
+      "type": "symbol",
+      "symbol": "☘",
+      "unicode": [
+        "U+2618"
+      ],
+      "name": "Shamrock",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "shamrock",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-left-pointing-index",
+      "type": "symbol",
+      "symbol": "☚",
+      "unicode": [
+        "U+261A"
+      ],
+      "name": "Black Left Pointing Index",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "index",
+        "left",
+        "pointing",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-right-pointing-index",
+      "type": "symbol",
+      "symbol": "☛",
+      "unicode": [
+        "U+261B"
+      ],
+      "name": "Black Right Pointing Index",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "index",
+        "pointing",
+        "right",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-left-pointing-index",
+      "type": "symbol",
+      "symbol": "☜",
+      "unicode": [
+        "U+261C"
+      ],
+      "name": "White Left Pointing Index",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "index",
+        "left",
+        "pointing",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-up-pointing-index",
+      "type": "symbol",
+      "symbol": "☝",
+      "unicode": [
+        "U+261D"
+      ],
+      "name": "White Up Pointing Index",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "index",
+        "pointing",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "up",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-right-pointing-index",
+      "type": "symbol",
+      "symbol": "☞",
+      "unicode": [
+        "U+261E"
+      ],
+      "name": "White Right Pointing Index",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "index",
+        "pointing",
+        "right",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-down-pointing-index",
+      "type": "symbol",
+      "symbol": "☟",
+      "unicode": [
+        "U+261F"
+      ],
+      "name": "White Down Pointing Index",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "down",
+        "index",
+        "pointing",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "caution-sign",
+      "type": "symbol",
+      "symbol": "☡",
+      "unicode": [
+        "U+2621"
+      ],
+      "name": "Caution Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "caution",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "caduceus",
+      "type": "symbol",
+      "symbol": "☤",
+      "unicode": [
+        "U+2624"
+      ],
+      "name": "Caduceus",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "caduceus",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ankh",
+      "type": "symbol",
+      "symbol": "☥",
+      "unicode": [
+        "U+2625"
+      ],
+      "name": "Ankh",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "ankh",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "chi-rho",
+      "type": "symbol",
+      "symbol": "☧",
+      "unicode": [
+        "U+2627"
+      ],
+      "name": "Chi Rho",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "chi",
+        "rho",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "farsi-symbol",
+      "type": "symbol",
+      "symbol": "☫",
+      "unicode": [
+        "U+262B"
+      ],
+      "name": "Farsi Symbol",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "farsi",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "adi-shakti",
+      "type": "symbol",
+      "symbol": "☬",
+      "unicode": [
+        "U+262C"
+      ],
+      "name": "Adi Shakti",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "adi",
+        "shakti",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "trigram-for-heaven",
+      "type": "symbol",
+      "symbol": "☰",
+      "unicode": [
+        "U+2630"
+      ],
+      "name": "Trigram For Heaven",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "for",
+        "heaven",
+        "special-character",
+        "symbol",
+        "symbols",
+        "trigram",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "trigram-for-lake",
+      "type": "symbol",
+      "symbol": "☱",
+      "unicode": [
+        "U+2631"
+      ],
+      "name": "Trigram For Lake",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "for",
+        "lake",
+        "special-character",
+        "symbol",
+        "symbols",
+        "trigram",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "trigram-for-fire",
+      "type": "symbol",
+      "symbol": "☲",
+      "unicode": [
+        "U+2632"
+      ],
+      "name": "Trigram For Fire",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "fire",
+        "for",
+        "special-character",
+        "symbol",
+        "symbols",
+        "trigram",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "trigram-for-thunder",
+      "type": "symbol",
+      "symbol": "☳",
+      "unicode": [
+        "U+2633"
+      ],
+      "name": "Trigram For Thunder",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "for",
+        "special-character",
+        "symbol",
+        "symbols",
+        "thunder",
+        "trigram",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "trigram-for-wind",
+      "type": "symbol",
+      "symbol": "☴",
+      "unicode": [
+        "U+2634"
+      ],
+      "name": "Trigram For Wind",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "for",
+        "special-character",
+        "symbol",
+        "symbols",
+        "trigram",
+        "unicode",
+        "wind"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "trigram-for-water",
+      "type": "symbol",
+      "symbol": "☵",
+      "unicode": [
+        "U+2635"
+      ],
+      "name": "Trigram For Water",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "for",
+        "special-character",
+        "symbol",
+        "symbols",
+        "trigram",
+        "unicode",
+        "water"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "trigram-for-mountain",
+      "type": "symbol",
+      "symbol": "☶",
+      "unicode": [
+        "U+2636"
+      ],
+      "name": "Trigram For Mountain",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "for",
+        "mountain",
+        "special-character",
+        "symbol",
+        "symbols",
+        "trigram",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "trigram-for-earth",
+      "type": "symbol",
+      "symbol": "☷",
+      "unicode": [
+        "U+2637"
+      ],
+      "name": "Trigram For Earth",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "earth",
+        "for",
+        "special-character",
+        "symbol",
+        "symbols",
+        "trigram",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "wheel-of-dharma",
+      "type": "symbol",
+      "symbol": "☸",
+      "unicode": [
+        "U+2638"
+      ],
+      "name": "Wheel Of Dharma",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "dharma",
+        "of",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "wheel"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-frowning-face",
+      "type": "symbol",
+      "symbol": "☹",
+      "unicode": [
+        "U+2639"
+      ],
+      "name": "White Frowning Face",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "face",
+        "frowning",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-smiling-face",
+      "type": "symbol",
+      "symbol": "☺",
+      "unicode": [
+        "U+263A"
+      ],
+      "name": "White Smiling Face",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "face",
+        "smiling",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-smiling-face",
+      "type": "symbol",
+      "symbol": "☻",
+      "unicode": [
+        "U+263B"
+      ],
+      "name": "Black Smiling Face",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "face",
+        "smiling",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "first-quarter-moon",
+      "type": "symbol",
+      "symbol": "☽",
+      "unicode": [
+        "U+263D"
+      ],
+      "name": "First Quarter Moon",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "first",
+        "moon",
+        "quarter",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "last-quarter-moon",
+      "type": "symbol",
+      "symbol": "☾",
+      "unicode": [
+        "U+263E"
+      ],
+      "name": "Last Quarter Moon",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "last",
+        "moon",
+        "quarter",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "mercury",
+      "type": "symbol",
+      "symbol": "☿",
+      "unicode": [
+        "U+263F"
+      ],
+      "name": "Mercury",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "mercury",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "female-sign",
+      "type": "symbol",
+      "symbol": "♀",
+      "unicode": [
+        "U+2640"
+      ],
+      "name": "Female Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "female",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "earth",
+      "type": "symbol",
+      "symbol": "♁",
+      "unicode": [
+        "U+2641"
+      ],
+      "name": "Earth",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "earth",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "male-sign",
+      "type": "symbol",
+      "symbol": "♂",
+      "unicode": [
+        "U+2642"
+      ],
+      "name": "Male Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "male",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "jupiter",
+      "type": "symbol",
+      "symbol": "♃",
+      "unicode": [
+        "U+2643"
+      ],
+      "name": "Jupiter",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "jupiter",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "saturn",
+      "type": "symbol",
+      "symbol": "♄",
+      "unicode": [
+        "U+2644"
+      ],
+      "name": "Saturn",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "saturn",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "uranus",
+      "type": "symbol",
+      "symbol": "♅",
+      "unicode": [
+        "U+2645"
+      ],
+      "name": "Uranus",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "uranus"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "neptune",
+      "type": "symbol",
+      "symbol": "♆",
+      "unicode": [
+        "U+2646"
+      ],
+      "name": "Neptune",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "neptune",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "pluto",
+      "type": "symbol",
+      "symbol": "♇",
+      "unicode": [
+        "U+2647"
+      ],
+      "name": "Pluto",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "pluto",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-spade-suit",
+      "type": "symbol",
+      "symbol": "♠",
+      "unicode": [
+        "U+2660"
+      ],
+      "name": "Black Spade Suit",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "spade",
+        "special-character",
+        "suit",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-diamond-suit",
+      "type": "symbol",
+      "symbol": "♢",
+      "unicode": [
+        "U+2662"
+      ],
+      "name": "White Diamond Suit",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "diamond",
+        "special-character",
+        "suit",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-club-suit",
+      "type": "symbol",
+      "symbol": "♣",
+      "unicode": [
+        "U+2663"
+      ],
+      "name": "Black Club Suit",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "club",
+        "special-character",
+        "suit",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-spade-suit",
+      "type": "symbol",
+      "symbol": "♤",
+      "unicode": [
+        "U+2664"
+      ],
+      "name": "White Spade Suit",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "spade",
+        "special-character",
+        "suit",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-diamond-suit",
+      "type": "symbol",
+      "symbol": "♦",
+      "unicode": [
+        "U+2666"
+      ],
+      "name": "Black Diamond Suit",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "diamond",
+        "special-character",
+        "suit",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-club-suit",
+      "type": "symbol",
+      "symbol": "♧",
+      "unicode": [
+        "U+2667"
+      ],
+      "name": "White Club Suit",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "club",
+        "special-character",
+        "suit",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hot-springs",
+      "type": "symbol",
+      "symbol": "♨",
+      "unicode": [
+        "U+2668"
+      ],
+      "name": "Hot Springs",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "hot",
+        "special-character",
+        "springs",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "universal-recycling-symbol",
+      "type": "symbol",
+      "symbol": "♲",
+      "unicode": [
+        "U+2672"
+      ],
+      "name": "Universal Recycling Symbol",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "recycling",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "universal"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "recycling-symbol-for-type-1-plastics",
+      "type": "symbol",
+      "symbol": "♳",
+      "unicode": [
+        "U+2673"
+      ],
+      "name": "Recycling Symbol For Type-1 Plastics",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "1",
+        "for",
+        "plastics",
+        "recycling",
+        "special-character",
+        "symbol",
+        "symbols",
+        "type",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "recycling-symbol-for-type-2-plastics",
+      "type": "symbol",
+      "symbol": "♴",
+      "unicode": [
+        "U+2674"
+      ],
+      "name": "Recycling Symbol For Type-2 Plastics",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "2",
+        "for",
+        "plastics",
+        "recycling",
+        "special-character",
+        "symbol",
+        "symbols",
+        "type",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "recycling-symbol-for-type-3-plastics",
+      "type": "symbol",
+      "symbol": "♵",
+      "unicode": [
+        "U+2675"
+      ],
+      "name": "Recycling Symbol For Type-3 Plastics",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "3",
+        "for",
+        "plastics",
+        "recycling",
+        "special-character",
+        "symbol",
+        "symbols",
+        "type",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "recycling-symbol-for-type-4-plastics",
+      "type": "symbol",
+      "symbol": "♶",
+      "unicode": [
+        "U+2676"
+      ],
+      "name": "Recycling Symbol For Type-4 Plastics",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "4",
+        "for",
+        "plastics",
+        "recycling",
+        "special-character",
+        "symbol",
+        "symbols",
+        "type",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "recycling-symbol-for-type-5-plastics",
+      "type": "symbol",
+      "symbol": "♷",
+      "unicode": [
+        "U+2677"
+      ],
+      "name": "Recycling Symbol For Type-5 Plastics",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "5",
+        "for",
+        "plastics",
+        "recycling",
+        "special-character",
+        "symbol",
+        "symbols",
+        "type",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "recycling-symbol-for-type-6-plastics",
+      "type": "symbol",
+      "symbol": "♸",
+      "unicode": [
+        "U+2678"
+      ],
+      "name": "Recycling Symbol For Type-6 Plastics",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "6",
+        "for",
+        "plastics",
+        "recycling",
+        "special-character",
+        "symbol",
+        "symbols",
+        "type",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "recycling-symbol-for-type-7-plastics",
+      "type": "symbol",
+      "symbol": "♹",
+      "unicode": [
+        "U+2679"
+      ],
+      "name": "Recycling Symbol For Type-7 Plastics",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "7",
+        "for",
+        "plastics",
+        "recycling",
+        "special-character",
+        "symbol",
+        "symbols",
+        "type",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "recycling-symbol-for-generic-materials",
+      "type": "symbol",
+      "symbol": "♺",
+      "unicode": [
+        "U+267A"
+      ],
+      "name": "Recycling Symbol For Generic Materials",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "for",
+        "generic",
+        "materials",
+        "recycling",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-universal-recycling-symbol",
+      "type": "symbol",
+      "symbol": "♻",
+      "unicode": [
+        "U+267B"
+      ],
+      "name": "Black Universal Recycling Symbol",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "recycling",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "universal"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "permanent-paper-sign",
+      "type": "symbol",
+      "symbol": "♾",
+      "unicode": [
+        "U+267E"
+      ],
+      "name": "Permanent Paper Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "paper",
+        "permanent",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-circle-with-dot-right",
+      "type": "symbol",
+      "symbol": "⚆",
+      "unicode": [
+        "U+2686"
+      ],
+      "name": "White Circle With Dot Right",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "circle",
+        "dot",
+        "right",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-circle-with-two-dots",
+      "type": "symbol",
+      "symbol": "⚇",
+      "unicode": [
+        "U+2687"
+      ],
+      "name": "White Circle With Two Dots",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "circle",
+        "dots",
+        "special-character",
+        "symbol",
+        "symbols",
+        "two",
+        "unicode",
+        "white",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-circle-with-white-dot-right",
+      "type": "symbol",
+      "symbol": "⚈",
+      "unicode": [
+        "U+2688"
+      ],
+      "name": "Black Circle With White Dot Right",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "circle",
+        "dot",
+        "right",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-circle-with-two-white-dots",
+      "type": "symbol",
+      "symbol": "⚉",
+      "unicode": [
+        "U+2689"
+      ],
+      "name": "Black Circle With Two White Dots",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "circle",
+        "dots",
+        "special-character",
+        "symbol",
+        "symbols",
+        "two",
+        "unicode",
+        "white",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "monogram-for-yang",
+      "type": "symbol",
+      "symbol": "⚊",
+      "unicode": [
+        "U+268A"
+      ],
+      "name": "Monogram For Yang",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "for",
+        "monogram",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "yang"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "digram-for-greater-yang",
+      "type": "symbol",
+      "symbol": "⚌",
+      "unicode": [
+        "U+268C"
+      ],
+      "name": "Digram For Greater Yang",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "digram",
+        "for",
+        "greater",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "yang"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "digram-for-lesser-yang",
+      "type": "symbol",
+      "symbol": "⚎",
+      "unicode": [
+        "U+268E"
+      ],
+      "name": "Digram For Lesser Yang",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "digram",
+        "for",
+        "lesser",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "yang"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-flag",
+      "type": "symbol",
+      "symbol": "⚐",
+      "unicode": [
+        "U+2690"
+      ],
+      "name": "White Flag",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "flag",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-flag",
+      "type": "symbol",
+      "symbol": "⚑",
+      "unicode": [
+        "U+2691"
+      ],
+      "name": "Black Flag",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "flag",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "staff-of-aesculapius",
+      "type": "symbol",
+      "symbol": "⚕",
+      "unicode": [
+        "U+2695"
+      ],
+      "name": "Staff Of Aesculapius",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "aesculapius",
+        "of",
+        "special-character",
+        "staff",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "scales",
+      "type": "symbol",
+      "symbol": "⚖",
+      "unicode": [
+        "U+2696"
+      ],
+      "name": "Scales",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "scales",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "alembic",
+      "type": "symbol",
+      "symbol": "⚗",
+      "unicode": [
+        "U+2697"
+      ],
+      "name": "Alembic",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "alembic",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "flower",
+      "type": "symbol",
+      "symbol": "⚘",
+      "unicode": [
+        "U+2698"
+      ],
+      "name": "Flower",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "flower",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "staff-of-hermes",
+      "type": "symbol",
+      "symbol": "⚚",
+      "unicode": [
+        "U+269A"
+      ],
+      "name": "Staff Of Hermes",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "hermes",
+        "of",
+        "special-character",
+        "staff",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "atom-symbol",
+      "type": "symbol",
+      "symbol": "⚛",
+      "unicode": [
+        "U+269B"
+      ],
+      "name": "Atom Symbol",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "atom",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "fleur-de-lis",
+      "type": "symbol",
+      "symbol": "⚜",
+      "unicode": [
+        "U+269C"
+      ],
+      "name": "Fleur-De-Lis",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "de",
+        "fleur",
+        "lis",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "three-lines-converging-right",
+      "type": "symbol",
+      "symbol": "⚞",
+      "unicode": [
+        "U+269E"
+      ],
+      "name": "Three Lines Converging Right",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "converging",
+        "lines",
+        "right",
+        "special-character",
+        "symbol",
+        "symbols",
+        "three",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "three-lines-converging-left",
+      "type": "symbol",
+      "symbol": "⚟",
+      "unicode": [
+        "U+269F"
+      ],
+      "name": "Three Lines Converging Left",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "converging",
+        "left",
+        "lines",
+        "special-character",
+        "symbol",
+        "symbols",
+        "three",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "doubled-female-sign",
+      "type": "symbol",
+      "symbol": "⚢",
+      "unicode": [
+        "U+26A2"
+      ],
+      "name": "Doubled Female Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "doubled",
+        "female",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "doubled-male-sign",
+      "type": "symbol",
+      "symbol": "⚣",
+      "unicode": [
+        "U+26A3"
+      ],
+      "name": "Doubled Male Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "doubled",
+        "male",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "interlocked-female-and-male-sign",
+      "type": "symbol",
+      "symbol": "⚤",
+      "unicode": [
+        "U+26A4"
+      ],
+      "name": "Interlocked Female And Male Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "female",
+        "interlocked",
+        "male",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "male-and-female-sign",
+      "type": "symbol",
+      "symbol": "⚥",
+      "unicode": [
+        "U+26A5"
+      ],
+      "name": "Male And Female Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "female",
+        "male",
+        "sign",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "male-with-stroke-sign",
+      "type": "symbol",
+      "symbol": "⚦",
+      "unicode": [
+        "U+26A6"
+      ],
+      "name": "Male With Stroke Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "male",
+        "sign",
+        "special-character",
+        "stroke",
+        "symbol",
+        "symbols",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "male-with-stroke-and-male-and-female-sign",
+      "type": "symbol",
+      "symbol": "⚧",
+      "unicode": [
+        "U+26A7"
+      ],
+      "name": "Male With Stroke And Male And Female Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "female",
+        "male",
+        "sign",
+        "special-character",
+        "stroke",
+        "symbol",
+        "symbols",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "vertical-male-with-stroke-sign",
+      "type": "symbol",
+      "symbol": "⚨",
+      "unicode": [
+        "U+26A8"
+      ],
+      "name": "Vertical Male With Stroke Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "male",
+        "sign",
+        "special-character",
+        "stroke",
+        "symbol",
+        "symbols",
+        "unicode",
+        "vertical",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "horizontal-male-with-stroke-sign",
+      "type": "symbol",
+      "symbol": "⚩",
+      "unicode": [
+        "U+26A9"
+      ],
+      "name": "Horizontal Male With Stroke Sign",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "horizontal",
+        "male",
+        "sign",
+        "special-character",
+        "stroke",
+        "symbol",
+        "symbols",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "medium-small-white-circle",
+      "type": "symbol",
+      "symbol": "⚬",
+      "unicode": [
+        "U+26AC"
+      ],
+      "name": "Medium Small White Circle",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "circle",
+        "medium",
+        "small",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "marriage-symbol",
+      "type": "symbol",
+      "symbol": "⚭",
+      "unicode": [
+        "U+26AD"
+      ],
+      "name": "Marriage Symbol",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "marriage",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "divorce-symbol",
+      "type": "symbol",
+      "symbol": "⚮",
+      "unicode": [
+        "U+26AE"
+      ],
+      "name": "Divorce Symbol",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "divorce",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "unmarried-partnership-symbol",
+      "type": "symbol",
+      "symbol": "⚯",
+      "unicode": [
+        "U+26AF"
+      ],
+      "name": "Unmarried Partnership Symbol",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "partnership",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "unmarried"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "coffin",
+      "type": "symbol",
+      "symbol": "⚰",
+      "unicode": [
+        "U+26B0"
+      ],
+      "name": "Coffin",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "coffin",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "funeral-urn",
+      "type": "symbol",
+      "symbol": "⚱",
+      "unicode": [
+        "U+26B1"
+      ],
+      "name": "Funeral Urn",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "funeral",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "urn"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "neuter",
+      "type": "symbol",
+      "symbol": "⚲",
+      "unicode": [
+        "U+26B2"
+      ],
+      "name": "Neuter",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "neuter",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "tape-drive",
+      "type": "symbol",
+      "symbol": "✇",
+      "unicode": [
+        "U+2707"
+      ],
+      "name": "Tape Drive",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "drive",
+        "special-character",
+        "symbol",
+        "symbols",
+        "tape",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "airplane",
+      "type": "symbol",
+      "symbol": "✈",
+      "unicode": [
+        "U+2708"
+      ],
+      "name": "Airplane",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "airplane",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "envelope",
+      "type": "symbol",
+      "symbol": "✉",
+      "unicode": [
+        "U+2709"
+      ],
+      "name": "Envelope",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "envelope",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "victory-hand",
+      "type": "symbol",
+      "symbol": "✌",
+      "unicode": [
+        "U+270C"
+      ],
+      "name": "Victory Hand",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "hand",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "victory"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "writing-hand",
+      "type": "symbol",
+      "symbol": "✍",
+      "unicode": [
+        "U+270D"
+      ],
+      "name": "Writing Hand",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "hand",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "writing"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-nib",
+      "type": "symbol",
+      "symbol": "✑",
+      "unicode": [
+        "U+2711"
+      ],
+      "name": "White Nib",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "nib",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-nib",
+      "type": "symbol",
+      "symbol": "✒",
+      "unicode": [
+        "U+2712"
+      ],
+      "name": "Black Nib",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "nib",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "check-mark",
+      "type": "symbol",
+      "symbol": "✓",
+      "unicode": [
+        "U+2713"
+      ],
+      "name": "Check Mark",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "check",
+        "done",
+        "mark",
+        "special-character",
+        "success",
+        "symbol",
+        "symbols",
+        "tick",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-check-mark",
+      "type": "symbol",
+      "symbol": "✔",
+      "unicode": [
+        "U+2714"
+      ],
+      "name": "Heavy Check Mark",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "check",
+        "done",
+        "heavy",
+        "mark",
+        "special-character",
+        "success",
+        "symbol",
+        "symbols",
+        "tick",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "multiplication-x",
+      "type": "symbol",
+      "symbol": "✕",
+      "unicode": [
+        "U+2715"
+      ],
+      "name": "Multiplication X",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "multiplication",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "x"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-multiplication-x",
+      "type": "symbol",
+      "symbol": "✖",
+      "unicode": [
+        "U+2716"
+      ],
+      "name": "Heavy Multiplication X",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "heavy",
+        "multiplication",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "x"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "ballot-x",
+      "type": "symbol",
+      "symbol": "✗",
+      "unicode": [
+        "U+2717"
+      ],
+      "name": "Ballot X",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "ballot",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "x"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-ballot-x",
+      "type": "symbol",
+      "symbol": "✘",
+      "unicode": [
+        "U+2718"
+      ],
+      "name": "Heavy Ballot X",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "ballot",
+        "heavy",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "x"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "four-teardrop-spoked-asterisk",
+      "type": "symbol",
+      "symbol": "✢",
+      "unicode": [
+        "U+2722"
+      ],
+      "name": "Four Teardrop-Spoked Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "four",
+        "special-character",
+        "spoked",
+        "symbol",
+        "symbols",
+        "teardrop",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "four-balloon-spoked-asterisk",
+      "type": "symbol",
+      "symbol": "✣",
+      "unicode": [
+        "U+2723"
+      ],
+      "name": "Four Balloon-Spoked Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "balloon",
+        "four",
+        "special-character",
+        "spoked",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-four-balloon-spoked-asterisk",
+      "type": "symbol",
+      "symbol": "✤",
+      "unicode": [
+        "U+2724"
+      ],
+      "name": "Heavy Four Balloon-Spoked Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "balloon",
+        "four",
+        "heavy",
+        "special-character",
+        "spoked",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "four-club-spoked-asterisk",
+      "type": "symbol",
+      "symbol": "✥",
+      "unicode": [
+        "U+2725"
+      ],
+      "name": "Four Club-Spoked Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "club",
+        "four",
+        "special-character",
+        "spoked",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-asterisk",
+      "type": "symbol",
+      "symbol": "✱",
+      "unicode": [
+        "U+2731"
+      ],
+      "name": "Heavy Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "heavy",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "open-centre-asterisk",
+      "type": "symbol",
+      "symbol": "✲",
+      "unicode": [
+        "U+2732"
+      ],
+      "name": "Open Centre Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "centre",
+        "open",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "eight-spoked-asterisk",
+      "type": "symbol",
+      "symbol": "✳",
+      "unicode": [
+        "U+2733"
+      ],
+      "name": "Eight Spoked Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "eight",
+        "special-character",
+        "spoked",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "sixteen-pointed-asterisk",
+      "type": "symbol",
+      "symbol": "✺",
+      "unicode": [
+        "U+273A"
+      ],
+      "name": "Sixteen Pointed Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "pointed",
+        "sixteen",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "teardrop-spoked-asterisk",
+      "type": "symbol",
+      "symbol": "✻",
+      "unicode": [
+        "U+273B"
+      ],
+      "name": "Teardrop-Spoked Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "special-character",
+        "spoked",
+        "symbol",
+        "symbols",
+        "teardrop",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "open-centre-teardrop-spoked-asterisk",
+      "type": "symbol",
+      "symbol": "✼",
+      "unicode": [
+        "U+273C"
+      ],
+      "name": "Open Centre Teardrop-Spoked Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "centre",
+        "open",
+        "special-character",
+        "spoked",
+        "symbol",
+        "symbols",
+        "teardrop",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-teardrop-spoked-asterisk",
+      "type": "symbol",
+      "symbol": "✽",
+      "unicode": [
+        "U+273D"
+      ],
+      "name": "Heavy Teardrop-Spoked Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "heavy",
+        "special-character",
+        "spoked",
+        "symbol",
+        "symbols",
+        "teardrop",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "six-petalled-black-and-white-florette",
+      "type": "symbol",
+      "symbol": "✾",
+      "unicode": [
+        "U+273E"
+      ],
+      "name": "Six Petalled Black And White Florette",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "black",
+        "florette",
+        "petalled",
+        "six",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-florette",
+      "type": "symbol",
+      "symbol": "✿",
+      "unicode": [
+        "U+273F"
+      ],
+      "name": "Black Florette",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "florette",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-florette",
+      "type": "symbol",
+      "symbol": "❀",
+      "unicode": [
+        "U+2740"
+      ],
+      "name": "White Florette",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "florette",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "eight-petalled-outlined-black-florette",
+      "type": "symbol",
+      "symbol": "❁",
+      "unicode": [
+        "U+2741"
+      ],
+      "name": "Eight Petalled Outlined Black Florette",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "eight",
+        "florette",
+        "outlined",
+        "petalled",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-teardrop-spoked-pinwheel-asterisk",
+      "type": "symbol",
+      "symbol": "❃",
+      "unicode": [
+        "U+2743"
+      ],
+      "name": "Heavy Teardrop-Spoked Pinwheel Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "heavy",
+        "pinwheel",
+        "special-character",
+        "spoked",
+        "symbol",
+        "symbols",
+        "teardrop",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "sparkle",
+      "type": "symbol",
+      "symbol": "❇",
+      "unicode": [
+        "U+2747"
+      ],
+      "name": "Sparkle",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "sparkle",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-sparkle",
+      "type": "symbol",
+      "symbol": "❈",
+      "unicode": [
+        "U+2748"
+      ],
+      "name": "Heavy Sparkle",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "heavy",
+        "sparkle",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "balloon-spoked-asterisk",
+      "type": "symbol",
+      "symbol": "❉",
+      "unicode": [
+        "U+2749"
+      ],
+      "name": "Balloon-Spoked Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "balloon",
+        "special-character",
+        "spoked",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "eight-teardrop-spoked-propeller-asterisk",
+      "type": "symbol",
+      "symbol": "❊",
+      "unicode": [
+        "U+274A"
+      ],
+      "name": "Eight Teardrop-Spoked Propeller Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "eight",
+        "propeller",
+        "special-character",
+        "spoked",
+        "symbol",
+        "symbols",
+        "teardrop",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-eight-teardrop-spoked-propeller-asterisk",
+      "type": "symbol",
+      "symbol": "❋",
+      "unicode": [
+        "U+274B"
+      ],
+      "name": "Heavy Eight Teardrop-Spoked Propeller Asterisk",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "asterisk",
+        "eight",
+        "heavy",
+        "propeller",
+        "special-character",
+        "spoked",
+        "symbol",
+        "symbols",
+        "teardrop",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "shadowed-white-circle",
+      "type": "symbol",
+      "symbol": "❍",
+      "unicode": [
+        "U+274D"
+      ],
+      "name": "Shadowed White Circle",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "circle",
+        "shadowed",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "lower-right-drop-shadowed-white-square",
+      "type": "symbol",
+      "symbol": "❏",
+      "unicode": [
+        "U+274F"
+      ],
+      "name": "Lower Right Drop-Shadowed White Square",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "drop",
+        "lower",
+        "right",
+        "shadowed",
+        "special-character",
+        "square",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upper-right-drop-shadowed-white-square",
+      "type": "symbol",
+      "symbol": "❐",
+      "unicode": [
+        "U+2750"
+      ],
+      "name": "Upper Right Drop-Shadowed White Square",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "drop",
+        "right",
+        "shadowed",
+        "special-character",
+        "square",
+        "symbol",
+        "symbols",
+        "unicode",
+        "upper",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "lower-right-shadowed-white-square",
+      "type": "symbol",
+      "symbol": "❑",
+      "unicode": [
+        "U+2751"
+      ],
+      "name": "Lower Right Shadowed White Square",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "lower",
+        "right",
+        "shadowed",
+        "special-character",
+        "square",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upper-right-shadowed-white-square",
+      "type": "symbol",
+      "symbol": "❒",
+      "unicode": [
+        "U+2752"
+      ],
+      "name": "Upper Right Shadowed White Square",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "right",
+        "shadowed",
+        "special-character",
+        "square",
+        "symbol",
+        "symbols",
+        "unicode",
+        "upper",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-diamond-minus-white-x",
+      "type": "symbol",
+      "symbol": "❖",
+      "unicode": [
+        "U+2756"
+      ],
+      "name": "Black Diamond Minus White X",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "diamond",
+        "minus",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "white",
+        "x"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "light-vertical-bar",
+      "type": "symbol",
+      "symbol": "❘",
+      "unicode": [
+        "U+2758"
+      ],
+      "name": "Light Vertical Bar",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "light",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "vertical"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "medium-vertical-bar",
+      "type": "symbol",
+      "symbol": "❙",
+      "unicode": [
+        "U+2759"
+      ],
+      "name": "Medium Vertical Bar",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "medium",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "vertical"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-vertical-bar",
+      "type": "symbol",
+      "symbol": "❚",
+      "unicode": [
+        "U+275A"
+      ],
+      "name": "Heavy Vertical Bar",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "bar",
+        "heavy",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode",
+        "vertical"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-single-turned-comma-quotation-mark-ornament",
+      "type": "symbol",
+      "symbol": "❛",
+      "unicode": [
+        "U+275B"
+      ],
+      "name": "Heavy Single Turned Comma Quotation Mark Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "comma",
+        "heavy",
+        "mark",
+        "ornament",
+        "quotation",
+        "single",
+        "special-character",
+        "symbol",
+        "symbols",
+        "turned",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-single-comma-quotation-mark-ornament",
+      "type": "symbol",
+      "symbol": "❜",
+      "unicode": [
+        "U+275C"
+      ],
+      "name": "Heavy Single Comma Quotation Mark Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "comma",
+        "heavy",
+        "mark",
+        "ornament",
+        "quotation",
+        "single",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-double-turned-comma-quotation-mark-ornament",
+      "type": "symbol",
+      "symbol": "❝",
+      "unicode": [
+        "U+275D"
+      ],
+      "name": "Heavy Double Turned Comma Quotation Mark Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "comma",
+        "double",
+        "heavy",
+        "mark",
+        "ornament",
+        "quotation",
+        "special-character",
+        "symbol",
+        "symbols",
+        "turned",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-double-comma-quotation-mark-ornament",
+      "type": "symbol",
+      "symbol": "❞",
+      "unicode": [
+        "U+275E"
+      ],
+      "name": "Heavy Double Comma Quotation Mark Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "comma",
+        "double",
+        "heavy",
+        "mark",
+        "ornament",
+        "quotation",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "curved-stem-paragraph-sign-ornament",
+      "type": "symbol",
+      "symbol": "❡",
+      "unicode": [
+        "U+2761"
+      ],
+      "name": "Curved Stem Paragraph Sign Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "curved",
+        "ornament",
+        "paragraph",
+        "sign",
+        "special-character",
+        "stem",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-exclamation-mark-ornament",
+      "type": "symbol",
+      "symbol": "❢",
+      "unicode": [
+        "U+2762"
+      ],
+      "name": "Heavy Exclamation Mark Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "exclamation",
+        "heavy",
+        "mark",
+        "ornament",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "medium-left-parenthesis-ornament",
+      "type": "symbol",
+      "symbol": "❨",
+      "unicode": [
+        "U+2768"
+      ],
+      "name": "Medium Left Parenthesis Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "left",
+        "medium",
+        "ornament",
+        "parenthesis",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "medium-right-parenthesis-ornament",
+      "type": "symbol",
+      "symbol": "❩",
+      "unicode": [
+        "U+2769"
+      ],
+      "name": "Medium Right Parenthesis Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "medium",
+        "ornament",
+        "parenthesis",
+        "right",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "medium-flattened-left-parenthesis-ornament",
+      "type": "symbol",
+      "symbol": "❪",
+      "unicode": [
+        "U+276A"
+      ],
+      "name": "Medium Flattened Left Parenthesis Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "flattened",
+        "left",
+        "medium",
+        "ornament",
+        "parenthesis",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "medium-flattened-right-parenthesis-ornament",
+      "type": "symbol",
+      "symbol": "❫",
+      "unicode": [
+        "U+276B"
+      ],
+      "name": "Medium Flattened Right Parenthesis Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "flattened",
+        "medium",
+        "ornament",
+        "parenthesis",
+        "right",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "medium-left-pointing-angle-bracket-ornament",
+      "type": "symbol",
+      "symbol": "❬",
+      "unicode": [
+        "U+276C"
+      ],
+      "name": "Medium Left-Pointing Angle Bracket Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "angle",
+        "bracket",
+        "left",
+        "medium",
+        "ornament",
+        "pointing",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "medium-right-pointing-angle-bracket-ornament",
+      "type": "symbol",
+      "symbol": "❭",
+      "unicode": [
+        "U+276D"
+      ],
+      "name": "Medium Right-Pointing Angle Bracket Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "angle",
+        "bracket",
+        "medium",
+        "ornament",
+        "pointing",
+        "right",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-left-pointing-angle-quotation-mark-ornament",
+      "type": "symbol",
+      "symbol": "❮",
+      "unicode": [
+        "U+276E"
+      ],
+      "name": "Heavy Left-Pointing Angle Quotation Mark Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "angle",
+        "heavy",
+        "left",
+        "mark",
+        "ornament",
+        "pointing",
+        "quotation",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-right-pointing-angle-quotation-mark-ornament",
+      "type": "symbol",
+      "symbol": "❯",
+      "unicode": [
+        "U+276F"
+      ],
+      "name": "Heavy Right-Pointing Angle Quotation Mark Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "angle",
+        "heavy",
+        "mark",
+        "ornament",
+        "pointing",
+        "quotation",
+        "right",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-left-pointing-angle-bracket-ornament",
+      "type": "symbol",
+      "symbol": "❰",
+      "unicode": [
+        "U+2770"
+      ],
+      "name": "Heavy Left-Pointing Angle Bracket Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "angle",
+        "bracket",
+        "heavy",
+        "left",
+        "ornament",
+        "pointing",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-right-pointing-angle-bracket-ornament",
+      "type": "symbol",
+      "symbol": "❱",
+      "unicode": [
+        "U+2771"
+      ],
+      "name": "Heavy Right-Pointing Angle Bracket Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "angle",
+        "bracket",
+        "heavy",
+        "ornament",
+        "pointing",
+        "right",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "light-left-tortoise-shell-bracket-ornament",
+      "type": "symbol",
+      "symbol": "❲",
+      "unicode": [
+        "U+2772"
+      ],
+      "name": "Light Left Tortoise Shell Bracket Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "bracket",
+        "left",
+        "light",
+        "ornament",
+        "shell",
+        "special-character",
+        "symbol",
+        "symbols",
+        "tortoise",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "light-right-tortoise-shell-bracket-ornament",
+      "type": "symbol",
+      "symbol": "❳",
+      "unicode": [
+        "U+2773"
+      ],
+      "name": "Light Right Tortoise Shell Bracket Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "bracket",
+        "light",
+        "ornament",
+        "right",
+        "shell",
+        "special-character",
+        "symbol",
+        "symbols",
+        "tortoise",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "medium-left-curly-bracket-ornament",
+      "type": "symbol",
+      "symbol": "❴",
+      "unicode": [
+        "U+2774"
+      ],
+      "name": "Medium Left Curly Bracket Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "bracket",
+        "curly",
+        "left",
+        "medium",
+        "ornament",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "medium-right-curly-bracket-ornament",
+      "type": "symbol",
+      "symbol": "❵",
+      "unicode": [
+        "U+2775"
+      ],
+      "name": "Medium Right Curly Bracket Ornament",
+      "aliases": [],
+      "category": "Symbols",
+      "subcategory": null,
+      "tags": [
+        "bracket",
+        "curly",
+        "medium",
+        "ornament",
+        "right",
+        "special-character",
+        "symbol",
+        "symbols",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-letter-capital-h",
+      "type": "symbol",
+      "symbol": "ℌ",
+      "unicode": [
+        "U+210C"
+      ],
+      "name": "Black-Letter Capital H",
+      "aliases": [],
+      "category": "Letters",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "capital",
+        "h",
+        "letter",
+        "letters",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-letter-capital-i",
+      "type": "symbol",
+      "symbol": "ℑ",
+      "unicode": [
+        "U+2111"
+      ],
+      "name": "Black-Letter Capital I",
+      "aliases": [],
+      "category": "Letters",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "capital",
+        "i",
+        "letter",
+        "letters",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-letter-capital-r",
+      "type": "symbol",
+      "symbol": "ℜ",
+      "unicode": [
+        "U+211C"
+      ],
+      "name": "Black-Letter Capital R",
+      "aliases": [],
+      "category": "Letters",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "capital",
+        "letter",
+        "letters",
+        "r",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-letter-capital-z",
+      "type": "symbol",
+      "symbol": "ℨ",
+      "unicode": [
+        "U+2128"
+      ],
+      "name": "Black-Letter Capital Z",
+      "aliases": [],
+      "category": "Letters",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "capital",
+        "letter",
+        "letters",
+        "special-character",
+        "symbol",
+        "unicode",
+        "z"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "turned-greek-small-letter-iota",
+      "type": "symbol",
+      "symbol": "℩",
+      "unicode": [
+        "U+2129"
+      ],
+      "name": "Turned Greek Small Letter Iota",
+      "aliases": [],
+      "category": "Letters",
+      "subcategory": null,
+      "tags": [
+        "greek",
+        "iota",
+        "letter",
+        "letters",
+        "small",
+        "special-character",
+        "symbol",
+        "turned",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-letter-capital-c",
+      "type": "symbol",
+      "symbol": "ℭ",
+      "unicode": [
+        "U+212D"
+      ],
+      "name": "Black-Letter Capital C",
+      "aliases": [],
+      "category": "Letters",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "c",
+        "capital",
+        "letter",
+        "letters",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "telephone-sign",
+      "type": "symbol",
+      "symbol": "℡",
+      "unicode": [
+        "U+2121"
+      ],
+      "name": "Telephone Sign",
+      "aliases": [],
+      "category": "Communication",
+      "subcategory": null,
+      "tags": [
+        "communication",
+        "sign",
+        "special-character",
+        "symbol",
+        "telephone",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-telephone",
+      "type": "symbol",
+      "symbol": "☎",
+      "unicode": [
+        "U+260E"
+      ],
+      "name": "Black Telephone",
+      "aliases": [],
+      "category": "Communication",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "communication",
+        "special-character",
+        "symbol",
+        "telephone",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-telephone",
+      "type": "symbol",
+      "symbol": "☏",
+      "unicode": [
+        "U+260F"
+      ],
+      "name": "White Telephone",
+      "aliases": [],
+      "category": "Communication",
+      "subcategory": null,
+      "tags": [
+        "communication",
+        "special-character",
+        "symbol",
+        "telephone",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "telephone-location-sign",
+      "type": "symbol",
+      "symbol": "✆",
+      "unicode": [
+        "U+2706"
+      ],
+      "name": "Telephone Location Sign",
+      "aliases": [],
+      "category": "Communication",
+      "subcategory": null,
+      "tags": [
+        "communication",
+        "location",
+        "sign",
+        "special-character",
+        "symbol",
+        "telephone",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "up-arrowhead",
+      "type": "symbol",
+      "symbol": "⌃",
+      "unicode": [
+        "U+2303"
+      ],
+      "name": "Up Arrowhead",
+      "aliases": [],
+      "category": "Arrows",
+      "subcategory": null,
+      "tags": [
+        "arrowhead",
+        "arrows",
+        "special-character",
+        "symbol",
+        "unicode",
+        "up"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "broken-circle-with-northwest-arrow",
+      "type": "symbol",
+      "symbol": "⎋",
+      "unicode": [
+        "U+238B"
+      ],
+      "name": "Broken Circle With Northwest Arrow",
+      "aliases": [],
+      "category": "Arrows",
+      "subcategory": null,
+      "tags": [
+        "arrow",
+        "arrows",
+        "broken",
+        "circle",
+        "northwest",
+        "special-character",
+        "symbol",
+        "unicode",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-sun-with-rays",
+      "type": "symbol",
+      "symbol": "☀",
+      "unicode": [
+        "U+2600"
+      ],
+      "name": "Black Sun With Rays",
+      "aliases": [],
+      "category": "Weather",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "day",
+        "light",
+        "rays",
+        "special-character",
+        "sun",
+        "symbol",
+        "unicode",
+        "weather",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "cloud",
+      "type": "symbol",
+      "symbol": "☁",
+      "unicode": [
+        "U+2601"
+      ],
+      "name": "Cloud",
+      "aliases": [],
+      "category": "Weather",
+      "subcategory": null,
+      "tags": [
+        "cloud",
+        "sky",
+        "special-character",
+        "symbol",
+        "unicode",
+        "weather"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "umbrella",
+      "type": "symbol",
+      "symbol": "☂",
+      "unicode": [
+        "U+2602"
+      ],
+      "name": "Umbrella",
+      "aliases": [],
+      "category": "Weather",
+      "subcategory": null,
+      "tags": [
+        "special-character",
+        "symbol",
+        "umbrella",
+        "unicode",
+        "weather"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "snowman",
+      "type": "symbol",
+      "symbol": "☃",
+      "unicode": [
+        "U+2603"
+      ],
+      "name": "Snowman",
+      "aliases": [],
+      "category": "Weather",
+      "subcategory": null,
+      "tags": [
+        "snowman",
+        "special-character",
+        "symbol",
+        "unicode",
+        "weather"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "sun",
+      "type": "symbol",
+      "symbol": "☉",
+      "unicode": [
+        "U+2609"
+      ],
+      "name": "Sun",
+      "aliases": [],
+      "category": "Weather",
+      "subcategory": null,
+      "tags": [
+        "day",
+        "light",
+        "special-character",
+        "sun",
+        "symbol",
+        "unicode",
+        "weather"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-sun-with-rays",
+      "type": "symbol",
+      "symbol": "☼",
+      "unicode": [
+        "U+263C"
+      ],
+      "name": "White Sun With Rays",
+      "aliases": [],
+      "category": "Weather",
+      "subcategory": null,
+      "tags": [
+        "day",
+        "light",
+        "rays",
+        "special-character",
+        "sun",
+        "symbol",
+        "unicode",
+        "weather",
+        "white",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "snowflake",
+      "type": "symbol",
+      "symbol": "❄",
+      "unicode": [
+        "U+2744"
+      ],
+      "name": "Snowflake",
+      "aliases": [],
+      "category": "Weather",
+      "subcategory": null,
+      "tags": [
+        "snowflake",
+        "special-character",
+        "symbol",
+        "unicode",
+        "weather"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "tight-trifoliate-snowflake",
+      "type": "symbol",
+      "symbol": "❅",
+      "unicode": [
+        "U+2745"
+      ],
+      "name": "Tight Trifoliate Snowflake",
+      "aliases": [],
+      "category": "Weather",
+      "subcategory": null,
+      "tags": [
+        "snowflake",
+        "special-character",
+        "symbol",
+        "tight",
+        "trifoliate",
+        "unicode",
+        "weather"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-chevron-snowflake",
+      "type": "symbol",
+      "symbol": "❆",
+      "unicode": [
+        "U+2746"
+      ],
+      "name": "Heavy Chevron Snowflake",
+      "aliases": [],
+      "category": "Weather",
+      "subcategory": null,
+      "tags": [
+        "chevron",
+        "heavy",
+        "snowflake",
+        "special-character",
+        "symbol",
+        "unicode",
+        "weather"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-star",
+      "type": "symbol",
+      "symbol": "★",
+      "unicode": [
+        "U+2605"
+      ],
+      "name": "Black Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "favorite",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-star",
+      "type": "symbol",
+      "symbol": "☆",
+      "unicode": [
+        "U+2606"
+      ],
+      "name": "White Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "favorite",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "star-and-crescent",
+      "type": "symbol",
+      "symbol": "☪",
+      "unicode": [
+        "U+262A"
+      ],
+      "name": "Star And Crescent",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "crescent",
+        "favorite",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "outlined-white-star",
+      "type": "symbol",
+      "symbol": "⚝",
+      "unicode": [
+        "U+269D"
+      ],
+      "name": "Outlined White Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "favorite",
+        "outlined",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "star-of-david",
+      "type": "symbol",
+      "symbol": "✡",
+      "unicode": [
+        "U+2721"
+      ],
+      "name": "Star Of David",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "david",
+        "favorite",
+        "of",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-four-pointed-star",
+      "type": "symbol",
+      "symbol": "✦",
+      "unicode": [
+        "U+2726"
+      ],
+      "name": "Black Four Pointed Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "favorite",
+        "four",
+        "pointed",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-four-pointed-star",
+      "type": "symbol",
+      "symbol": "✧",
+      "unicode": [
+        "U+2727"
+      ],
+      "name": "White Four Pointed Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "favorite",
+        "four",
+        "pointed",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "stress-outlined-white-star",
+      "type": "symbol",
+      "symbol": "✩",
+      "unicode": [
+        "U+2729"
+      ],
+      "name": "Stress Outlined White Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "favorite",
+        "outlined",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "stress",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "circled-white-star",
+      "type": "symbol",
+      "symbol": "✪",
+      "unicode": [
+        "U+272A"
+      ],
+      "name": "Circled White Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "circled",
+        "favorite",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "open-centre-black-star",
+      "type": "symbol",
+      "symbol": "✫",
+      "unicode": [
+        "U+272B"
+      ],
+      "name": "Open Centre Black Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "centre",
+        "favorite",
+        "open",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-centre-white-star",
+      "type": "symbol",
+      "symbol": "✬",
+      "unicode": [
+        "U+272C"
+      ],
+      "name": "Black Centre White Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "centre",
+        "favorite",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "outlined-black-star",
+      "type": "symbol",
+      "symbol": "✭",
+      "unicode": [
+        "U+272D"
+      ],
+      "name": "Outlined Black Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "favorite",
+        "outlined",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-outlined-black-star",
+      "type": "symbol",
+      "symbol": "✮",
+      "unicode": [
+        "U+272E"
+      ],
+      "name": "Heavy Outlined Black Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "favorite",
+        "heavy",
+        "outlined",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "pinwheel-star",
+      "type": "symbol",
+      "symbol": "✯",
+      "unicode": [
+        "U+272F"
+      ],
+      "name": "Pinwheel Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "favorite",
+        "pinwheel",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "shadowed-white-star",
+      "type": "symbol",
+      "symbol": "✰",
+      "unicode": [
+        "U+2730"
+      ],
+      "name": "Shadowed White Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "favorite",
+        "rating",
+        "shadowed",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "eight-pointed-black-star",
+      "type": "symbol",
+      "symbol": "✴",
+      "unicode": [
+        "U+2734"
+      ],
+      "name": "Eight Pointed Black Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "eight",
+        "favorite",
+        "pointed",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "eight-pointed-pinwheel-star",
+      "type": "symbol",
+      "symbol": "✵",
+      "unicode": [
+        "U+2735"
+      ],
+      "name": "Eight Pointed Pinwheel Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "eight",
+        "favorite",
+        "pinwheel",
+        "pointed",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "six-pointed-black-star",
+      "type": "symbol",
+      "symbol": "✶",
+      "unicode": [
+        "U+2736"
+      ],
+      "name": "Six Pointed Black Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "favorite",
+        "pointed",
+        "rating",
+        "six",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "eight-pointed-rectilinear-black-star",
+      "type": "symbol",
+      "symbol": "✷",
+      "unicode": [
+        "U+2737"
+      ],
+      "name": "Eight Pointed Rectilinear Black Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "eight",
+        "favorite",
+        "pointed",
+        "rating",
+        "rectilinear",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-eight-pointed-rectilinear-black-star",
+      "type": "symbol",
+      "symbol": "✸",
+      "unicode": [
+        "U+2738"
+      ],
+      "name": "Heavy Eight Pointed Rectilinear Black Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "eight",
+        "favorite",
+        "heavy",
+        "pointed",
+        "rating",
+        "rectilinear",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "twelve-pointed-black-star",
+      "type": "symbol",
+      "symbol": "✹",
+      "unicode": [
+        "U+2739"
+      ],
+      "name": "Twelve Pointed Black Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "favorite",
+        "pointed",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "twelve",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "circled-open-centre-eight-pointed-star",
+      "type": "symbol",
+      "symbol": "❂",
+      "unicode": [
+        "U+2742"
+      ],
+      "name": "Circled Open Centre Eight Pointed Star",
+      "aliases": [],
+      "category": "Stars",
+      "subcategory": null,
+      "tags": [
+        "centre",
+        "circled",
+        "eight",
+        "favorite",
+        "open",
+        "pointed",
+        "rating",
+        "special-character",
+        "star",
+        "stars",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "reversed-rotated-floral-heart-bullet",
+      "type": "symbol",
+      "symbol": "☙",
+      "unicode": [
+        "U+2619"
+      ],
+      "name": "Reversed Rotated Floral Heart Bullet",
+      "aliases": [],
+      "category": "Love and Hearts",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "bullet",
+        "floral",
+        "heart",
+        "hearts",
+        "like",
+        "love",
+        "reversed",
+        "rotated",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-heart-suit",
+      "type": "symbol",
+      "symbol": "♡",
+      "unicode": [
+        "U+2661"
+      ],
+      "name": "White Heart Suit",
+      "aliases": [],
+      "category": "Love and Hearts",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "heart",
+        "hearts",
+        "like",
+        "love",
+        "special-character",
+        "suit",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-heart-suit",
+      "type": "symbol",
+      "symbol": "♥",
+      "unicode": [
+        "U+2665"
+      ],
+      "name": "Black Heart Suit",
+      "aliases": [],
+      "category": "Love and Hearts",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "black",
+        "heart",
+        "hearts",
+        "like",
+        "love",
+        "special-character",
+        "suit",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-heart-exclamation-mark-ornament",
+      "type": "symbol",
+      "symbol": "❣",
+      "unicode": [
+        "U+2763"
+      ],
+      "name": "Heavy Heart Exclamation Mark Ornament",
+      "aliases": [],
+      "category": "Love and Hearts",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "exclamation",
+        "heart",
+        "hearts",
+        "heavy",
+        "like",
+        "love",
+        "mark",
+        "ornament",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-black-heart",
+      "type": "symbol",
+      "symbol": "❤",
+      "unicode": [
+        "U+2764"
+      ],
+      "name": "Heavy Black Heart",
+      "aliases": [],
+      "category": "Love and Hearts",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "black",
+        "heart",
+        "hearts",
+        "heavy",
+        "like",
+        "love",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rotated-heavy-black-heart-bullet",
+      "type": "symbol",
+      "symbol": "❥",
+      "unicode": [
+        "U+2765"
+      ],
+      "name": "Rotated Heavy Black Heart Bullet",
+      "aliases": [],
+      "category": "Love and Hearts",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "black",
+        "bullet",
+        "heart",
+        "hearts",
+        "heavy",
+        "like",
+        "love",
+        "rotated",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "floral-heart",
+      "type": "symbol",
+      "symbol": "❦",
+      "unicode": [
+        "U+2766"
+      ],
+      "name": "Floral Heart",
+      "aliases": [],
+      "category": "Love and Hearts",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "floral",
+        "heart",
+        "hearts",
+        "like",
+        "love",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rotated-floral-heart-bullet",
+      "type": "symbol",
+      "symbol": "❧",
+      "unicode": [
+        "U+2767"
+      ],
+      "name": "Rotated Floral Heart Bullet",
+      "aliases": [],
+      "category": "Love and Hearts",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "bullet",
+        "floral",
+        "heart",
+        "hearts",
+        "like",
+        "love",
+        "rotated",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "skull-and-crossbones",
+      "type": "symbol",
+      "symbol": "☠",
+      "unicode": [
+        "U+2620"
+      ],
+      "name": "Skull And Crossbones",
+      "aliases": [],
+      "category": "Danger",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "crossbones",
+        "danger",
+        "skull",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "radioactive-sign",
+      "type": "symbol",
+      "symbol": "☢",
+      "unicode": [
+        "U+2622"
+      ],
+      "name": "Radioactive Sign",
+      "aliases": [],
+      "category": "Danger",
+      "subcategory": null,
+      "tags": [
+        "danger",
+        "radioactive",
+        "sign",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "biohazard-sign",
+      "type": "symbol",
+      "symbol": "☣",
+      "unicode": [
+        "U+2623"
+      ],
+      "name": "Biohazard Sign",
+      "aliases": [],
+      "category": "Danger",
+      "subcategory": null,
+      "tags": [
+        "biohazard",
+        "danger",
+        "sign",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "orthodox-cross",
+      "type": "symbol",
+      "symbol": "☦",
+      "unicode": [
+        "U+2626"
+      ],
+      "name": "Orthodox Cross",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "cross",
+        "orthodox",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "cross-of-lorraine",
+      "type": "symbol",
+      "symbol": "☨",
+      "unicode": [
+        "U+2628"
+      ],
+      "name": "Cross Of Lorraine",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "cross",
+        "lorraine",
+        "of",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "cross-of-jerusalem",
+      "type": "symbol",
+      "symbol": "☩",
+      "unicode": [
+        "U+2629"
+      ],
+      "name": "Cross Of Jerusalem",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "cross",
+        "jerusalem",
+        "of",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "peace-symbol",
+      "type": "symbol",
+      "symbol": "☮",
+      "unicode": [
+        "U+262E"
+      ],
+      "name": "Peace Symbol",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "peace",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "yin-yang",
+      "type": "symbol",
+      "symbol": "☯",
+      "unicode": [
+        "U+262F"
+      ],
+      "name": "Yin Yang",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "yang",
+        "yin"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "west-syriac-cross",
+      "type": "symbol",
+      "symbol": "♰",
+      "unicode": [
+        "U+2670"
+      ],
+      "name": "West Syriac Cross",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "cross",
+        "religion",
+        "special-character",
+        "symbol",
+        "syriac",
+        "unicode",
+        "west",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "east-syriac-cross",
+      "type": "symbol",
+      "symbol": "♱",
+      "unicode": [
+        "U+2671"
+      ],
+      "name": "East Syriac Cross",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "cross",
+        "east",
+        "religion",
+        "special-character",
+        "symbol",
+        "syriac",
+        "unicode",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "monogram-for-yin",
+      "type": "symbol",
+      "symbol": "⚋",
+      "unicode": [
+        "U+268B"
+      ],
+      "name": "Monogram For Yin",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "for",
+        "monogram",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "yin"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "digram-for-lesser-yin",
+      "type": "symbol",
+      "symbol": "⚍",
+      "unicode": [
+        "U+268D"
+      ],
+      "name": "Digram For Lesser Yin",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "digram",
+        "for",
+        "lesser",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "yin"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "digram-for-greater-yin",
+      "type": "symbol",
+      "symbol": "⚏",
+      "unicode": [
+        "U+268F"
+      ],
+      "name": "Digram For Greater Yin",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "digram",
+        "for",
+        "greater",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "yin"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "crossed-swords",
+      "type": "symbol",
+      "symbol": "⚔",
+      "unicode": [
+        "U+2694"
+      ],
+      "name": "Crossed Swords",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "crossed",
+        "religion",
+        "special-character",
+        "swords",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "outlined-greek-cross",
+      "type": "symbol",
+      "symbol": "✙",
+      "unicode": [
+        "U+2719"
+      ],
+      "name": "Outlined Greek Cross",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "cross",
+        "greek",
+        "outlined",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-greek-cross",
+      "type": "symbol",
+      "symbol": "✚",
+      "unicode": [
+        "U+271A"
+      ],
+      "name": "Heavy Greek Cross",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "cross",
+        "greek",
+        "heavy",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "open-centre-cross",
+      "type": "symbol",
+      "symbol": "✛",
+      "unicode": [
+        "U+271B"
+      ],
+      "name": "Open Centre Cross",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "centre",
+        "cross",
+        "open",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heavy-open-centre-cross",
+      "type": "symbol",
+      "symbol": "✜",
+      "unicode": [
+        "U+271C"
+      ],
+      "name": "Heavy Open Centre Cross",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "centre",
+        "cross",
+        "heavy",
+        "open",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "latin-cross",
+      "type": "symbol",
+      "symbol": "✝",
+      "unicode": [
+        "U+271D"
+      ],
+      "name": "Latin Cross",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "cross",
+        "latin",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "shadowed-white-latin-cross",
+      "type": "symbol",
+      "symbol": "✞",
+      "unicode": [
+        "U+271E"
+      ],
+      "name": "Shadowed White Latin Cross",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "cross",
+        "latin",
+        "religion",
+        "shadowed",
+        "special-character",
+        "symbol",
+        "unicode",
+        "white",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "outlined-latin-cross",
+      "type": "symbol",
+      "symbol": "✟",
+      "unicode": [
+        "U+271F"
+      ],
+      "name": "Outlined Latin Cross",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "cross",
+        "latin",
+        "outlined",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "maltese-cross",
+      "type": "symbol",
+      "symbol": "✠",
+      "unicode": [
+        "U+2720"
+      ],
+      "name": "Maltese Cross",
+      "aliases": [],
+      "category": "Religion",
+      "subcategory": null,
+      "tags": [
+        "cancel",
+        "cross",
+        "maltese",
+        "religion",
+        "special-character",
+        "symbol",
+        "unicode",
+        "wrong"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hammer-and-sickle",
+      "type": "symbol",
+      "symbol": "☭",
+      "unicode": [
+        "U+262D"
+      ],
+      "name": "Hammer And Sickle",
+      "aliases": [],
+      "category": "Tools",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "hammer",
+        "sickle",
+        "special-character",
+        "symbol",
+        "tools",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hammer-and-pick",
+      "type": "symbol",
+      "symbol": "⚒",
+      "unicode": [
+        "U+2692"
+      ],
+      "name": "Hammer And Pick",
+      "aliases": [],
+      "category": "Tools",
+      "subcategory": null,
+      "tags": [
+        "and",
+        "hammer",
+        "pick",
+        "special-character",
+        "symbol",
+        "tools",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "gear",
+      "type": "symbol",
+      "symbol": "⚙",
+      "unicode": [
+        "U+2699"
+      ],
+      "name": "Gear",
+      "aliases": [],
+      "category": "Tools",
+      "subcategory": null,
+      "tags": [
+        "config",
+        "gear",
+        "settings",
+        "special-character",
+        "symbol",
+        "tools",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upper-blade-scissors",
+      "type": "symbol",
+      "symbol": "✁",
+      "unicode": [
+        "U+2701"
+      ],
+      "name": "Upper Blade Scissors",
+      "aliases": [],
+      "category": "Tools",
+      "subcategory": null,
+      "tags": [
+        "blade",
+        "scissors",
+        "special-character",
+        "symbol",
+        "tools",
+        "unicode",
+        "upper"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-scissors",
+      "type": "symbol",
+      "symbol": "✂",
+      "unicode": [
+        "U+2702"
+      ],
+      "name": "Black Scissors",
+      "aliases": [],
+      "category": "Tools",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "scissors",
+        "special-character",
+        "symbol",
+        "tools",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "lower-blade-scissors",
+      "type": "symbol",
+      "symbol": "✃",
+      "unicode": [
+        "U+2703"
+      ],
+      "name": "Lower Blade Scissors",
+      "aliases": [],
+      "category": "Tools",
+      "subcategory": null,
+      "tags": [
+        "blade",
+        "lower",
+        "scissors",
+        "special-character",
+        "symbol",
+        "tools",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-scissors",
+      "type": "symbol",
+      "symbol": "✄",
+      "unicode": [
+        "U+2704"
+      ],
+      "name": "White Scissors",
+      "aliases": [],
+      "category": "Tools",
+      "subcategory": null,
+      "tags": [
+        "scissors",
+        "special-character",
+        "symbol",
+        "tools",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-chess-king",
+      "type": "symbol",
+      "symbol": "♔",
+      "unicode": [
+        "U+2654"
+      ],
+      "name": "White Chess King",
+      "aliases": [],
+      "category": "Chess",
+      "subcategory": null,
+      "tags": [
+        "board",
+        "chess",
+        "king",
+        "special-character",
+        "strategy",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-chess-queen",
+      "type": "symbol",
+      "symbol": "♕",
+      "unicode": [
+        "U+2655"
+      ],
+      "name": "White Chess Queen",
+      "aliases": [],
+      "category": "Chess",
+      "subcategory": null,
+      "tags": [
+        "board",
+        "chess",
+        "queen",
+        "special-character",
+        "strategy",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-chess-rook",
+      "type": "symbol",
+      "symbol": "♖",
+      "unicode": [
+        "U+2656"
+      ],
+      "name": "White Chess Rook",
+      "aliases": [],
+      "category": "Chess",
+      "subcategory": null,
+      "tags": [
+        "board",
+        "chess",
+        "rook",
+        "special-character",
+        "strategy",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-chess-bishop",
+      "type": "symbol",
+      "symbol": "♗",
+      "unicode": [
+        "U+2657"
+      ],
+      "name": "White Chess Bishop",
+      "aliases": [],
+      "category": "Chess",
+      "subcategory": null,
+      "tags": [
+        "bishop",
+        "board",
+        "chess",
+        "special-character",
+        "strategy",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-chess-knight",
+      "type": "symbol",
+      "symbol": "♘",
+      "unicode": [
+        "U+2658"
+      ],
+      "name": "White Chess Knight",
+      "aliases": [],
+      "category": "Chess",
+      "subcategory": null,
+      "tags": [
+        "board",
+        "chess",
+        "knight",
+        "special-character",
+        "strategy",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "white-chess-pawn",
+      "type": "symbol",
+      "symbol": "♙",
+      "unicode": [
+        "U+2659"
+      ],
+      "name": "White Chess Pawn",
+      "aliases": [],
+      "category": "Chess",
+      "subcategory": null,
+      "tags": [
+        "board",
+        "chess",
+        "pawn",
+        "special-character",
+        "strategy",
+        "symbol",
+        "unicode",
+        "white"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-chess-king",
+      "type": "symbol",
+      "symbol": "♚",
+      "unicode": [
+        "U+265A"
+      ],
+      "name": "Black Chess King",
+      "aliases": [],
+      "category": "Chess",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "board",
+        "chess",
+        "king",
+        "special-character",
+        "strategy",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-chess-queen",
+      "type": "symbol",
+      "symbol": "♛",
+      "unicode": [
+        "U+265B"
+      ],
+      "name": "Black Chess Queen",
+      "aliases": [],
+      "category": "Chess",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "board",
+        "chess",
+        "queen",
+        "special-character",
+        "strategy",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-chess-rook",
+      "type": "symbol",
+      "symbol": "♜",
+      "unicode": [
+        "U+265C"
+      ],
+      "name": "Black Chess Rook",
+      "aliases": [],
+      "category": "Chess",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "board",
+        "chess",
+        "rook",
+        "special-character",
+        "strategy",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-chess-bishop",
+      "type": "symbol",
+      "symbol": "♝",
+      "unicode": [
+        "U+265D"
+      ],
+      "name": "Black Chess Bishop",
+      "aliases": [],
+      "category": "Chess",
+      "subcategory": null,
+      "tags": [
+        "bishop",
+        "black",
+        "board",
+        "chess",
+        "special-character",
+        "strategy",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-chess-knight",
+      "type": "symbol",
+      "symbol": "♞",
+      "unicode": [
+        "U+265E"
+      ],
+      "name": "Black Chess Knight",
+      "aliases": [],
+      "category": "Chess",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "board",
+        "chess",
+        "knight",
+        "special-character",
+        "strategy",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "black-chess-pawn",
+      "type": "symbol",
+      "symbol": "♟",
+      "unicode": [
+        "U+265F"
+      ],
+      "name": "Black Chess Pawn",
+      "aliases": [],
+      "category": "Chess",
+      "subcategory": null,
+      "tags": [
+        "black",
+        "board",
+        "chess",
+        "pawn",
+        "special-character",
+        "strategy",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "quarter-note",
+      "type": "symbol",
+      "symbol": "♩",
+      "unicode": [
+        "U+2669"
+      ],
+      "name": "Quarter Note",
+      "aliases": [],
+      "category": "Music",
+      "subcategory": null,
+      "tags": [
+        "audio",
+        "music",
+        "note",
+        "quarter",
+        "song",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "eighth-note",
+      "type": "symbol",
+      "symbol": "♪",
+      "unicode": [
+        "U+266A"
+      ],
+      "name": "Eighth Note",
+      "aliases": [],
+      "category": "Music",
+      "subcategory": null,
+      "tags": [
+        "audio",
+        "eighth",
+        "music",
+        "note",
+        "song",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "beamed-eighth-notes",
+      "type": "symbol",
+      "symbol": "♫",
+      "unicode": [
+        "U+266B"
+      ],
+      "name": "Beamed Eighth Notes",
+      "aliases": [],
+      "category": "Music",
+      "subcategory": null,
+      "tags": [
+        "audio",
+        "beamed",
+        "eighth",
+        "music",
+        "notes",
+        "song",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "beamed-sixteenth-notes",
+      "type": "symbol",
+      "symbol": "♬",
+      "unicode": [
+        "U+266C"
+      ],
+      "name": "Beamed Sixteenth Notes",
+      "aliases": [],
+      "category": "Music",
+      "subcategory": null,
+      "tags": [
+        "audio",
+        "beamed",
+        "music",
+        "notes",
+        "sixteenth",
+        "song",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "music-flat-sign",
+      "type": "symbol",
+      "symbol": "♭",
+      "unicode": [
+        "U+266D"
+      ],
+      "name": "Music Flat Sign",
+      "aliases": [],
+      "category": "Music",
+      "subcategory": null,
+      "tags": [
+        "audio",
+        "flat",
+        "music",
+        "sign",
+        "song",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "music-natural-sign",
+      "type": "symbol",
+      "symbol": "♮",
+      "unicode": [
+        "U+266E"
+      ],
+      "name": "Music Natural Sign",
+      "aliases": [],
+      "category": "Music",
+      "subcategory": null,
+      "tags": [
+        "audio",
+        "music",
+        "natural",
+        "sign",
+        "song",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "music-sharp-sign",
+      "type": "symbol",
+      "symbol": "♯",
+      "unicode": [
+        "U+266F"
+      ],
+      "name": "Music Sharp Sign",
+      "aliases": [],
+      "category": "Music",
+      "subcategory": null,
+      "tags": [
+        "audio",
+        "music",
+        "sharp",
+        "sign",
+        "song",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "recycled-paper-symbol",
+      "type": "symbol",
+      "symbol": "♼",
+      "unicode": [
+        "U+267C"
+      ],
+      "name": "Recycled Paper Symbol",
+      "aliases": [],
+      "category": "Recycling",
+      "subcategory": null,
+      "tags": [
+        "paper",
+        "recycled",
+        "recycling",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "partially-recycled-paper-symbol",
+      "type": "symbol",
+      "symbol": "♽",
+      "unicode": [
+        "U+267D"
+      ],
+      "name": "Partially-Recycled Paper Symbol",
+      "aliases": [],
+      "category": "Recycling",
+      "subcategory": null,
+      "tags": [
+        "paper",
+        "partially",
+        "recycled",
+        "recycling",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "die-face-1",
+      "type": "symbol",
+      "symbol": "⚀",
+      "unicode": [
+        "U+2680"
+      ],
+      "name": "Die Face-1",
+      "aliases": [],
+      "category": "Dice",
+      "subcategory": null,
+      "tags": [
+        "1",
+        "dice",
+        "die",
+        "face",
+        "game",
+        "random",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "die-face-2",
+      "type": "symbol",
+      "symbol": "⚁",
+      "unicode": [
+        "U+2681"
+      ],
+      "name": "Die Face-2",
+      "aliases": [],
+      "category": "Dice",
+      "subcategory": null,
+      "tags": [
+        "2",
+        "dice",
+        "die",
+        "face",
+        "game",
+        "random",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "die-face-3",
+      "type": "symbol",
+      "symbol": "⚂",
+      "unicode": [
+        "U+2682"
+      ],
+      "name": "Die Face-3",
+      "aliases": [],
+      "category": "Dice",
+      "subcategory": null,
+      "tags": [
+        "3",
+        "dice",
+        "die",
+        "face",
+        "game",
+        "random",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "die-face-4",
+      "type": "symbol",
+      "symbol": "⚃",
+      "unicode": [
+        "U+2683"
+      ],
+      "name": "Die Face-4",
+      "aliases": [],
+      "category": "Dice",
+      "subcategory": null,
+      "tags": [
+        "4",
+        "dice",
+        "die",
+        "face",
+        "game",
+        "random",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "die-face-5",
+      "type": "symbol",
+      "symbol": "⚄",
+      "unicode": [
+        "U+2684"
+      ],
+      "name": "Die Face-5",
+      "aliases": [],
+      "category": "Dice",
+      "subcategory": null,
+      "tags": [
+        "5",
+        "dice",
+        "die",
+        "face",
+        "game",
+        "random",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "die-face-6",
+      "type": "symbol",
+      "symbol": "⚅",
+      "unicode": [
+        "U+2685"
+      ],
+      "name": "Die Face-6",
+      "aliases": [],
+      "category": "Dice",
+      "subcategory": null,
+      "tags": [
+        "6",
+        "dice",
+        "die",
+        "face",
+        "game",
+        "random",
+        "special-character",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "warning-sign",
+      "type": "symbol",
+      "symbol": "⚠",
+      "unicode": [
+        "U+26A0"
+      ],
+      "name": "Warning Sign",
+      "aliases": [],
+      "category": "Warnings",
+      "subcategory": null,
+      "tags": [
+        "alert",
+        "danger",
+        "sign",
+        "special-character",
+        "symbol",
+        "unicode",
+        "warning",
+        "warnings"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "lower-right-pencil",
+      "type": "symbol",
+      "symbol": "✎",
+      "unicode": [
+        "U+270E"
+      ],
+      "name": "Lower Right Pencil",
+      "aliases": [],
+      "category": "Writing",
+      "subcategory": null,
+      "tags": [
+        "edit",
+        "lower",
+        "pencil",
+        "right",
+        "special-character",
+        "symbol",
+        "unicode",
+        "write",
+        "writing"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "pencil",
+      "type": "symbol",
+      "symbol": "✏",
+      "unicode": [
+        "U+270F"
+      ],
+      "name": "Pencil",
+      "aliases": [],
+      "category": "Writing",
+      "subcategory": null,
+      "tags": [
+        "edit",
+        "pencil",
+        "special-character",
+        "symbol",
+        "unicode",
+        "write",
+        "writing"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "upper-right-pencil",
+      "type": "symbol",
+      "symbol": "✐",
+      "unicode": [
+        "U+2710"
+      ],
+      "name": "Upper Right Pencil",
+      "aliases": [],
+      "category": "Writing",
+      "subcategory": null,
+      "tags": [
+        "edit",
+        "pencil",
+        "right",
+        "special-character",
+        "symbol",
+        "unicode",
+        "upper",
+        "write",
+        "writing"
+      ],
+      "metadata": {}
+    }
+  ]
+}

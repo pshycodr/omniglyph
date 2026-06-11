@@ -1,0 +1,1670 @@
+{
+  "categories": [
+    {
+      "name": "Currency Symbols",
+      "icon": "$"
+    }
+  ],
+  "symbols": [
+    {
+      "id": "dollar-sign",
+      "type": "currency",
+      "symbol": "$",
+      "unicode": [
+        "U+0024"
+      ],
+      "name": "Dollar Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "dollar",
+        "finance",
+        "money",
+        "payment",
+        "sign",
+        "states",
+        "symbol",
+        "unicode",
+        "united",
+        "usd"
+      ],
+      "metadata": {
+        "currency_code": "USD",
+        "country_or_region": "United States"
+      }
+    },
+    {
+      "id": "cent-sign",
+      "type": "currency",
+      "symbol": "¢",
+      "unicode": [
+        "U+00A2"
+      ],
+      "name": "Cent Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "cent",
+        "currency",
+        "finance",
+        "general",
+        "money",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "CENT",
+        "country_or_region": "General"
+      }
+    },
+    {
+      "id": "pound-sign",
+      "type": "currency",
+      "symbol": "£",
+      "unicode": [
+        "U+00A3"
+      ],
+      "name": "Pound Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "finance",
+        "gbp",
+        "kingdom",
+        "money",
+        "payment",
+        "pound",
+        "sign",
+        "sterling",
+        "symbol",
+        "uk",
+        "unicode",
+        "united"
+      ],
+      "metadata": {
+        "currency_code": "GBP",
+        "country_or_region": "United Kingdom"
+      }
+    },
+    {
+      "id": "euro-sign",
+      "type": "currency",
+      "symbol": "€",
+      "unicode": [
+        "U+20AC"
+      ],
+      "name": "Euro Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "eur",
+        "euro",
+        "europe",
+        "european",
+        "finance",
+        "money",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "union"
+      ],
+      "metadata": {
+        "currency_code": "EUR",
+        "country_or_region": "European Union"
+      }
+    },
+    {
+      "id": "yen-sign",
+      "type": "currency",
+      "symbol": "¥",
+      "unicode": [
+        "U+00A5"
+      ],
+      "name": "Yen Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "china",
+        "cny",
+        "currency",
+        "finance",
+        "japan",
+        "jpy",
+        "money",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "yen",
+        "yuan"
+      ],
+      "metadata": {
+        "currency_code": "JPY/CNY",
+        "country_or_region": "Japan / China"
+      }
+    },
+    {
+      "id": "indian-rupee-sign",
+      "type": "currency",
+      "symbol": "₹",
+      "unicode": [
+        "U+20B9"
+      ],
+      "name": "Indian Rupee Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "finance",
+        "india",
+        "indian",
+        "inr",
+        "money",
+        "payment",
+        "rupee",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "INR",
+        "country_or_region": "India"
+      }
+    },
+    {
+      "id": "ruble-sign",
+      "type": "currency",
+      "symbol": "₽",
+      "unicode": [
+        "U+20BD"
+      ],
+      "name": "Ruble Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "finance",
+        "money",
+        "payment",
+        "rub",
+        "ruble",
+        "russia",
+        "russian",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "RUB",
+        "country_or_region": "Russia"
+      }
+    },
+    {
+      "id": "cjk-unified-ideograph-5143",
+      "type": "currency",
+      "symbol": "元",
+      "unicode": [
+        "U+5143"
+      ],
+      "name": "Cjk Unified Ideograph-5143",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "5143",
+        "a",
+        "cash",
+        "cjk",
+        "currency",
+        "finance",
+        "ideograph",
+        "money",
+        "n",
+        "payment",
+        "symbol",
+        "unicode",
+        "unified",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "currency-sign",
+      "type": "currency",
+      "symbol": "¤",
+      "unicode": [
+        "U+00A4"
+      ],
+      "name": "Currency Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "euro-currency-sign",
+      "type": "currency",
+      "symbol": "₠",
+      "unicode": [
+        "U+20A0"
+      ],
+      "name": "Euro-Currency Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "eur",
+        "euro",
+        "europe",
+        "finance",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "colon-sign",
+      "type": "currency",
+      "symbol": "₡",
+      "unicode": [
+        "U+20A1"
+      ],
+      "name": "Colon Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "colon",
+        "currency",
+        "finance",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "cruzeiro-sign",
+      "type": "currency",
+      "symbol": "₢",
+      "unicode": [
+        "U+20A2"
+      ],
+      "name": "Cruzeiro Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "cruzeiro",
+        "currency",
+        "finance",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "french-franc-sign",
+      "type": "currency",
+      "symbol": "₣",
+      "unicode": [
+        "U+20A3"
+      ],
+      "name": "French Franc Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "franc",
+        "french",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "lira-sign",
+      "type": "currency",
+      "symbol": "₤",
+      "unicode": [
+        "U+20A4"
+      ],
+      "name": "Lira Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "lira",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "mill-sign",
+      "type": "currency",
+      "symbol": "₥",
+      "unicode": [
+        "U+20A5"
+      ],
+      "name": "Mill Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "mill",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "naira-sign",
+      "type": "currency",
+      "symbol": "₦",
+      "unicode": [
+        "U+20A6"
+      ],
+      "name": "Naira Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "money",
+        "n",
+        "naira",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "peseta-sign",
+      "type": "currency",
+      "symbol": "₧",
+      "unicode": [
+        "U+20A7"
+      ],
+      "name": "Peseta Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "money",
+        "n",
+        "payment",
+        "peseta",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "rupee-sign",
+      "type": "currency",
+      "symbol": "₨",
+      "unicode": [
+        "U+20A8"
+      ],
+      "name": "Rupee Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "india",
+        "inr",
+        "money",
+        "n",
+        "payment",
+        "rupee",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "won-sign",
+      "type": "currency",
+      "symbol": "₩",
+      "unicode": [
+        "U+20A9"
+      ],
+      "name": "Won Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "finance",
+        "korea",
+        "krw",
+        "money",
+        "payment",
+        "sign",
+        "south",
+        "symbol",
+        "unicode",
+        "won"
+      ],
+      "metadata": {
+        "currency_code": "KRW",
+        "country_or_region": "South Korea"
+      }
+    },
+    {
+      "id": "new-sheqel-sign",
+      "type": "currency",
+      "symbol": "₪",
+      "unicode": [
+        "U+20AA"
+      ],
+      "name": "New Sheqel Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "finance",
+        "ils",
+        "israel",
+        "money",
+        "new",
+        "payment",
+        "shekel",
+        "sheqel",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "ILS",
+        "country_or_region": "Israel"
+      }
+    },
+    {
+      "id": "dong-sign",
+      "type": "currency",
+      "symbol": "₫",
+      "unicode": [
+        "U+20AB"
+      ],
+      "name": "Dong Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "dong",
+        "finance",
+        "money",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "vietnam",
+        "vnd"
+      ],
+      "metadata": {
+        "currency_code": "VND",
+        "country_or_region": "Vietnam"
+      }
+    },
+    {
+      "id": "kip-sign",
+      "type": "currency",
+      "symbol": "₭",
+      "unicode": [
+        "U+20AD"
+      ],
+      "name": "Kip Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "finance",
+        "kip",
+        "lak",
+        "laos",
+        "money",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "LAK",
+        "country_or_region": "Laos"
+      }
+    },
+    {
+      "id": "tugrik-sign",
+      "type": "currency",
+      "symbol": "₮",
+      "unicode": [
+        "U+20AE"
+      ],
+      "name": "Tugrik Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "finance",
+        "mnt",
+        "money",
+        "mongolia",
+        "payment",
+        "sign",
+        "symbol",
+        "tugrik",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "MNT",
+        "country_or_region": "Mongolia"
+      }
+    },
+    {
+      "id": "drachma-sign",
+      "type": "currency",
+      "symbol": "₯",
+      "unicode": [
+        "U+20AF"
+      ],
+      "name": "Drachma Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "drachma",
+        "finance",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "german-penny-sign",
+      "type": "currency",
+      "symbol": "₰",
+      "unicode": [
+        "U+20B0"
+      ],
+      "name": "German Penny Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "german",
+        "money",
+        "n",
+        "payment",
+        "penny",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "peso-sign",
+      "type": "currency",
+      "symbol": "₱",
+      "unicode": [
+        "U+20B1"
+      ],
+      "name": "Peso Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "finance",
+        "money",
+        "payment",
+        "peso",
+        "philippines",
+        "php",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "PHP",
+        "country_or_region": "Philippines"
+      }
+    },
+    {
+      "id": "guarani-sign",
+      "type": "currency",
+      "symbol": "₲",
+      "unicode": [
+        "U+20B2"
+      ],
+      "name": "Guarani Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "finance",
+        "guarani",
+        "money",
+        "paraguay",
+        "payment",
+        "pyg",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "PYG",
+        "country_or_region": "Paraguay"
+      }
+    },
+    {
+      "id": "austral-sign",
+      "type": "currency",
+      "symbol": "₳",
+      "unicode": [
+        "U+20B3"
+      ],
+      "name": "Austral Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "austral",
+        "cash",
+        "currency",
+        "finance",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "hryvnia-sign",
+      "type": "currency",
+      "symbol": "₴",
+      "unicode": [
+        "U+20B4"
+      ],
+      "name": "Hryvnia Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "hryvnia",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "cedi-sign",
+      "type": "currency",
+      "symbol": "₵",
+      "unicode": [
+        "U+20B5"
+      ],
+      "name": "Cedi Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "cedi",
+        "currency",
+        "finance",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "livre-tournois-sign",
+      "type": "currency",
+      "symbol": "₶",
+      "unicode": [
+        "U+20B6"
+      ],
+      "name": "Livre Tournois Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "livre",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "tournois",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "tenge-sign",
+      "type": "currency",
+      "symbol": "₸",
+      "unicode": [
+        "U+20B8"
+      ],
+      "name": "Tenge Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "tenge",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "turkish-lira-sign",
+      "type": "currency",
+      "symbol": "₺",
+      "unicode": [
+        "U+20BA"
+      ],
+      "name": "Turkish Lira Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "finance",
+        "lira",
+        "money",
+        "payment",
+        "sign",
+        "symbol",
+        "try",
+        "turkey",
+        "turkish",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "TRY",
+        "country_or_region": "Turkey"
+      }
+    },
+    {
+      "id": "manat-sign",
+      "type": "currency",
+      "symbol": "₼",
+      "unicode": [
+        "U+20BC"
+      ],
+      "name": "Manat Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "azerbaijan",
+        "azn",
+        "cash",
+        "currency",
+        "finance",
+        "manat",
+        "money",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "AZN",
+        "country_or_region": "Azerbaijan"
+      }
+    },
+    {
+      "id": "bitcoin-sign",
+      "type": "currency",
+      "symbol": "₿",
+      "unicode": [
+        "U+20BF"
+      ],
+      "name": "Bitcoin Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "bitcoin",
+        "blockchain",
+        "btc",
+        "cash",
+        "crypto",
+        "cryptocurrency",
+        "currency",
+        "finance",
+        "money",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "BTC",
+        "country_or_region": "Cryptocurrency"
+      }
+    },
+    {
+      "id": "bengali-rupee-mark",
+      "type": "currency",
+      "symbol": "৲",
+      "unicode": [
+        "U+09F2"
+      ],
+      "name": "Bengali Rupee Mark",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "bengali",
+        "cash",
+        "currency",
+        "finance",
+        "india",
+        "inr",
+        "mark",
+        "money",
+        "n",
+        "payment",
+        "rupee",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "bengali-rupee-sign",
+      "type": "currency",
+      "symbol": "৳",
+      "unicode": [
+        "U+09F3"
+      ],
+      "name": "Bengali Rupee Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "bangladesh",
+        "bdt",
+        "bengali",
+        "cash",
+        "currency",
+        "finance",
+        "india",
+        "inr",
+        "money",
+        "payment",
+        "rupee",
+        "sign",
+        "symbol",
+        "taka",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "BDT",
+        "country_or_region": "Bangladesh"
+      }
+    },
+    {
+      "id": "gujarati-rupee-sign",
+      "type": "currency",
+      "symbol": "૱",
+      "unicode": [
+        "U+0AF1"
+      ],
+      "name": "Gujarati Rupee Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "gujarati",
+        "india",
+        "inr",
+        "money",
+        "n",
+        "payment",
+        "rupee",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "tamil-rupee-sign",
+      "type": "currency",
+      "symbol": "௹",
+      "unicode": [
+        "U+0BF9"
+      ],
+      "name": "Tamil Rupee Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "india",
+        "inr",
+        "money",
+        "n",
+        "payment",
+        "rupee",
+        "sign",
+        "symbol",
+        "tamil",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "thai-currency-symbol-baht",
+      "type": "currency",
+      "symbol": "฿",
+      "unicode": [
+        "U+0E3F"
+      ],
+      "name": "Thai Currency Symbol Baht",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "baht",
+        "cash",
+        "currency",
+        "finance",
+        "money",
+        "payment",
+        "symbol",
+        "thai",
+        "thailand",
+        "thb",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "THB",
+        "country_or_region": "Thailand"
+      }
+    },
+    {
+      "id": "khmer-currency-symbol-riel",
+      "type": "currency",
+      "symbol": "៛",
+      "unicode": [
+        "U+17DB"
+      ],
+      "name": "Khmer Currency Symbol Riel",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cambodia",
+        "cash",
+        "currency",
+        "finance",
+        "khmer",
+        "khr",
+        "money",
+        "payment",
+        "riel",
+        "symbol",
+        "unicode"
+      ],
+      "metadata": {
+        "currency_code": "KHR",
+        "country_or_region": "Cambodia"
+      }
+    },
+    {
+      "id": "square-yuan",
+      "type": "currency",
+      "symbol": "㍐",
+      "unicode": [
+        "U+3350"
+      ],
+      "name": "Square Yuan",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "china",
+        "cny",
+        "currency",
+        "finance",
+        "money",
+        "n",
+        "payment",
+        "square",
+        "symbol",
+        "unicode",
+        "unknown",
+        "yuan"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "cjk-unified-ideograph-5186",
+      "type": "currency",
+      "symbol": "円",
+      "unicode": [
+        "U+5186"
+      ],
+      "name": "Cjk Unified Ideograph-5186",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "5186",
+        "a",
+        "cash",
+        "cjk",
+        "currency",
+        "finance",
+        "ideograph",
+        "money",
+        "n",
+        "payment",
+        "symbol",
+        "unicode",
+        "unified",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "cjk-unified-ideograph-5706",
+      "type": "currency",
+      "symbol": "圆",
+      "unicode": [
+        "U+5706"
+      ],
+      "name": "Cjk Unified Ideograph-5706",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "5706",
+        "a",
+        "cash",
+        "cjk",
+        "currency",
+        "finance",
+        "ideograph",
+        "money",
+        "n",
+        "payment",
+        "symbol",
+        "unicode",
+        "unified",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "cjk-unified-ideograph-570e",
+      "type": "currency",
+      "symbol": "圎",
+      "unicode": [
+        "U+570E"
+      ],
+      "name": "Cjk Unified Ideograph-570E",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "570e",
+        "a",
+        "cash",
+        "cjk",
+        "currency",
+        "finance",
+        "ideograph",
+        "money",
+        "n",
+        "payment",
+        "symbol",
+        "unicode",
+        "unified",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "cjk-unified-ideograph-5713",
+      "type": "currency",
+      "symbol": "圓",
+      "unicode": [
+        "U+5713"
+      ],
+      "name": "Cjk Unified Ideograph-5713",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "5713",
+        "a",
+        "cash",
+        "cjk",
+        "currency",
+        "finance",
+        "ideograph",
+        "money",
+        "n",
+        "payment",
+        "symbol",
+        "unicode",
+        "unified",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "cjk-unified-ideograph-571c",
+      "type": "currency",
+      "symbol": "圜",
+      "unicode": [
+        "U+571C"
+      ],
+      "name": "Cjk Unified Ideograph-571C",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "571c",
+        "a",
+        "cash",
+        "cjk",
+        "currency",
+        "finance",
+        "ideograph",
+        "money",
+        "n",
+        "payment",
+        "symbol",
+        "unicode",
+        "unified",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "hangul-syllable-weon",
+      "type": "currency",
+      "symbol": "원",
+      "unicode": [
+        "U+C6D0"
+      ],
+      "name": "Hangul Syllable Weon",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "hangul",
+        "money",
+        "n",
+        "payment",
+        "syllable",
+        "symbol",
+        "unicode",
+        "unknown",
+        "weon"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "rial-sign",
+      "type": "currency",
+      "symbol": "﷼",
+      "unicode": [
+        "U+FDFC"
+      ],
+      "name": "Rial Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "east",
+        "finance",
+        "irr",
+        "middle",
+        "middle-east",
+        "money",
+        "payment",
+        "rial",
+        "sar",
+        "sign",
+        "symbol",
+        "unicode",
+        "yer"
+      ],
+      "metadata": {
+        "currency_code": "IRR/SAR/YER",
+        "country_or_region": "Middle East"
+      }
+    },
+    {
+      "id": "fullwidth-dollar-sign",
+      "type": "currency",
+      "symbol": "＄",
+      "unicode": [
+        "U+FF04"
+      ],
+      "name": "Fullwidth Dollar Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "dollar",
+        "finance",
+        "fullwidth",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown",
+        "usd"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "fullwidth-cent-sign",
+      "type": "currency",
+      "symbol": "￠",
+      "unicode": [
+        "U+FFE0"
+      ],
+      "name": "Fullwidth Cent Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "cent",
+        "currency",
+        "finance",
+        "fullwidth",
+        "money",
+        "n",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "fullwidth-pound-sign",
+      "type": "currency",
+      "symbol": "￡",
+      "unicode": [
+        "U+FFE1"
+      ],
+      "name": "Fullwidth Pound Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "a",
+        "cash",
+        "currency",
+        "finance",
+        "fullwidth",
+        "gbp",
+        "money",
+        "n",
+        "payment",
+        "pound",
+        "sign",
+        "symbol",
+        "uk",
+        "unicode",
+        "unknown"
+      ],
+      "metadata": {
+        "currency_code": "N/A",
+        "country_or_region": "Unknown"
+      }
+    },
+    {
+      "id": "fullwidth-yen-sign",
+      "type": "currency",
+      "symbol": "￥",
+      "unicode": [
+        "U+FFE5"
+      ],
+      "name": "Fullwidth Yen Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "finance",
+        "fullwidth",
+        "japan",
+        "jpy",
+        "money",
+        "payment",
+        "sign",
+        "symbol",
+        "unicode",
+        "yen"
+      ],
+      "metadata": {
+        "currency_code": "JPY",
+        "country_or_region": "Japan"
+      }
+    },
+    {
+      "id": "fullwidth-won-sign",
+      "type": "currency",
+      "symbol": "￦",
+      "unicode": [
+        "U+FFE6"
+      ],
+      "name": "Fullwidth Won Sign",
+      "aliases": [],
+      "category": "Currency Symbols",
+      "subcategory": null,
+      "tags": [
+        "cash",
+        "currency",
+        "finance",
+        "fullwidth",
+        "korea",
+        "krw",
+        "money",
+        "payment",
+        "sign",
+        "south",
+        "symbol",
+        "unicode",
+        "won"
+      ],
+      "metadata": {
+        "currency_code": "KRW",
+        "country_or_region": "South Korea"
+      }
+    }
+  ]
+}

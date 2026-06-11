@@ -1,0 +1,880 @@
+{
+  "categories": [
+    {
+      "name": "positive",
+      "icon": ":-)"
+    },
+    {
+      "name": "playful",
+      "icon": ";)"
+    },
+    {
+      "name": "negative",
+      "icon": ":-("
+    },
+    {
+      "name": "neutral",
+      "icon": ":-|"
+    },
+    {
+      "name": "reaction",
+      "icon": ":/"
+    },
+    {
+      "name": "kaomoji",
+      "icon": "^_^"
+    },
+    {
+      "name": "meme",
+      "icon": "¯\\_(ツ)_/¯"
+    },
+    {
+      "name": "action",
+      "icon": "(╯°□°）╯︵ ┻━┻"
+    },
+    {
+      "name": "love",
+      "icon": "<3"
+    },
+    {
+      "name": "animal",
+      "icon": "ʕ•ᴥ•ʔ"
+    }
+  ],
+  "symbols": [
+    {
+      "id": "smile",
+      "type": "emoticon",
+      "symbol": ":-)",
+      "unicode": [],
+      "name": "smile",
+      "aliases": [],
+      "category": "positive",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "positive",
+        "smile",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "smile",
+      "type": "emoticon",
+      "symbol": ":)",
+      "unicode": [],
+      "name": "smile",
+      "aliases": [],
+      "category": "positive",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "positive",
+        "smile",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "laugh",
+      "type": "emoticon",
+      "symbol": ":D",
+      "unicode": [],
+      "name": "laugh",
+      "aliases": [],
+      "category": "positive",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "laugh",
+        "positive",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "big-laugh",
+      "type": "emoticon",
+      "symbol": ":-D",
+      "unicode": [],
+      "name": "big laugh",
+      "aliases": [],
+      "category": "positive",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "big",
+        "big laugh",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "laugh",
+        "positive",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "wink",
+      "type": "emoticon",
+      "symbol": ";)",
+      "unicode": [],
+      "name": "wink",
+      "aliases": [],
+      "category": "playful",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "playful",
+        "text-face",
+        "wink"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "wink",
+      "type": "emoticon",
+      "symbol": ";-)",
+      "unicode": [],
+      "name": "wink",
+      "aliases": [],
+      "category": "playful",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "playful",
+        "text-face",
+        "wink"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "tongue",
+      "type": "emoticon",
+      "symbol": ":-P",
+      "unicode": [],
+      "name": "tongue",
+      "aliases": [],
+      "category": "playful",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "playful",
+        "text-face",
+        "tongue"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "tongue",
+      "type": "emoticon",
+      "symbol": ":P",
+      "unicode": [],
+      "name": "tongue",
+      "aliases": [],
+      "category": "playful",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "playful",
+        "text-face",
+        "tongue"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "sad",
+      "type": "emoticon",
+      "symbol": ":-(",
+      "unicode": [],
+      "name": "sad",
+      "aliases": [],
+      "category": "negative",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "negative",
+        "sad",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "sad",
+      "type": "emoticon",
+      "symbol": ":(",
+      "unicode": [],
+      "name": "sad",
+      "aliases": [],
+      "category": "negative",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "negative",
+        "sad",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "crying",
+      "type": "emoticon",
+      "symbol": ":'(",
+      "unicode": [],
+      "name": "crying",
+      "aliases": [],
+      "category": "negative",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "crying",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "negative",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "angry",
+      "type": "emoticon",
+      "symbol": ">:(",
+      "unicode": [],
+      "name": "angry",
+      "aliases": [],
+      "category": "negative",
+      "subcategory": null,
+      "tags": [
+        "angry",
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "negative",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "neutral",
+      "type": "emoticon",
+      "symbol": ":-|",
+      "unicode": [],
+      "name": "neutral",
+      "aliases": [],
+      "category": "neutral",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "neutral",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "skeptical",
+      "type": "emoticon",
+      "symbol": ":/",
+      "unicode": [],
+      "name": "skeptical",
+      "aliases": [],
+      "category": "reaction",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "reaction",
+        "skeptical",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "surprised",
+      "type": "emoticon",
+      "symbol": ":-O",
+      "unicode": [],
+      "name": "surprised",
+      "aliases": [],
+      "category": "reaction",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "reaction",
+        "surprised",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "wide-eyes",
+      "type": "emoticon",
+      "symbol": "O_O",
+      "unicode": [],
+      "name": "wide eyes",
+      "aliases": [],
+      "category": "reaction",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "eyes",
+        "internet",
+        "kaomoji",
+        "reaction",
+        "text-face",
+        "wide",
+        "wide eyes"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "annoyed",
+      "type": "emoticon",
+      "symbol": "-_-",
+      "unicode": [],
+      "name": "annoyed",
+      "aliases": [],
+      "category": "reaction",
+      "subcategory": null,
+      "tags": [
+        "annoyed",
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "reaction",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "dizzy",
+      "type": "emoticon",
+      "symbol": "(*_*)",
+      "unicode": [],
+      "name": "dizzy",
+      "aliases": [],
+      "category": "reaction",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "dizzy",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "reaction",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "side-eye",
+      "type": "emoticon",
+      "symbol": "(¬_¬)",
+      "unicode": [],
+      "name": "side eye",
+      "aliases": [],
+      "category": "reaction",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "eye",
+        "internet",
+        "kaomoji",
+        "reaction",
+        "side",
+        "side eye",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "anime-happy",
+      "type": "emoticon",
+      "symbol": "^_^",
+      "unicode": [],
+      "name": "anime happy",
+      "aliases": [],
+      "category": "kaomoji",
+      "subcategory": null,
+      "tags": [
+        "anime",
+        "anime happy",
+        "ascii",
+        "emoticon",
+        "happy",
+        "internet",
+        "kaomoji",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "anime-crying",
+      "type": "emoticon",
+      "symbol": "T_T",
+      "unicode": [],
+      "name": "anime crying",
+      "aliases": [],
+      "category": "kaomoji",
+      "subcategory": null,
+      "tags": [
+        "anime",
+        "anime crying",
+        "ascii",
+        "crying",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "frustrated",
+      "type": "emoticon",
+      "symbol": ">_<",
+      "unicode": [],
+      "name": "frustrated",
+      "aliases": [],
+      "category": "kaomoji",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "frustrated",
+        "internet",
+        "kaomoji",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "disapproval",
+      "type": "emoticon",
+      "symbol": "ಠ_ಠ",
+      "unicode": [],
+      "name": "disapproval",
+      "aliases": [],
+      "category": "kaomoji",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "disapproval",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "hug",
+      "type": "emoticon",
+      "symbol": "(づ｡◕‿‿◕｡)づ",
+      "unicode": [],
+      "name": "hug",
+      "aliases": [],
+      "category": "kaomoji",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "hug",
+        "internet",
+        "kaomoji",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "rage",
+      "type": "emoticon",
+      "symbol": "(ノಠ益ಠ)ノ",
+      "unicode": [],
+      "name": "rage",
+      "aliases": [],
+      "category": "kaomoji",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "rage",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "cute-smile",
+      "type": "emoticon",
+      "symbol": "ʘ‿ʘ",
+      "unicode": [],
+      "name": "cute smile",
+      "aliases": [],
+      "category": "kaomoji",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "cute",
+        "cute smile",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "smile",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "sobbing",
+      "type": "emoticon",
+      "symbol": "(ಥ﹏ಥ)",
+      "unicode": [],
+      "name": "sobbing",
+      "aliases": [],
+      "category": "kaomoji",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "sobbing",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "happy",
+      "type": "emoticon",
+      "symbol": "(•‿•)",
+      "unicode": [],
+      "name": "happy",
+      "aliases": [],
+      "category": "kaomoji",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "happy",
+        "internet",
+        "kaomoji",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "suspicious",
+      "type": "emoticon",
+      "symbol": "(；一_一)",
+      "unicode": [],
+      "name": "suspicious",
+      "aliases": [],
+      "category": "kaomoji",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "suspicious",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "shrug",
+      "type": "emoticon",
+      "symbol": "¯\\_(ツ)_/¯",
+      "unicode": [],
+      "name": "shrug",
+      "aliases": [],
+      "category": "meme",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "meme",
+        "shrug",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "lenny-face",
+      "type": "emoticon",
+      "symbol": "(͡° ͜ʖ ͡°)",
+      "unicode": [],
+      "name": "lenny face",
+      "aliases": [],
+      "category": "meme",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "face",
+        "internet",
+        "kaomoji",
+        "lenny",
+        "lenny face",
+        "meme",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "finger-guns",
+      "type": "emoticon",
+      "symbol": "(☞ﾟヮﾟ)☞",
+      "unicode": [],
+      "name": "finger guns",
+      "aliases": [],
+      "category": "meme",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "finger",
+        "finger guns",
+        "guns",
+        "internet",
+        "kaomoji",
+        "meme",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "cool",
+      "type": "emoticon",
+      "symbol": "(☞⌐■_■)☞",
+      "unicode": [],
+      "name": "cool",
+      "aliases": [],
+      "category": "meme",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "cool",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "meme",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "excited",
+      "type": "emoticon",
+      "symbol": "(☞ﾟ∀ﾟ)☞",
+      "unicode": [],
+      "name": "excited",
+      "aliases": [],
+      "category": "meme",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "excited",
+        "internet",
+        "kaomoji",
+        "meme",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "deal-with-it",
+      "type": "emoticon",
+      "symbol": "(▀̿Ĺ̯▀̿ ̿)",
+      "unicode": [],
+      "name": "deal with it",
+      "aliases": [],
+      "category": "meme",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "deal",
+        "deal with it",
+        "emoticon",
+        "internet",
+        "it",
+        "kaomoji",
+        "meme",
+        "text-face",
+        "with"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "table-flip",
+      "type": "emoticon",
+      "symbol": "(╯°□°）╯︵ ┻━┻",
+      "unicode": [],
+      "name": "table flip",
+      "aliases": [],
+      "category": "action",
+      "subcategory": null,
+      "tags": [
+        "action",
+        "ascii",
+        "emoticon",
+        "flip",
+        "internet",
+        "kaomoji",
+        "table",
+        "table flip",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "table-unflip",
+      "type": "emoticon",
+      "symbol": "┬─┬ ノ( ゜-゜ノ)",
+      "unicode": [],
+      "name": "table unflip",
+      "aliases": [],
+      "category": "action",
+      "subcategory": null,
+      "tags": [
+        "action",
+        "ascii",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "table",
+        "table unflip",
+        "text-face",
+        "unflip"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "heart",
+      "type": "emoticon",
+      "symbol": "<3",
+      "unicode": [],
+      "name": "heart",
+      "aliases": [],
+      "category": "love",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "emoticon",
+        "heart",
+        "internet",
+        "kaomoji",
+        "love",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "broken-heart",
+      "type": "emoticon",
+      "symbol": "</3",
+      "unicode": [],
+      "name": "broken heart",
+      "aliases": [],
+      "category": "love",
+      "subcategory": null,
+      "tags": [
+        "ascii",
+        "broken",
+        "broken heart",
+        "emoticon",
+        "heart",
+        "internet",
+        "kaomoji",
+        "love",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "bear",
+      "type": "emoticon",
+      "symbol": "ʕ•ᴥ•ʔ",
+      "unicode": [],
+      "name": "bear",
+      "aliases": [],
+      "category": "animal",
+      "subcategory": null,
+      "tags": [
+        "animal",
+        "ascii",
+        "bear",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "text-face"
+      ],
+      "metadata": {}
+    },
+    {
+      "id": "cat",
+      "type": "emoticon",
+      "symbol": "(=^･ω･^=)",
+      "unicode": [],
+      "name": "cat",
+      "aliases": [],
+      "category": "animal",
+      "subcategory": null,
+      "tags": [
+        "animal",
+        "ascii",
+        "cat",
+        "emoticon",
+        "internet",
+        "kaomoji",
+        "text-face"
+      ],
+      "metadata": {}
+    }
+  ]
+}

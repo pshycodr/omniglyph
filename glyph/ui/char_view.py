@@ -5,6 +5,7 @@ gi.require_version("Gtk", "4.0")
 from gi.repository import Gtk, Gio, GLib, Gdk
 
 from db.loader import CollectionLoader
+from ui.side_bar import SideBar
 
 BATCH_SIZE = 30
 SCROLL_THRESHOLD = 0.85
@@ -30,11 +31,18 @@ class CharView(Gtk.Box):
         self._build_category_bar()
         self._build_scroll_area()
 
+        self.side_bar = SideBar(on_collection_change=self._on_collection_changed)
+        self.side_bar.set_halign(Gtk.Align.END)
+        self.side_bar.set_valign(Gtk.Align.FILL)
+        self.side_bar.set_vexpand(True)
+
         self._refresh_grid()
 
     def _load_database(self):
         self.entries = CollectionLoader().LoadEmojis()
+        self._process_entries()
 
+    def _process_entries(self):
         seen_categories = []
         category_counts = {}
 
@@ -143,6 +151,70 @@ class CharView(Gtk.Box):
         self.append(self.scroll)
 
         self.section_widgets = {}
+
+    def _on_collection_changed(self, data):
+        self.entries = data
+        self.active_category = None
+        self.search_active = False
+
+        self._process_entries()
+        self._rebuild_category_bar()
+        self._apply_filter()
+
+        self.side_bar.set_reveal_child(False)
+
+    def _rebuild_category_bar(self):
+        self._ignore_toggle = True
+
+        self.category_buttons = {}
+
+        category_scroll = None
+        child = self.get_first_child()
+        while child:
+            if isinstance(child, Gtk.ScrolledWindow):
+                category_scroll = child
+                break
+            child = child.get_next_sibling()
+
+        if category_scroll is None:
+            self._ignore_toggle = False
+            return
+
+        viewport = category_scroll.get_child()
+        bar = viewport.get_child() if isinstance(viewport, Gtk.Viewport) else viewport
+
+        while True:
+            first = bar.get_first_child()
+            if first is None:
+                break
+            bar.remove(first)
+
+        all_btn = Gtk.ToggleButton()
+        all_btn.set_label("All")
+        all_btn.set_active(True)
+        all_btn.add_css_class("category-pill")
+        all_btn.connect("toggled", self._on_category_toggled, None)
+        bar.append(all_btn)
+        self.category_buttons[None] = all_btn
+        self._active_btn = all_btn
+
+        for category in self.categories:
+            category_name = category["name"]
+            category_icon = category["icon"]
+
+            btn = Gtk.ToggleButton()
+            btn.set_label(category_icon)
+            btn.set_tooltip_text(category_name)
+            btn.add_css_class("category-pill")
+            btn.connect("toggled", self._on_category_toggled, category_name)
+            bar.append(btn)
+
+            self.category_buttons[category_name] = btn
+
+        self._ignore_toggle = False
+
+    def toggle_side_bar(self):
+        self.side_bar.toggle()
 
     def filter_entries(self, query):
         text = query.strip().lower()
