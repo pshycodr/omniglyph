@@ -15,6 +15,7 @@ Browse, search, and copy emojis, symbols, emoticons, arrows, currency signs, mat
 [![Python](https://img.shields.io/badge/python-3.13+-blue.svg)](https://www.python.org/)
 [![GTK](https://img.shields.io/badge/GTK-4.0-green.svg)](https://www.gtk.org/)
 [![Libadwaita](https://img.shields.io/badge/Libadwaita-1.x-purple.svg)](https://gnome.pages.gitlab.gnome.org/libadwaita/)
+[![Downloads](https://img.shields.io/endpoint?url=https://total-asset-dowload-accross-all-releasses.aroy262692.workers.dev/%3Fuser=pshycodr%26repo=omniglyph%26asset=omniglyph.bin)](https://dl.aroy.site/pshycodr/omniglyph)
 
 ![OmniGlyph Demo](assets/demo.png)
 
