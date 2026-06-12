@@ -15,11 +15,8 @@ from utils.window_manager import is_tiling_window_manager
 from importlib.resources import files
 
 css_provider = Gtk.CssProvider()
-
 css_data = files("styles").joinpath("style.css").read_bytes()
-
 css_provider.load_from_data(css_data)
-
 Gtk.StyleContext.add_provider_for_display(
     Gdk.Display.get_default(),
     css_provider,
@@ -40,7 +37,7 @@ DEFAULT_COLLECTION = "LoadEmojis"
 
 
 class AppWindow(Adw.ApplicationWindow):
-    def __init__(self, app, initial_data):
+    def __init__(self, app, initial_data, loader_name):
         super().__init__(application=app)
 
         self.main_box = Gtk.Box(orientation=Gtk.Orientation.VERTICAL)
@@ -49,17 +46,14 @@ class AppWindow(Adw.ApplicationWindow):
 
         self._setup_overlay_window()
 
-        self.char_view = CharView(self, initial_data)
+        self.char_view = CharView(self, initial_data, loader_name)
 
         self._build_layout()
         self._setup_keyboard_shortcuts()
 
         self.main_box.append(self.char_view)
 
-        self.connect(
-            "close-request",
-            self._on_close_request,
-        )
+        self.connect("close-request", self._on_close_request)
 
     def _on_close_request(self, *_):
         self.set_visible(False)
@@ -68,10 +62,12 @@ class AppWindow(Adw.ApplicationWindow):
     def _hide_window(self):
         self.set_visible(False)
 
-    def show_and_focus(self, data):
+    def show_and_focus(self, data, loader_name):
         self.search.set_text("")
 
-        self.char_view._on_collection_changed(data)
+        if loader_name != self.char_view.active_loader:
+            self.char_view._on_collection_changed(data)
+            self.char_view.active_loader = loader_name
 
         self.present()
 
@@ -85,55 +81,24 @@ class AppWindow(Adw.ApplicationWindow):
         self.set_resizable(False)
 
         Gtk4LayerShell.init_for_window(self)
-
-        Gtk4LayerShell.set_layer(
-            self,
-            Gtk4LayerShell.Layer.OVERLAY,
-        )
-
-        Gtk4LayerShell.set_keyboard_mode(
-            self,
-            Gtk4LayerShell.KeyboardMode.EXCLUSIVE,
-        )
-
-        Gtk4LayerShell.set_anchor(
-            self,
-            Gtk4LayerShell.Edge.TOP,
-            True,
-        )
-
-        Gtk4LayerShell.set_anchor(
-            self,
-            Gtk4LayerShell.Edge.RIGHT,
-            True,
-        )
-
-        Gtk4LayerShell.set_margin(
-            self,
-            Gtk4LayerShell.Edge.TOP,
-            20,
-        )
-
-        Gtk4LayerShell.set_margin(
-            self,
-            Gtk4LayerShell.Edge.RIGHT,
-            20,
-        )
+        Gtk4LayerShell.set_layer(self, Gtk4LayerShell.Layer.OVERLAY)
+        Gtk4LayerShell.set_keyboard_mode(self, Gtk4LayerShell.KeyboardMode.EXCLUSIVE)
+        Gtk4LayerShell.set_anchor(self, Gtk4LayerShell.Edge.TOP, True)
+        Gtk4LayerShell.set_anchor(self, Gtk4LayerShell.Edge.RIGHT, True)
+        Gtk4LayerShell.set_margin(self, Gtk4LayerShell.Edge.TOP, 20)
+        Gtk4LayerShell.set_margin(self, Gtk4LayerShell.Edge.RIGHT, 20)
 
     def _build_layout(self):
         self.set_title("OmniGlyph")
 
         if not is_tiling_window_manager():
-            appHeader = AppHeader()
-            self.main_box.append(appHeader)
+            self.main_box.append(AppHeader())
 
         self.set_default_size(450, 500)
-
         self.main_box.set_spacing(0)
 
         self.root_overlay = Gtk.Overlay()
         self.root_overlay.set_child(self.main_box)
-
         self.set_content(self.root_overlay)
 
         search_box = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL)
@@ -157,7 +122,6 @@ class AppWindow(Adw.ApplicationWindow):
         search_box.append(side_bar_button)
 
         self.main_box.append(search_box)
-
         self.root_overlay.add_overlay(self.char_view.side_bar)
 
     def _setup_keyboard_shortcuts(self):
@@ -191,7 +155,6 @@ class MyApp(Adw.Application):
             application_id="dev.anishroy.omniglyph",
             flags=Gio.ApplicationFlags.HANDLES_COMMAND_LINE,
         )
-
         self.window = None
 
     def _resolve_collection(self, args):
@@ -202,16 +165,13 @@ class MyApp(Adw.Application):
         return DEFAULT_COLLECTION
 
     def _load(self, loader_name):
-        loader = CollectionLoader()
-        return getattr(loader, loader_name)()
+        return getattr(CollectionLoader(), loader_name)()
 
     def do_activate(self):
-        style_manager = Adw.StyleManager.get_default()
-        style_manager.set_color_scheme(Adw.ColorScheme.DEFAULT)
+        pass
 
     def do_command_line(self, command_line):
         raw = command_line.get_arguments()[1:]
-
         args = [a.decode() if isinstance(a, bytes) else a for a in raw]
 
         for arg in args:
@@ -219,22 +179,24 @@ class MyApp(Adw.Application):
             if flag in ("help", "h"):
                 flags = "\n  ".join(f"--{f}" for f in COLLECTION_FLAGS)
                 print(
-                    f"Usage: omniglyph [OPTION]\n\n"
-                    f"Collections:\n  {flags}\n\n"
-                    f"Default: --emoji"
+                    f"Usage: omniglyph [OPTION]\n\nCollections:\n  {flags}\n\nDefault: --emoji"
                 )
                 return 0
 
         loader_name = self._resolve_collection(args)
-        data = self._load(loader_name)
 
         if self.window is None:
-            style_manager = Adw.StyleManager.get_default()
-            style_manager.set_color_scheme(Adw.ColorScheme.DEFAULT)
-            self.window = AppWindow(self, data)
+            Adw.StyleManager.get_default().set_color_scheme(Adw.ColorScheme.DEFAULT)
+            data = self._load(loader_name)
+            self.window = AppWindow(self, data, loader_name)
             self.hold()
-
-        self.window.show_and_focus(data)
+            self.window.show_and_focus(data, loader_name)
+        else:
+            if loader_name != self.window.char_view.active_loader:
+                data = self._load(loader_name)
+                self.window.show_and_focus(data, loader_name)
+            else:
+                self.window.show_and_focus(None, loader_name)
 
         return 0
 

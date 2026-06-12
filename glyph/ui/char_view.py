@@ -11,10 +11,11 @@ SCROLL_THRESHOLD = 0.85
 
 
 class CharView(Gtk.Box):
-    def __init__(self, parent, initial_data):
+    def __init__(self, parent, initial_data, loader_name):
         super().__init__(orientation=Gtk.Orientation.VERTICAL, spacing=0)
 
         self.parent = parent
+        self.active_loader = loader_name
 
         self.set_vexpand(True)
         self.set_hexpand(True)
