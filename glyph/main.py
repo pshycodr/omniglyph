@@ -59,6 +59,9 @@ class AppWindow(Adw.ApplicationWindow):
         self.set_visible(False)
         return True
 
+    def _close_window(self):
+        exit(0)
+
     def _hide_window(self):
         self.set_visible(False)
 
@@ -138,15 +141,23 @@ class AppWindow(Adw.ApplicationWindow):
             self._focus_search()
             return True
 
-        if keyval != Gdk.KEY_Escape:
-            return False
-
-        if self.get_focus() is self.search:
-            self.set_focus(None)
+        if keyval == Gdk.KEY_Escape:
+            if self.get_focus() is self.search:
+                self.set_focus(None)
+            else:
+                self._close_window()
             return True
 
-        self._hide_window()
-        return True
+        if keyval == Gdk.KEY_Return:
+            focused_widget = self.get_focus()
+            if isinstance(focused_widget, Gtk.FlowBoxChild):
+                focused_widget.get_child().emit("clicked")
+                
+        if keyval == Gdk.KEY_c:
+            self.char_view.category_buttons[None].grab_focus()
+            return True
+
+        return False
 
 
 class MyApp(Adw.Application):
