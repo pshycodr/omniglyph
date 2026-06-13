@@ -2,9 +2,8 @@ import gi
 
 gi.require_version("Gtk", "4.0")
 
-from gi.repository import Gtk, Gdk
-
 from db.loader import CollectionLoader
+from gi.repository import Gtk
 from utils.config import Config
 
 COLLECTIONS = [

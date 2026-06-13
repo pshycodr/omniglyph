@@ -1,5 +1,6 @@
-from pathlib import Path
 import json
+from pathlib import Path
+
 from gi.repository import GLib
 
 DEFAULT_CONFIG = {

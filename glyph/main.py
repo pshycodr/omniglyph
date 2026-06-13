@@ -1,5 +1,6 @@
-import gi
 import sys
+
+import gi
 from window import AppWindow
 
 gi.require_version("Gtk", "4.0")

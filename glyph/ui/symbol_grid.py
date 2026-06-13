@@ -1,4 +1,4 @@
-from gi.repository import Gtk, GLib
+from gi.repository import GLib, Gtk
 from utils.config import Config
 
 SCROLL_THRESHOLD = 0.85

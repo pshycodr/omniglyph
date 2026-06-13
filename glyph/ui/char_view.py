@@ -1,7 +1,8 @@
-from gi.repository import Gtk, Gio, GLib, Gdk
+from gi.repository import Gdk, Gio, GLib, Gtk
 from utils.config import Config
-from ui.side_bar import SideBar
+
 from ui.category_bar import CategoryBar
+from ui.side_bar import SideBar
 from ui.symbol_grid import SymbolGrid
 
 _config = Config()
