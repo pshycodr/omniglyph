@@ -1,4 +1,8 @@
-from gi.repository import GLib, Gtk
+import gi
+
+gi.require_version("Gtk", "4.0")
+
+from gi.repository import Gtk, GLib
 from utils.config import Config
 
 SCROLL_THRESHOLD = 0.85
@@ -12,6 +16,7 @@ class SymbolGrid(Gtk.Box):
         self.set_vexpand(True)
 
         self._on_symbol_clicked = on_symbol_clicked
+        self.filtered_entries = []
 
         self.scroll = Gtk.ScrolledWindow()
         self.scroll.set_hexpand(True)
@@ -26,33 +31,81 @@ class SymbolGrid(Gtk.Box):
         self.section_widgets = {}
         self.render_index = 0
         self.loading = False
+
+    def refresh(self, entries):
+        self.filtered_entries = entries
+        self._clear()
+        self._load_next_batch()
+
+    def show_history(self, global_history, on_clear=None):
         self.filtered_entries = []
+        self._clear()
+
+        top_bar = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL, spacing=0)
+        top_bar.set_margin_top(10)
+        top_bar.set_margin_bottom(4)
+        top_bar.set_margin_start(12)
+        top_bar.set_margin_end(12)
+
+        title = Gtk.Label(label="History")
+        title.set_halign(Gtk.Align.START)
+        title.set_hexpand(True)
+        title.add_css_class("heading")
+        top_bar.append(title)
+
+        if on_clear:
+            clear_btn = Gtk.Button(label="Clear All")
+            clear_btn.set_halign(Gtk.Align.END)
+            clear_btn.set_valign(Gtk.Align.CENTER)
+            clear_btn.add_css_class("destructive-action")
+            clear_btn.add_css_class("flat")
+            clear_btn.connect("clicked", lambda _: on_clear())
+            top_bar.append(clear_btn)
+
+        self.content_box.append(top_bar)
+
+        sep = Gtk.Separator(orientation=Gtk.Orientation.HORIZONTAL)
+        sep.set_margin_start(12)
+        sep.set_margin_end(12)
+        sep.set_margin_bottom(4)
+        self.content_box.append(sep)
+
+        if not global_history:
+            self._render_empty_state("No history yet")
+            return
+
+        grid = Gtk.FlowBox()
+        grid.set_selection_mode(Gtk.SelectionMode.NONE)
+        grid.set_max_children_per_line(self._grid_columns())
+        grid.set_row_spacing(2)
+        grid.set_column_spacing(2)
+        grid.set_homogeneous(True)
+        grid.set_margin_top(8)
+        grid.set_margin_start(12)
+        grid.set_margin_end(12)
+        self.content_box.append(grid)
+
+        for entry in global_history:
+            self._add_symbol_button(entry, grid)
+
+    def _clear(self):
+        while child := self.content_box.get_first_child():
+            self.content_box.remove(child)
+        self.section_widgets = {}
+        self.render_index = 0
+        self.loading = False
+
+    def _render_empty_state(self, message):
+        label = Gtk.Label(label=message)
+        label.set_margin_top(40)
+        label.add_css_class("dim-label")
+        self.content_box.append(label)
 
     def _batch_size(self):
         return _config.get("behavior", "batch_size", default=30)
 
     def _grid_columns(self):
         return _config.get("behavior", "grid_columns", default=13)
-
-    def refresh(self, entries):
-        self.filtered_entries = entries
-
-        while child := self.content_box.get_first_child():
-            self.content_box.remove(child)
-
-        self.section_widgets = {}
-        self.render_index = 0
-        self.loading = False
-
-        self._load_next_batch()
-
-    def scroll_by(self, delta):
-        vadj = self.scroll.get_vadjustment()
-        new_val = max(
-            vadj.get_lower(),
-            min(vadj.get_upper() - vadj.get_page_size(), vadj.get_value() + delta),
-        )
-        vadj.set_value(new_val)
 
     def _get_sections(self):
         sections = {}
@@ -65,9 +118,9 @@ class SymbolGrid(Gtk.Box):
             sections[cat].append(entry)
         return order, sections
 
-    def _ensure_section(self, category, total):
-        if category in self.section_widgets:
-            return self.section_widgets[category]["grid"]
+    def _ensure_section(self, title, total):
+        if title in self.section_widgets:
+            return self.section_widgets[title]["grid"]
 
         section_box = Gtk.Box(orientation=Gtk.Orientation.VERTICAL, spacing=6)
         section_box.set_margin_top(12)
@@ -78,7 +131,7 @@ class SymbolGrid(Gtk.Box):
         header = Gtk.Box(orientation=Gtk.Orientation.HORIZONTAL, spacing=0)
         header.set_hexpand(True)
 
-        name_label = Gtk.Label(label=category)
+        name_label = Gtk.Label(label=title)
         name_label.set_halign(Gtk.Align.START)
         name_label.set_hexpand(True)
         name_label.add_css_class("heading")
@@ -103,10 +156,9 @@ class SymbolGrid(Gtk.Box):
         section_box.append(header)
         section_box.append(sep)
         section_box.append(grid)
-
         self.content_box.append(section_box)
-        self.section_widgets[category] = {"box": section_box, "grid": grid}
 
+        self.section_widgets[title] = {"box": section_box, "grid": grid}
         return grid
 
     def _load_next_batch(self):
@@ -167,3 +219,11 @@ class SymbolGrid(Gtk.Box):
         if (value + page_size) / upper >= SCROLL_THRESHOLD:
             if self.render_index < len(self.filtered_entries):
                 self._load_next_batch()
+
+    def scroll_by(self, delta):
+        vadj = self.scroll.get_vadjustment()
+        new_val = max(
+            vadj.get_lower(),
+            min(vadj.get_upper() - vadj.get_page_size(), vadj.get_value() + delta),
+        )
+        vadj.set_value(new_val)

@@ -9,6 +9,7 @@ DEFAULT_CONFIG = {
         "focus_search": "slash",
         "toggle_categories": "c",
         "toggle_sidebar": "s",
+        "history": "ctrl+h",
         "close_sidebar": "escape",
         "next_category": "]",
         "prev_category": "[",

@@ -179,4 +179,8 @@ class AppWindow(Adw.ApplicationWindow):
                 self._hide_window()
             return True
 
+        if self._match(keyval, pure_mods, "history", "ctrl+h"):
+            self.char_view.toggle_history()
+            return True
+
         return False
