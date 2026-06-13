@@ -12,6 +12,7 @@ from constants import *
 from db.loader import CollectionLoader
 from gi.repository import Adw, Gio
 from ui import *
+from services.notification import *
 
 
 class MyApp(Adw.Application):
@@ -33,7 +34,9 @@ class MyApp(Adw.Application):
         return getattr(CollectionLoader(), loader_name)()
 
     def do_activate(self):
-        pass
+        print("DO ACTIVATE")
+        setup_update_notifications(self)
+        check_for_updates_async(self)
 
     def do_command_line(self, command_line):
         raw = command_line.get_arguments()[1:]
@@ -48,6 +51,7 @@ class MyApp(Adw.Application):
                 )
                 return 0
 
+        self.do_activate()
         loader_name = self._resolve_collection(args)
 
         if self.window is None:
