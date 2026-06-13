@@ -17,7 +17,7 @@ from ui import *
 class MyApp(Adw.Application):
     def __init__(self):
         super().__init__(
-            application_id="dev.anishroy.omniglyph",
+            application_id=APP_ID,
             flags=Gio.ApplicationFlags.HANDLES_COMMAND_LINE,
         )
         self.window = None

@@ -30,3 +30,6 @@ COLLECTION_FLAGS = {
 
 DEFAULT_COLLECTION = "LoadEmojis"
 config = Config()
+
+APP_ID = "dev.anishroy.omniglyph"
+VERSION = "1.0.0"
