@@ -32,6 +32,9 @@ class AppWindow(Adw.ApplicationWindow):
     def _hide_window(self):
         self.set_visible(False)
 
+    def _close_window(self):
+        exit(0)
+
     def show_and_focus(self, data, loader_name):
         self.search.set_text("")
 
@@ -181,10 +184,20 @@ class AppWindow(Adw.ApplicationWindow):
             esc_action = self.config.get("behavior", "esc_action", default="hide")
             if esc_action == "hide":
                 self._hide_window()
+            elif esc_action == "quit":
+                self._close_window()
             return True
 
         if self._match(keyval, pure_mods, "history", "ctrl+h"):
             self.char_view.toggle_history()
+            return True
+
+        if self._match(keyval, pure_mods, "quit", "ctrl+q"):
+            self._close_window()
+            return True
+
+        if self._match(keyval, pure_mods, "toggle_categories", "c"):
+            self.char_view.category_bar.category_buttons[None].grab_focus()
             return True
 
         return False
