@@ -34,3 +34,6 @@ class CollectionLoader:
 
     def LoadHieroglyphs(self):
         return self._load("hieroglyphs.json")
+
+    def LoadNerdFonts(self):
+        return self._load("nerd-fonts.json")
