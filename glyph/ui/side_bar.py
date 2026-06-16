@@ -38,6 +38,11 @@ COLLECTIONS = [
         "loader": "LoadSpecialSymbols",
     },
     {
+        "name": "Nerd-Font Icons",
+        "icon": "",
+        "loader": "LoadNerdFonts",
+    },
+    {
         "name": "Hieroglyphs",
         "icon": "𓂀",
         "loader": "LoadHieroglyphs",

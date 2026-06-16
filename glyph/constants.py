@@ -27,6 +27,7 @@ COLLECTION_FLAGS = {
     "currency": "LoadCurrency",
     "special": "LoadSpecialSymbols",
     "hieroglyphs": "LoadHieroglyphs",
+    "nerd": "LoadNerdFonts",
 }
 
 DEFAULT_COLLECTION = "LoadEmojis"
