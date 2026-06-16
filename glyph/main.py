@@ -31,9 +31,10 @@ class MyApp(Adw.Application):
         return DEFAULT_COLLECTION
 
     def _load(self, loader_name):
-        return getattr(CollectionLoader(), loader_name)()
+        return getattr(CollectionLoader(self), loader_name)()
 
     def do_activate(self):
+        setup_nerd_font_actions(self)
         setup_update_notifications(self)
         check_for_updates_async(self)
 

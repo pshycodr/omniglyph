@@ -38,6 +38,11 @@ COLLECTIONS = [
         "loader": "LoadSpecialSymbols",
     },
     {
+        "name": "Nerd-Font Icons",
+        "icon": "",
+        "loader": "LoadNerdFonts",
+    },
+    {
         "name": "Hieroglyphs",
         "icon": "𓂀",
         "loader": "LoadHieroglyphs",
@@ -48,9 +53,10 @@ _config = Config()
 
 
 class SideBar(Gtk.Revealer):
-    def __init__(self, on_collection_change=None):
+    def __init__(self, app, on_collection_change=None):
         super().__init__()
 
+        self.app = app
         self._config = _config
         self.on_collection_change = on_collection_change
         self._active_btn = None
@@ -175,7 +181,7 @@ class SideBar(Gtk.Revealer):
         self._load_collection(collection)
 
     def _load_collection(self, collection):
-        loader = CollectionLoader()
+        loader = CollectionLoader(self.app)
         method = getattr(loader, collection["loader"])
         data = method()
 
