@@ -16,7 +16,7 @@ class AppWindow(Adw.ApplicationWindow):
 
         self._setup_overlay_window()
 
-        self.char_view = CharView(self, initial_data, loader_name)
+        self.char_view = CharView(self, initial_data, loader_name, app)
 
         self._build_layout()
         self._setup_keyboard_shortcuts()

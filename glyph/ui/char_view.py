@@ -14,7 +14,7 @@ _history = HistoryService()
 
 
 class CharView(Gtk.Box):
-    def __init__(self, parent, initial_data, loader_name):
+    def __init__(self, parent, initial_data, loader_name, app):
         super().__init__(orientation=Gtk.Orientation.VERTICAL, spacing=0)
 
         self.parent = parent
@@ -41,7 +41,7 @@ class CharView(Gtk.Box):
         self.grid = SymbolGrid(on_symbol_clicked=self._on_symbol_clicked)
         self.append(self.grid)
 
-        self.side_bar = SideBar(on_collection_change=self._on_collection_changed)
+        self.side_bar = SideBar(app, on_collection_change=self._on_collection_changed)
         self.side_bar.set_halign(Gtk.Align.END)
         self.side_bar.set_valign(Gtk.Align.FILL)
         self.side_bar.set_vexpand(True)
