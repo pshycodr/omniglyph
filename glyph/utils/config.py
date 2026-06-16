@@ -12,11 +12,11 @@ DEFAULT_CONFIG = r"""
 #
 # Restart OmniGlyph after changing this file.
 #
+# ---------------------------------------------------------------------------
 # Shortcut Syntax
-# ----------------
+# ---------------------------------------------------------------------------
 #
-# A shortcut is composed of zero or more modifiers
-# followed by a key name:
+# A shortcut is composed of zero or more modifiers followed by a key:
 #
 #   ctrl+q
 #   ctrl+shift+h
@@ -24,82 +24,52 @@ DEFAULT_CONFIG = r"""
 #   super+space
 #   ctrl+alt+delete
 #
-# Supported Modifiers
-# -------------------
+# Modifiers:
+#   ctrl, shift, alt, super
 #
-#   ctrl
-#   shift
-#   alt
-#   super
+# Navigation Keys:
+#   up, down, left, right
+#   home, end
+#   pageup, pagedown
 #
-# Supported Named Keys
-# --------------------
+# Editing Keys:
+#   return, enter
+#   escape, tab, space
+#   backspace, delete, insert
 #
-# Navigation
+# Lock Keys:
+#   capslock, numlock, scrolllock
 #
-#   up
-#   down
-#   left
-#   right
-#   home
-#   end
-#   pageup
-#   pagedown
-#
-# Editing
-#
-#   return
-#   enter
-#   escape
-#   tab
-#   space
-#   backspace
-#   delete
-#   insert
-#
-# Lock Keys
-#
-#   capslock
-#   numlock
-#   scrolllock
-#
-# Function Keys
-#
+# Function Keys:
 #   f1 - f12
 #
-# Miscellaneous
+# Miscellaneous:
+#   menu, printscreen, pause
 #
-#   menu
-#   printscreen
-#   pause
+# Symbol Keys:
+#   slash (/)
+#   backslash (\\)
+#   comma (,)
+#   period (.)
+#   dot (.)
+#   semicolon (;)
+#   apostrophe (')
+#   quote (")
+#   minus (-)
+#   equal (=)
+#   plus (+)
+#   grave (`)
+#   backtick (`)
 #
-# Symbol Keys
+# Bracket Keys:
+#   leftbracket ([)
+#   rightbracket (])
+#   leftbrace ({)
+#   rightbrace (})
+#   leftparen (()
+#   rightparen ())
 #
-#   slash        (/)
-#   backslash    (\\)
-#   comma        (,)
-#   period       (.)
-#   dot          (.)
-#   semicolon    (;)
-#   apostrophe   (')
-#   quote        (")
-#   minus        (-)
-#   equal        (=)
-#   plus         (+)
-#   grave        (`)
-#   backtick     (`)
-#
-# Bracket Keys
-#
-#   leftbracket   ([)
-#   rightbracket  (])
-#   leftbrace     ({)
-#   rightbrace    (})
-#   leftparen     (()
-#   rightparen    ())
-#
-# Keypad Keys
-#
+# Keypad Keys:
 #   kp_enter
 #   kp_add
 #   kp_subtract
@@ -107,11 +77,7 @@ DEFAULT_CONFIG = r"""
 #   kp_divide
 #   kp_decimal
 #
-# Single Character Keys
-# ---------------------
-#
-# Any single printable character can also be used:
-#
+# Single Character Keys:
 #   a-z
 #   A-Z
 #   0-9
@@ -126,107 +92,90 @@ DEFAULT_CONFIG = r"""
 #   -
 #   =
 #
-# Missing values automatically fall back
-# to OmniGlyph's built-in defaults.
+# Missing values automatically fall back to OmniGlyph defaults.
 
 [shortcuts]
 
-# Quit OmniGlyph
+# General
 quit = "ctrl+q"
-
-# Focus search bar
 focus_search = "slash"
-
-# Toggle category bar
-toggle_categories = "tab"
-
-# Toggle sidebar
-toggle_sidebar = "ctrl+b"
-
-# Open history view
 history = "ctrl+h"
-
-# Close sidebar
-close_sidebar = "escape"
-
-# Navigate categories
-next_category = "pagedown"
-prev_category = "pageup"
-
-# Sidebar navigation
-sidebar_next = "down"
-sidebar_prev = "up"
-sidebar_activate = "return"
-
-# Copy first visible symbol
-copy_first = "ctrl+return"
-
-# Scroll symbol grid
-scroll_down = "down"
-scroll_up = "up"
-
-# Reload active collection
 reload_collection = "ctrl+r"
+
+# Navigation
+next_category = "l"
+prev_category = "h"
+
+# Scrolling
+scroll_down = "j"
+scroll_up = "k"
+
+# Sidebar
+toggle_sidebar = "ctrl+b"
+sidebar_next = "j"
+sidebar_prev = "k"
+sidebar_close = "return"
+
+# Actions
+copy_first = "return"
 
 [behavior]
 
-# hide | quit
-esc_action = "hide"
-
-# system | light | dark
-theme = "system"
-
-# Hide window after copying a symbol
+# Window behavior
+esc_action = "hide"        # hide | quit
+theme = "system"           # system | light | dark
 close_on_copy = true
-
-# Show notifications
 show_notifications = true
 
-# Number of columns in the symbol grid
-grid_columns = 13
-
-# Symbols loaded per pagination batch
-batch_size = 30
-
-# Initial window size
+# Layout
 window_width = 450
 window_height = 500
-
-# Sidebar width in pixels
 sidebar_width = 180
+grid_columns = 13
 
-# Scroll amount used by scroll shortcuts
+# Performance
+batch_size = 30
+
+# Scrolling
 scroll_step = 120
 """
 
 DEFAULT_DATA = {
     "shortcuts": {
+        # General
         "quit": "ctrl+q",
         "focus_search": "slash",
-        "toggle_categories": "c",
-        "toggle_sidebar": "s",
         "history": "ctrl+h",
-        "close_sidebar": "escape",
-        "next_category": "]",
-        "prev_category": "[",
-        "sidebar_next": "down",
-        "sidebar_prev": "up",
-        "sidebar_activate": "return",
-        "copy_first": "return",
+        "reload_collection": "ctrl+r",
+        # Navigation
+        "next_category": "l",
+        "prev_category": "h",
+        # Scrolling
         "scroll_down": "j",
         "scroll_up": "k",
-        "reload_collection": "ctrl+r",
+        # Sidebar
+        "toggle_sidebar": "ctrl+b",
+        "close_sidebar": "escape",
+        "sidebar_next": "j",
+        "sidebar_prev": "k",
+        "close_sidebar": "return",
+        # Actions
+        "copy_first": "return",
     },
     "behavior": {
+        # Window behavior
         "esc_action": "hide",
         "theme": "system",
         "close_on_copy": True,
         "show_notifications": True,
-        "grid_columns": 13,
-        "batch_size": 30,
+        # Layout
         "window_width": 450,
         "window_height": 500,
         "sidebar_width": 180,
+        "grid_columns": 13,
+        # Performance
+        "batch_size": 30,
+        # Scrolling
         "scroll_step": 120,
     },
 }
