@@ -43,7 +43,8 @@ class CategoryBar(Gtk.ScrolledWindow):
         next_sc = _config.shortcut_label("next_category")
         prev_sc = _config.shortcut_label("prev_category")
 
-        history_tooltip = f"History  {_config.shortcut_label('history')}"
+        history_keybind = _config.shortcut_label("history")
+        history_tooltip = f"History  ({history_keybind})"
 
         self._history_btn = Gtk.ToggleButton()
         self._history_btn.set_icon_name("document-open-recent-symbolic")
