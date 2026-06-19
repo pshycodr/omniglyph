@@ -66,6 +66,40 @@ User settings and notification preferences:
 yay -S omniglyph
 ```
 
+### Nix
+
+#### Run without installing
+
+```shell
+nix run github:pshycodr/omniglyph
+```
+
+#### Install via nix profile
+
+```shell
+nix profile install github:pshycodr/omniglyph
+```
+
+#### NixOS / Home Manager
+
+Add to your flake inputs:
+
+```nix
+inputs.omniglyph.url = "github:pshycodr/omniglyph";
+```
+
+Then add to your packages:
+
+```nix
+environment.systemPackages = [ inputs.omniglyph.packages.${system}.default ];
+```
+
+Or with Home Manager:
+
+```nix
+home.packages = [ inputs.omniglyph.packages.${system}.default ];
+```
+
 OR
 
 ### Installer Script
