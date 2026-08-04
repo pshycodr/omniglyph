@@ -25,16 +25,16 @@ body:
   - type: textarea
     id: proposal
     attributes:
-      label: Proposed solution
-      description: How would you like this to work?
+      label: Proposed solution (optional)
+      description: Describe how you would like to see this implemented.
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: alternatives
     attributes:
-      label: Alternatives considered
-      description: Existing workarounds or other approaches.
+      label: Alternatives considered (optional)
+      description: Other ways to solve the problem, if any.
     validations:
       required: false
 

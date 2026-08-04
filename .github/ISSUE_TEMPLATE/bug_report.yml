@@ -39,18 +39,14 @@ body:
     validations:
       required: true
 
-  - type: textarea
-    id: system-info
+  - type: markdown
     attributes:
-      label: System information
-      description: |
-        Run the following and paste the full output.
-
-        This tells us your distro, GTK4/libadwaita versions,
-        window manager, and display protocol.
-
-      render: shell
       value: |
+        ## System information
+
+        Please run the following commands in a terminal and paste the output into the field below.
+
+        ```sh
         echo "--- OS ---"
         cat /etc/os-release | grep -E "^(NAME|VERSION)="
 
@@ -66,22 +62,17 @@ body:
 
         echo "--- Python / PyGObject ---"
         python3 --version
-        python3 -c "import gi; print('PyGObject:', gi.__version__)" \
-          2>/dev/null || echo "PyGObject: import failed"
-
-    validations:
-      required: true
+        python3 -c "import gi; print('PyGObject:', gi.__version__)" 2>/dev/null || echo "PyGObject: import failed"
+        ```
 
   - type: textarea
-    id: logs
+    id: system-info
     attributes:
-      label: Terminal output / error logs
-      description: |
-        Run OmniGlyph from a terminal and paste any output,
-        especially Gtk warnings or Python tracebacks.
+      label: System information output
+      description: Paste the complete command output here.
       render: shell
     validations:
-      required: false
+      required: true
 
   - type: textarea
     id: what-happened
