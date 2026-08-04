@@ -7,12 +7,12 @@ gi.require_version("Gtk4LayerShell", "1.0")
 
 from importlib.resources import files
 
-from gi.repository import Gdk, Gtk
+from gi.repository import Gdk, GLib, Gtk
 from utils.config import Config
 
 css_provider = Gtk.CssProvider()
 css_data = files("styles").joinpath("style.css").read_bytes()
-css_provider.load_from_data(css_data)
+css_provider.load_from_bytes(GLib.Bytes.new(css_data))
 Gtk.StyleContext.add_provider_for_display(
     Gdk.Display.get_default(),
     css_provider,
