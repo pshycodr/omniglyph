@@ -8,11 +8,14 @@ gi.require_version("Adw", "1")
 gi.require_version("Gtk4LayerShell", "1.0")
 
 
-from constants import *
+from constants import APP_ID, COLLECTION_FLAGS, DEFAULT_COLLECTION
 from db.loader import CollectionLoader
 from gi.repository import Adw, Gio
-from services.notification import *
-from ui import *
+from services.notification import (
+    check_for_updates_async,
+    setup_nerd_font_actions,
+    setup_update_notifications,
+)
 from utils.settings import load_settings
 
 
@@ -49,7 +52,9 @@ class MyApp(Adw.Application):
             if flag in ("help", "h"):
                 flags = "\n  ".join(f"--{f}" for f in COLLECTION_FLAGS)
                 print(
-                    f"Usage: omniglyph [OPTION]\n\nCollections:\n  {flags}\n\nDefault: --emoji"
+                    "Usage: omniglyph [OPTION]\n\n"
+                    f"Collections:\n  {flags}\n\n"
+                    "Default: --emoji"
                 )
                 return 0
 

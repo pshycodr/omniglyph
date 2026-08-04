@@ -1,7 +1,7 @@
 from constants import config
 from gi.repository import Adw, Gdk, Gtk, Gtk4LayerShell
 from shortcuts import _parse_shortcut
-from ui import *
+from ui import AppHeader, CharView, create_search_bar, setup_actions
 from utils.window_manager import is_tiling_window_manager
 
 

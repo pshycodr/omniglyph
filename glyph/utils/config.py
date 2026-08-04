@@ -158,7 +158,6 @@ DEFAULT_DATA = {
         "close_sidebar": "escape",
         "sidebar_next": "j",
         "sidebar_prev": "k",
-        "close_sidebar": "return",
         # Actions
         "copy_first": "return",
     },
