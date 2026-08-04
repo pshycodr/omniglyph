@@ -21,6 +21,8 @@ on:
       - "uv.lock"
       - ".github/workflows/test.yml"
 
+  workflow_dispatch:
+
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
