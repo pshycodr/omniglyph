@@ -11,6 +11,8 @@ dependencies = [
     "ruff>=0.15.14",
     "pre-commit>=4.6.0",
     "tomli-w>=1.2.0",
+    "pytest>=9.1.1",
+    "pytest-xvfb>=3.1.1",
 ]
 
 [tool.ruff]
@@ -21,3 +23,17 @@ target-version = "py312"
 select = ["E", "F", "I"]
 
 ignore = ["E402"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "widget: requires GTK display (run under xvfb-run)",
+]
+filterwarnings = [
+    "ignore::DeprecationWarning:gi.overrides",
+]
+
+[dependency-groups]
+dev = [
+    "pytest-cov>=7.1.0",
+]

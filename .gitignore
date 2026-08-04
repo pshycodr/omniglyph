@@ -10,4 +10,11 @@ wheels/
 .venv
 archive/
 .vscode
+
+
 out
+.ruff_cache/
+.coverage
+coverage.xml
+.pytest_cache/
+htmlcov/
