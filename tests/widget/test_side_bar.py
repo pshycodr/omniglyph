@@ -1,7 +1,6 @@
 from unittest.mock import MagicMock
 
 import pytest
-
 from ui.side_bar import COLLECTIONS, SideBar
 
 

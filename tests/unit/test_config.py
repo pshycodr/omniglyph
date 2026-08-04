@@ -1,5 +1,4 @@
 import pytest
-
 from utils.config import Config
 
 

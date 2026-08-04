@@ -1,5 +1,4 @@
 import pytest
-
 from ui.symbol_grid import SymbolGrid
 
 

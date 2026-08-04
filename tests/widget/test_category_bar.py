@@ -1,5 +1,4 @@
 import pytest
-
 from ui.category_bar import CategoryBar
 
 

@@ -3,7 +3,6 @@ from unittest.mock import MagicMock
 
 import pytest
 from gi.repository import Gdk
-
 from window import AppWindow
 
 
@@ -275,9 +274,9 @@ def test_on_key_pressed_escape_quits_when_esc_action_quit(app_window, monkeypatc
     monkeypatch.setattr(
         app_window.config,
         "get",
-        lambda *a, **kw: "quit"
-        if a[:2] == ("behavior", "esc_action")
-        else kw.get("default"),
+        lambda *a, **kw: (
+            "quit" if a[:2] == ("behavior", "esc_action") else kw.get("default")
+        ),
     )
     closed = []
     monkeypatch.setattr(app_window, "_close_window", lambda: closed.append(True))

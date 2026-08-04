@@ -1,9 +1,7 @@
 import json
 from unittest.mock import MagicMock, patch
 
-import pytest
-
-from services.notification.app_update import _parse_version, _check_for_updates
+from services.notification.app_update import _check_for_updates, _parse_version
 
 
 def test_parse_version_strips_v_prefix():

@@ -1,7 +1,6 @@
 from unittest.mock import MagicMock
 
 import pytest
-
 from db.loader import CollectionLoader
 
 LOADER_METHODS = [

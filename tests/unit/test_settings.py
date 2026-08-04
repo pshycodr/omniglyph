@@ -1,7 +1,6 @@
 import json
 
 import pytest
-
 import utils.settings as settings_mod
 
 

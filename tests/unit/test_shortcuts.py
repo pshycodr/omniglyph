@@ -1,5 +1,4 @@
 from gi.repository import Gdk
-
 from shortcuts import _parse_shortcut
 
 
