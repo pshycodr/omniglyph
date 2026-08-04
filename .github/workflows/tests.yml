@@ -4,22 +4,22 @@ on:
   push:
     branches:
       - main
-  paths:
-    - "glyph/**"
-    - "tests/**"
-    - "pyproject.toml"
-    - "uv.lock"
-    - ".github/workflows/test.yml"
+    paths:
+      - "glyph/**"
+      - "tests/**"
+      - "pyproject.toml"
+      - "uv.lock"
+      - ".github/workflows/test.yml"
 
   pull_request:
     branches:
       - main
-  paths:
-    - "glyph/**"
-    - "tests/**"
-    - "pyproject.toml"
-    - "uv.lock"
-    - ".github/workflows/test.yml"
+    paths:
+      - "glyph/**"
+      - "tests/**"
+      - "pyproject.toml"
+      - "uv.lock"
+      - ".github/workflows/test.yml"
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
