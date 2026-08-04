@@ -1,0 +1,72 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  paths:
+    - "glyph/**"
+    - "tests/**"
+    - "pyproject.toml"
+    - "uv.lock"
+    - ".github/workflows/test.yml"
+
+  pull_request:
+    branches:
+      - main
+  paths:
+    - "glyph/**"
+    - "tests/**"
+    - "pyproject.toml"
+    - "uv.lock"
+    - ".github/workflows/test.yml"
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: Lint & Test
+    runs-on: ubuntu-latest
+
+    container:
+      image: archlinux:latest
+
+    steps:
+      - name: Install system dependencies
+        run: |
+          pacman -Syu --noconfirm \
+            nodejs \
+            python \
+            git \
+            curl \
+            gtk4 \
+            libadwaita \
+            gobject-introspection \
+            gtk4-layer-shell \
+            xorg-server-xvfb
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+
+      - name: Install Python dependencies
+        run: uv sync --group dev
+
+      - name: Lint
+        run: |
+          uv run ruff check .
+          uv run ruff format --check .
+
+      - name: Run test suite
+        run: |
+          xvfb-run -a \
+            uv run pytest \
+              -v \
+              --cov=glyph \
+              --cov-report=term-missing
