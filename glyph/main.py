@@ -72,5 +72,6 @@ class MyApp(Adw.Application):
         return 0
 
 
-app = MyApp()
-app.run(sys.argv)
+if __name__ == "__main__":
+    app = MyApp()
+    app.run(sys.argv)
