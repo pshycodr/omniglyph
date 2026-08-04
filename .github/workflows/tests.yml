@@ -39,10 +39,14 @@ jobs:
       - name: Install system dependencies
         run: |
           pacman -Syu --noconfirm \
-            nodejs \
+            base-devel \
+            pkgconf \
             python \
+            nodejs \
             git \
             curl \
+            glib2 \
+            cairo \
             gtk4 \
             libadwaita \
             gobject-introspection \
