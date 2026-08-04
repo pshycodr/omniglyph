@@ -1,0 +1,133 @@
+name: Bug Report
+description: Report a problem with OmniGlyph
+title: "[Bug]: "
+labels:
+  - bug
+  - triage
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug.
+
+        Before submitting, please search existing issues:
+        https://github.com/pshycodr/omniglyph/issues
+
+  - type: input
+    id: version
+    attributes:
+      label: OmniGlyph version
+      description: >
+        Run `omniglyph --version` if available, or check your install method's
+        version output.
+      placeholder: "1.1.0"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: install-method
+    attributes:
+      label: Installation method
+      description: How did you install OmniGlyph?
+      options:
+        - AUR (yay/paru/etc.)
+        - curl install script
+        - Built from source (GitHub release tarball)
+        - Built from source (git clone, main branch)
+        - Other (specify in description)
+    validations:
+      required: true
+
+  - type: textarea
+    id: system-info
+    attributes:
+      label: System information
+      description: |
+        Run the following and paste the full output.
+
+        This tells us your distro, GTK4/libadwaita versions,
+        window manager, and display protocol.
+
+      render: shell
+      value: |
+        echo "--- OS ---"
+        cat /etc/os-release | grep -E "^(NAME|VERSION)="
+
+        echo "--- Session ---"
+        echo "XDG_CURRENT_DESKTOP: $XDG_CURRENT_DESKTOP"
+        echo "XDG_SESSION_TYPE: $XDG_SESSION_TYPE"
+        echo "WAYLAND_DISPLAY: $WAYLAND_DISPLAY"
+
+        echo "--- GTK4 / Adwaita / layer-shell ---"
+        pkg-config --modversion gtk4 2>/dev/null || echo "gtk4: not found"
+        pkg-config --modversion libadwaita-1 2>/dev/null || echo "libadwaita-1: not found"
+        pkg-config --modversion gtk4-layer-shell-0 2>/dev/null || echo "gtk4-layer-shell: not found"
+
+        echo "--- Python / PyGObject ---"
+        python3 --version
+        python3 -c "import gi; print('PyGObject:', gi.__version__)" \
+          2>/dev/null || echo "PyGObject: import failed"
+
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Terminal output / error logs
+      description: |
+        Run OmniGlyph from a terminal and paste any output,
+        especially Gtk warnings or Python tracebacks.
+      render: shell
+    validations:
+      required: false
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: >
+        Describe the bug and explain what you expected instead.
+      placeholder: >
+        When I press Ctrl+H, the app crashes instead of showing history.
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Numbered steps, kept as minimal as possible.
+      placeholder: |
+        1. Launch OmniGlyph
+        2. Press "/"
+        3. Type "smile"
+        4. Press Ctrl+H
+    validations:
+      required: true
+
+  - type: textarea
+    id: config
+    attributes:
+      label: Relevant config.toml sections (if applicable)
+      description: |
+        If this involves configuration, paste the relevant
+        section from ~/.config/omniglyph/config.toml.
+      render: toml
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched existing issues and this has not already been reported.
+          required: true
+
+        - label: I am using a supported installation method.
+          required: true
+
+        - label: I included the requested system information.
+          required: true
